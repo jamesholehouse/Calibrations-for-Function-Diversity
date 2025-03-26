@@ -1,0 +1,299 @@
+Column1,AREA,OCC_CODE,AREA_NAME,TOT_EMP,OCC_TITLE,NORM_EMP
+136950,47380,11-1011,"Waco, TX",60.0,Chief Executives,6.0
+136951,47380,11-1021,"Waco, TX",1500.0,General and Operations Managers,150.0
+136952,47380,11-2021,"Waco, TX",60.0,Marketing Managers,6.0
+136953,47380,11-2022,"Waco, TX",240.0,Sales Managers,24.0
+136954,47380,11-3011,"Waco, TX",220.0,Administrative Services Managers,22.0
+136955,47380,11-3021,"Waco, TX",70.0,Computer and Information Systems Managers,7.0
+136956,47380,11-3031,"Waco, TX",170.0,Financial Managers,17.0
+136957,47380,11-3051,"Waco, TX",170.0,Industrial Production Managers,17.0
+136958,47380,11-3061,"Waco, TX",50.0,Purchasing Managers,5.0
+136959,47380,11-3071,"Waco, TX",50.0,"Transportation, Storage, and Distribution Managers",5.0
+136960,47380,11-3121,"Waco, TX",50.0,Human Resources Managers,5.0
+136961,47380,11-9021,"Waco, TX",220.0,Construction Managers,22.0
+136962,47380,11-9032,"Waco, TX",330.0,"Education Administrators, Elementary and Secondary School",33.0
+136963,47380,11-9041,"Waco, TX",80.0,Architectural and Engineering Managers,8.0
+136964,47380,11-9051,"Waco, TX",60.0,Food Service Managers,6.0
+136965,47380,11-9111,"Waco, TX",250.0,Medical and Health Services Managers,25.0
+136966,47380,11-9141,"Waco, TX",50.0,"Property, Real Estate, and Community Association Managers",5.0
+136967,47380,11-9151,"Waco, TX",30.0,Social and Community Service Managers,3.0
+136968,47380,11-9199,"Waco, TX",90.0,"Managers, All Other",9.0
+136971,47380,13-1031,"Waco, TX",1050.0,"Claims Adjusters, Examiners, and Investigators",105.0
+136972,47380,13-1041,"Waco, TX",160.0,Compliance Officers,16.0
+136973,47380,13-1051,"Waco, TX",160.0,Cost Estimators,16.0
+136974,47380,13-1071,"Waco, TX",350.0,Human Resources Specialists,35.0
+136975,47380,13-1081,"Waco, TX",100.0,Logisticians,10.0
+136976,47380,13-1111,"Waco, TX",120.0,Management Analysts,12.0
+136977,47380,13-1121,"Waco, TX",50.0,"Meeting, Convention, and Event Planners",5.0
+136978,47380,13-1131,"Waco, TX",30.0,Fundraisers,3.0
+136979,47380,13-1141,"Waco, TX",30.0,"Compensation, Benefits, and Job Analysis Specialists",3.0
+136980,47380,13-1151,"Waco, TX",200.0,Training and Development Specialists,20.0
+136981,47380,13-1161,"Waco, TX",150.0,Market Research Analysts and Marketing Specialists,15.0
+136982,47380,13-1199,"Waco, TX",1260.0,"Business Operations Specialists, All Other",126.0
+136983,47380,13-2011,"Waco, TX",560.0,Accountants and Auditors,56.0
+136984,47380,13-2031,"Waco, TX",60.0,Budget Analysts,6.0
+136985,47380,13-2041,"Waco, TX",40.0,Credit Analysts,4.0
+136986,47380,13-2051,"Waco, TX",70.0,Financial Analysts,7.0
+136987,47380,13-2052,"Waco, TX",40.0,Personal Financial Advisors,4.0
+136988,47380,13-2072,"Waco, TX",160.0,Loan Officers,16.0
+136989,47380,13-2081,"Waco, TX",50.0,"Tax Examiners and Collectors, and Revenue Agents",5.0
+136990,47380,13-2082,"Waco, TX",30.0,Tax Preparers,3.0
+136993,47380,15-1121,"Waco, TX",180.0,Computer Systems Analysts,18.0
+136994,47380,15-1122,"Waco, TX",40.0,Information Security Analysts,4.0
+136995,47380,15-1131,"Waco, TX",120.0,Computer Programmers,12.0
+136996,47380,15-1132,"Waco, TX",150.0,"Software Developers, Applications",15.0
+136997,47380,15-1133,"Waco, TX",60.0,"Software Developers, Systems Software",6.0
+136998,47380,15-1134,"Waco, TX",60.0,Web Developers,6.0
+136999,47380,15-1141,"Waco, TX",50.0,Database Administrators,5.0
+137000,47380,15-1142,"Waco, TX",180.0,Network and Computer Systems Administrators,18.0
+137001,47380,15-1143,"Waco, TX",30.0,Computer Network Architects,3.0
+137002,47380,15-1151,"Waco, TX",450.0,Computer User Support Specialists,45.0
+137003,47380,15-1152,"Waco, TX",100.0,Computer Network Support Specialists,10.0
+137004,47380,15-1199,"Waco, TX",130.0,"Computer Occupations, All Other",13.0
+137007,47380,17-1011,"Waco, TX",40.0,"Architects, Except Landscape and Naval",4.0
+137008,47380,17-2011,"Waco, TX",460.0,Aerospace Engineers,46.0
+137009,47380,17-2051,"Waco, TX",60.0,Civil Engineers,6.0
+137010,47380,17-2071,"Waco, TX",80.0,Electrical Engineers,8.0
+137011,47380,17-2112,"Waco, TX",110.0,Industrial Engineers,11.0
+137012,47380,17-2141,"Waco, TX",220.0,Mechanical Engineers,22.0
+137013,47380,17-3011,"Waco, TX",60.0,Architectural and Civil Drafters,6.0
+137014,47380,17-3013,"Waco, TX",70.0,Mechanical Drafters,7.0
+137015,47380,17-3019,"Waco, TX",40.0,"Drafters, All Other",4.0
+137016,47380,17-3021,"Waco, TX",280.0,Aerospace Engineering and Operations Technicians,28.0
+137017,47380,17-3022,"Waco, TX",120.0,Civil Engineering Technicians,12.0
+137018,47380,17-3023,"Waco, TX",60.0,Electrical and Electronics Engineering Technicians,6.0
+137019,47380,17-3027,"Waco, TX",40.0,Mechanical Engineering Technicians,4.0
+137021,47380,19-3031,"Waco, TX",90.0,"Clinical, Counseling, and School Psychologists",9.0
+137022,47380,19-4099,"Waco, TX",30.0,"Life, Physical, and Social Science Technicians, All Other",3.0
+137024,47380,21-1012,"Waco, TX",330.0,"Educational, Guidance, School, and Vocational Counselors",33.0
+137025,47380,21-1015,"Waco, TX",30.0,Rehabilitation Counselors,3.0
+137027,47380,21-1021,"Waco, TX",280.0,"Child, Family, and School Social Workers",28.0
+137028,47380,21-1022,"Waco, TX",90.0,Healthcare Social Workers,9.0
+137029,47380,21-1029,"Waco, TX",50.0,"Social Workers, All Other",5.0
+137030,47380,21-1092,"Waco, TX",100.0,Probation Officers and Correctional Treatment Specialists,10.0
+137031,47380,21-1093,"Waco, TX",280.0,Social and Human Service Assistants,28.0
+137032,47380,21-1094,"Waco, TX",50.0,Community Health Workers,5.0
+137033,47380,21-1099,"Waco, TX",40.0,"Community and Social Service Specialists, All Other",4.0
+137036,47380,23-1011,"Waco, TX",260.0,Lawyers,26.0
+137037,47380,23-1023,"Waco, TX",30.0,"Judges, Magistrate Judges, and Magistrates",3.0
+137038,47380,23-2011,"Waco, TX",120.0,Paralegals and Legal Assistants,12.0
+137041,47380,25-1071,"Waco, TX",70.0,"Health Specialties Teachers, Postsecondary",7.0
+137042,47380,25-1191,"Waco, TX",30.0,Graduate Teaching Assistants,3.0
+137043,47380,25-1194,"Waco, TX",390.0,"Vocational Education Teachers, Postsecondary",39.0
+137044,47380,25-2011,"Waco, TX",190.0,"Preschool Teachers, Except Special Education",19.0
+137045,47380,25-2012,"Waco, TX",150.0,"Kindergarten Teachers, Except Special Education",15.0
+137046,47380,25-2021,"Waco, TX",1200.0,"Elementary School Teachers, Except Special Education",120.0
+137047,47380,25-2022,"Waco, TX",720.0,"Middle School Teachers, Except Special and Career/Technical Education",72.0
+137048,47380,25-2031,"Waco, TX",1010.0,"Secondary School Teachers, Except Special and Career/Technical Education",101.0
+137049,47380,25-2032,"Waco, TX",130.0,"Career/Technical Education Teachers, Secondary School",13.0
+137050,47380,25-2052,"Waco, TX",110.0,"Special Education Teachers, Kindergarten and Elementary School",11.0
+137051,47380,25-2053,"Waco, TX",50.0,"Special Education Teachers, Middle School",5.0
+137052,47380,25-2054,"Waco, TX",60.0,"Special Education Teachers, Secondary School",6.0
+137054,47380,25-3097,"Waco, TX",410.0,"Teachers and Instructors, All Other, Except Substitute Teachers",41.0
+137055,47380,25-3098,"Waco, TX",530.0,Substitute Teachers,53.0
+137056,47380,25-4021,"Waco, TX",90.0,Librarians,9.0
+137057,47380,25-9031,"Waco, TX",250.0,Instructional Coordinators,25.0
+137058,47380,25-9041,"Waco, TX",930.0,Teacher Assistants,93.0
+137060,47380,27-1023,"Waco, TX",40.0,Floral Designers,4.0
+137061,47380,27-1024,"Waco, TX",120.0,Graphic Designers,12.0
+137062,47380,27-1026,"Waco, TX",90.0,Merchandise Displayers and Window Trimmers,9.0
+137064,47380,27-2022,"Waco, TX",180.0,Coaches and Scouts,18.0
+137066,47380,27-3031,"Waco, TX",260.0,Public Relations Specialists,26.0
+137067,47380,27-3041,"Waco, TX",100.0,Editors,10.0
+137068,47380,27-3091,"Waco, TX",30.0,Interpreters and Translators,3.0
+137069,47380,27-4012,"Waco, TX",40.0,Broadcast Technicians,4.0
+137072,47380,29-1031,"Waco, TX",40.0,Dietitians and Nutritionists,4.0
+137075,47380,29-1062,"Waco, TX",60.0,Family and General Practitioners,6.0
+137076,47380,29-1069,"Waco, TX",190.0,"Physicians and Surgeons, All Other",19.0
+137078,47380,29-1122,"Waco, TX",100.0,Occupational Therapists,10.0
+137080,47380,29-1124,"Waco, TX",40.0,Radiation Therapists,4.0
+137081,47380,29-1126,"Waco, TX",70.0,Respiratory Therapists,7.0
+137082,47380,29-1127,"Waco, TX",130.0,Speech-Language Pathologists,13.0
+137083,47380,29-1131,"Waco, TX",50.0,Veterinarians,5.0
+137084,47380,29-1141,"Waco, TX",1940.0,Registered Nurses,194.0
+137087,47380,29-2021,"Waco, TX",160.0,Dental Hygienists,16.0
+137088,47380,29-2032,"Waco, TX",50.0,Diagnostic Medical Sonographers,5.0
+137089,47380,29-2034,"Waco, TX",130.0,Radiologic Technologists,13.0
+137093,47380,29-2055,"Waco, TX",90.0,Surgical Technologists,9.0
+137094,47380,29-2056,"Waco, TX",110.0,Veterinary Technologists and Technicians,11.0
+137096,47380,29-2061,"Waco, TX",860.0,Licensed Practical and Licensed Vocational Nurses,86.0
+137097,47380,29-2071,"Waco, TX",130.0,Medical Records and Health Information Technicians,13.0
+137098,47380,29-2081,"Waco, TX",40.0,"Opticians, Dispensing",4.0
+137099,47380,29-2099,"Waco, TX",50.0,"Health Technologists and Technicians, All Other",5.0
+137100,47380,29-9011,"Waco, TX",60.0,Occupational Health and Safety Specialists,6.0
+137101,47380,29-9012,"Waco, TX",30.0,Occupational Health and Safety Technicians,3.0
+137105,47380,31-1013,"Waco, TX",150.0,Psychiatric Aides,15.0
+137106,47380,31-1014,"Waco, TX",1420.0,Nursing Assistants,142.0
+137108,47380,31-2021,"Waco, TX",80.0,Physical Therapist Assistants,8.0
+137109,47380,31-2022,"Waco, TX",50.0,Physical Therapist Aides,5.0
+137110,47380,31-9091,"Waco, TX",210.0,Dental Assistants,21.0
+137111,47380,31-9092,"Waco, TX",570.0,Medical Assistants,57.0
+137112,47380,31-9096,"Waco, TX",50.0,Veterinary Assistants and Laboratory Animal Caretakers,5.0
+137114,47380,33-1011,"Waco, TX",70.0,First-Line Supervisors of Correctional Officers,7.0
+137115,47380,33-1012,"Waco, TX",40.0,First-Line Supervisors of Police and Detectives,4.0
+137116,47380,33-1099,"Waco, TX",30.0,"First-Line Supervisors of Protective Service Workers, All Other",3.0
+137117,47380,33-2011,"Waco, TX",220.0,Firefighters,22.0
+137118,47380,33-3012,"Waco, TX",850.0,Correctional Officers and Jailers,85.0
+137119,47380,33-3021,"Waco, TX",80.0,Detectives and Criminal Investigators,8.0
+137120,47380,33-9032,"Waco, TX",690.0,Security Guards,69.0
+137121,47380,33-9091,"Waco, TX",40.0,Crossing Guards,4.0
+137122,47380,33-9092,"Waco, TX",30.0,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",3.0
+137123,47380,33-9099,"Waco, TX",30.0,"Protective Service Workers, All Other",3.0
+137125,47380,35-1011,"Waco, TX",40.0,Chefs and Head Cooks,4.0
+137126,47380,35-1012,"Waco, TX",940.0,First-Line Supervisors of Food Preparation and Serving Workers,94.0
+137127,47380,35-2011,"Waco, TX",300.0,"Cooks, Fast Food",30.0
+137128,47380,35-2012,"Waco, TX",490.0,"Cooks, Institution and Cafeteria",49.0
+137129,47380,35-2014,"Waco, TX",1010.0,"Cooks, Restaurant",101.0
+137131,47380,35-2021,"Waco, TX",610.0,Food Preparation Workers,61.0
+137132,47380,35-3011,"Waco, TX",260.0,Bartenders,26.0
+137133,47380,35-3021,"Waco, TX",3890.0,"Combined Food Preparation and Serving Workers, Including Fast Food",389.0
+137135,47380,35-3031,"Waco, TX",2050.0,Waiters and Waitresses,205.0
+137136,47380,35-3041,"Waco, TX",70.0,"Food Servers, Nonrestaurant",7.0
+137137,47380,35-9011,"Waco, TX",330.0,Dining Room and Cafeteria Attendants and Bartender Helpers,33.0
+137138,47380,35-9021,"Waco, TX",330.0,Dishwashers,33.0
+137139,47380,35-9031,"Waco, TX",220.0,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",22.0
+137141,47380,37-1011,"Waco, TX",50.0,First-Line Supervisors of Housekeeping and Janitorial Workers,5.0
+137142,47380,37-1012,"Waco, TX",40.0,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",4.0
+137143,47380,37-2011,"Waco, TX",1990.0,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",199.0
+137144,47380,37-2012,"Waco, TX",880.0,Maids and Housekeeping Cleaners,88.0
+137145,47380,37-3011,"Waco, TX",830.0,Landscaping and Groundskeeping Workers,83.0
+137147,47380,39-1021,"Waco, TX",110.0,First-Line Supervisors of Personal Service Workers,11.0
+137148,47380,39-2021,"Waco, TX",130.0,Nonfarm Animal Caretakers,13.0
+137149,47380,39-3019,"Waco, TX",40.0,"Gaming Service Workers, All Other",4.0
+137150,47380,39-3031,"Waco, TX",70.0,"Ushers, Lobby Attendants, and Ticket Takers",7.0
+137151,47380,39-3091,"Waco, TX",80.0,Amusement and Recreation Attendants,8.0
+137152,47380,39-5012,"Waco, TX",220.0,"Hairdressers, Hairstylists, and Cosmetologists",22.0
+137153,47380,39-9011,"Waco, TX",570.0,Childcare Workers,57.0
+137154,47380,39-9021,"Waco, TX",1920.0,Personal Care Aides,192.0
+137156,47380,39-9032,"Waco, TX",160.0,Recreation Workers,16.0
+137158,47380,41-1011,"Waco, TX",1040.0,First-Line Supervisors of Retail Sales Workers,104.0
+137159,47380,41-1012,"Waco, TX",110.0,First-Line Supervisors of Non-Retail Sales Workers,11.0
+137160,47380,41-2011,"Waco, TX",2910.0,Cashiers,291.0
+137161,47380,41-2021,"Waco, TX",450.0,Counter and Rental Clerks,45.0
+137163,47380,41-2031,"Waco, TX",3660.0,Retail Salespersons,366.0
+137164,47380,41-3011,"Waco, TX",80.0,Advertising Sales Agents,8.0
+137165,47380,41-3021,"Waco, TX",280.0,Insurance Sales Agents,28.0
+137166,47380,41-3031,"Waco, TX",160.0,"Securities, Commodities, and Financial Services Sales Agents",16.0
+137167,47380,41-3099,"Waco, TX",870.0,"Sales Representatives, Services, All Other",87.0
+137168,47380,41-4011,"Waco, TX",80.0,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",8.0
+137169,47380,41-4012,"Waco, TX",870.0,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",87.0
+137170,47380,41-9022,"Waco, TX",130.0,Real Estate Sales Agents,13.0
+137171,47380,41-9099,"Waco, TX",100.0,"Sales and Related Workers, All Other",10.0
+137173,47380,43-1011,"Waco, TX",1020.0,First-Line Supervisors of Office and Administrative Support Workers,102.0
+137175,47380,43-3011,"Waco, TX",160.0,Bill and Account Collectors,16.0
+137176,47380,43-3021,"Waco, TX",220.0,Billing and Posting Clerks,22.0
+137177,47380,43-3031,"Waco, TX",1110.0,"Bookkeeping, Accounting, and Auditing Clerks",111.0
+137178,47380,43-3051,"Waco, TX",120.0,Payroll and Timekeeping Clerks,12.0
+137179,47380,43-3071,"Waco, TX",520.0,Tellers,52.0
+137180,47380,43-4011,"Waco, TX",70.0,Brokerage Clerks,7.0
+137181,47380,43-4031,"Waco, TX",120.0,"Court, Municipal, and License Clerks",12.0
+137183,47380,43-4051,"Waco, TX",3860.0,Customer Service Representatives,386.0
+137184,47380,43-4061,"Waco, TX",480.0,"Eligibility Interviewers, Government Programs",48.0
+137185,47380,43-4071,"Waco, TX",90.0,File Clerks,9.0
+137186,47380,43-4081,"Waco, TX",260.0,"Hotel, Motel, and Resort Desk Clerks",26.0
+137187,47380,43-4111,"Waco, TX",40.0,"Interviewers, Except Eligibility and Loan",4.0
+137188,47380,43-4121,"Waco, TX",50.0,"Library Assistants, Clerical",5.0
+137189,47380,43-4131,"Waco, TX",150.0,Loan Interviewers and Clerks,15.0
+137190,47380,43-4141,"Waco, TX",80.0,New Accounts Clerks,8.0
+137191,47380,43-4151,"Waco, TX",170.0,Order Clerks,17.0
+137192,47380,43-4161,"Waco, TX",80.0,"Human Resources Assistants, Except Payroll and Timekeeping",8.0
+137193,47380,43-4171,"Waco, TX",420.0,Receptionists and Information Clerks,42.0
+137194,47380,43-4199,"Waco, TX",140.0,"Information and Record Clerks, All Other",14.0
+137195,47380,43-5021,"Waco, TX",40.0,Couriers and Messengers,4.0
+137196,47380,43-5031,"Waco, TX",50.0,"Police, Fire, and Ambulance Dispatchers",5.0
+137197,47380,43-5032,"Waco, TX",170.0,"Dispatchers, Except Police, Fire, and Ambulance",17.0
+137198,47380,43-5041,"Waco, TX",60.0,"Meter Readers, Utilities",6.0
+137199,47380,43-5051,"Waco, TX",50.0,Postal Service Clerks,5.0
+137200,47380,43-5052,"Waco, TX",270.0,Postal Service Mail Carriers,27.0
+137201,47380,43-5061,"Waco, TX",320.0,"Production, Planning, and Expediting Clerks",32.0
+137202,47380,43-5071,"Waco, TX",700.0,"Shipping, Receiving, and Traffic Clerks",70.0
+137203,47380,43-5081,"Waco, TX",1700.0,Stock Clerks and Order Fillers,170.0
+137204,47380,43-5111,"Waco, TX",200.0,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",20.0
+137205,47380,43-6011,"Waco, TX",330.0,Executive Secretaries and Executive Administrative Assistants,33.0
+137206,47380,43-6012,"Waco, TX",70.0,Legal Secretaries,7.0
+137207,47380,43-6013,"Waco, TX",950.0,Medical Secretaries,95.0
+137208,47380,43-6014,"Waco, TX",1870.0,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",187.0
+137210,47380,43-9021,"Waco, TX",200.0,Data Entry Keyers,20.0
+137212,47380,43-9051,"Waco, TX",50.0,"Mail Clerks and Mail Machine Operators, Except Postal Service",5.0
+137213,47380,43-9061,"Waco, TX",3320.0,"Office Clerks, General",332.0
+137214,47380,43-9071,"Waco, TX",50.0,"Office Machine Operators, Except Computer",5.0
+137217,47380,47-1011,"Waco, TX",580.0,First-Line Supervisors of Construction Trades and Extraction Workers,58.0
+137218,47380,47-2021,"Waco, TX",190.0,Brickmasons and Blockmasons,19.0
+137219,47380,47-2031,"Waco, TX",420.0,Carpenters,42.0
+137221,47380,47-2051,"Waco, TX",340.0,Cement Masons and Concrete Finishers,34.0
+137222,47380,47-2061,"Waco, TX",890.0,Construction Laborers,89.0
+137223,47380,47-2071,"Waco, TX",100.0,"Paving, Surfacing, and Tamping Equipment Operators",10.0
+137224,47380,47-2073,"Waco, TX",410.0,Operating Engineers and Other Construction Equipment Operators,41.0
+137225,47380,47-2081,"Waco, TX",80.0,Drywall and Ceiling Tile Installers,8.0
+137226,47380,47-2111,"Waco, TX",520.0,Electricians,52.0
+137228,47380,47-2132,"Waco, TX",90.0,"Insulation Workers, Mechanical",9.0
+137229,47380,47-2141,"Waco, TX",110.0,"Painters, Construction and Maintenance",11.0
+137230,47380,47-2152,"Waco, TX",470.0,"Plumbers, Pipefitters, and Steamfitters",47.0
+137231,47380,47-2181,"Waco, TX",170.0,Roofers,17.0
+137232,47380,47-2211,"Waco, TX",120.0,Sheet Metal Workers,12.0
+137233,47380,47-3011,"Waco, TX",120.0,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",12.0
+137234,47380,47-3013,"Waco, TX",100.0,Helpers--Electricians,10.0
+137235,47380,47-3015,"Waco, TX",80.0,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",8.0
+137236,47380,47-4011,"Waco, TX",60.0,Construction and Building Inspectors,6.0
+137238,47380,47-4051,"Waco, TX",170.0,Highway Maintenance Workers,17.0
+137240,47380,49-1011,"Waco, TX",380.0,"First-Line Supervisors of Mechanics, Installers, and Repairers",38.0
+137241,47380,49-2011,"Waco, TX",60.0,"Computer, Automated Teller, and Office Machine Repairers",6.0
+137244,47380,49-2098,"Waco, TX",90.0,Security and Fire Alarm Systems Installers,9.0
+137245,47380,49-3011,"Waco, TX",260.0,Aircraft Mechanics and Service Technicians,26.0
+137246,47380,49-3021,"Waco, TX",80.0,Automotive Body and Related Repairers,8.0
+137247,47380,49-3023,"Waco, TX",610.0,Automotive Service Technicians and Mechanics,61.0
+137248,47380,49-3031,"Waco, TX",240.0,Bus and Truck Mechanics and Diesel Engine Specialists,24.0
+137249,47380,49-3042,"Waco, TX",190.0,"Mobile Heavy Equipment Mechanics, Except Engines",19.0
+137252,47380,49-3093,"Waco, TX",60.0,Tire Repairers and Changers,6.0
+137253,47380,49-9012,"Waco, TX",110.0,"Control and Valve Installers and Repairers, Except Mechanical Door",11.0
+137254,47380,49-9021,"Waco, TX",350.0,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",35.0
+137255,47380,49-9041,"Waco, TX",320.0,Industrial Machinery Mechanics,32.0
+137256,47380,49-9043,"Waco, TX",90.0,"Maintenance Workers, Machinery",9.0
+137258,47380,49-9052,"Waco, TX",120.0,Telecommunications Line Installers and Repairers,12.0
+137259,47380,49-9071,"Waco, TX",1040.0,"Maintenance and Repair Workers, General",104.0
+137260,47380,49-9098,"Waco, TX",180.0,"Helpers--Installation, Maintenance, and Repair Workers",18.0
+137261,47380,49-9099,"Waco, TX",100.0,"Installation, Maintenance, and Repair Workers, All Other",10.0
+137263,47380,51-1011,"Waco, TX",550.0,First-Line Supervisors of Production and Operating Workers,55.0
+137265,47380,51-2031,"Waco, TX",40.0,Engine and Other Machine Assemblers,4.0
+137266,47380,51-2041,"Waco, TX",110.0,Structural Metal Fabricators and Fitters,11.0
+137267,47380,51-2098,"Waco, TX",2050.0,"Assemblers and Fabricators, All Other, Including Team Assemblers",205.0
+137268,47380,51-3011,"Waco, TX",170.0,Bakers,17.0
+137269,47380,51-3021,"Waco, TX",70.0,Butchers and Meat Cutters,7.0
+137270,47380,51-3092,"Waco, TX",170.0,Food Batchmakers,17.0
+137272,47380,51-4031,"Waco, TX",90.0,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",9.0
+137273,47380,51-4041,"Waco, TX",180.0,Machinists,18.0
+137274,47380,51-4111,"Waco, TX",40.0,Tool and Die Makers,4.0
+137275,47380,51-4121,"Waco, TX",440.0,"Welders, Cutters, Solderers, and Brazers",44.0
+137276,47380,51-4122,"Waco, TX",50.0,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",5.0
+137277,47380,51-5112,"Waco, TX",170.0,Printing Press Operators,17.0
+137278,47380,51-6011,"Waco, TX",140.0,Laundry and Dry-Cleaning Workers,14.0
+137279,47380,51-6021,"Waco, TX",40.0,"Pressers, Textile, Garment, and Related Materials",4.0
+137280,47380,51-6031,"Waco, TX",170.0,Sewing Machine Operators,17.0
+137281,47380,51-7011,"Waco, TX",70.0,Cabinetmakers and Bench Carpenters,7.0
+137282,47380,51-7042,"Waco, TX",50.0,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",5.0
+137283,47380,51-8031,"Waco, TX",130.0,Water and Wastewater Treatment Plant and System Operators,13.0
+137284,47380,51-9021,"Waco, TX",100.0,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",10.0
+137285,47380,51-9023,"Waco, TX",120.0,"Mixing and Blending Machine Setters, Operators, and Tenders",12.0
+137287,47380,51-9032,"Waco, TX",100.0,"Cutting and Slicing Machine Setters, Operators, and Tenders",10.0
+137288,47380,51-9041,"Waco, TX",140.0,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",14.0
+137289,47380,51-9061,"Waco, TX",580.0,"Inspectors, Testers, Sorters, Samplers, and Weighers",58.0
+137290,47380,51-9081,"Waco, TX",70.0,Dental Laboratory Technicians,7.0
+137291,47380,51-9111,"Waco, TX",890.0,Packaging and Filling Machine Operators and Tenders,89.0
+137292,47380,51-9121,"Waco, TX",40.0,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",4.0
+137293,47380,51-9122,"Waco, TX",110.0,"Painters, Transportation Equipment",11.0
+137294,47380,51-9123,"Waco, TX",90.0,"Painting, Coating, and Decorating Workers",9.0
+137296,47380,51-9198,"Waco, TX",430.0,Helpers--Production Workers,43.0
+137297,47380,51-9199,"Waco, TX",140.0,"Production Workers, All Other",14.0
+137299,47380,53-1048,"Waco, TX",210.0,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",21.0
+137300,47380,53-3022,"Waco, TX",530.0,"Bus Drivers, School or Special Client",53.0
+137301,47380,53-3031,"Waco, TX",510.0,Driver/Sales Workers,51.0
+137302,47380,53-3032,"Waco, TX",1450.0,Heavy and Tractor-Trailer Truck Drivers,145.0
+137303,47380,53-3033,"Waco, TX",810.0,Light Truck or Delivery Services Drivers,81.0
+137304,47380,53-3041,"Waco, TX",90.0,Taxi Drivers and Chauffeurs,9.0
+137305,47380,53-6031,"Waco, TX",110.0,Automotive and Watercraft Service Attendants,11.0
+137306,47380,53-7032,"Waco, TX",110.0,Excavating and Loading Machine and Dragline Operators,11.0
+137307,47380,53-7051,"Waco, TX",910.0,Industrial Truck and Tractor Operators,91.0
+137308,47380,53-7061,"Waco, TX",320.0,Cleaners of Vehicles and Equipment,32.0
+137309,47380,53-7062,"Waco, TX",1440.0,"Laborers and Freight, Stock, and Material Movers, Hand",144.0
+137310,47380,53-7063,"Waco, TX",220.0,Machine Feeders and Offbearers,22.0
+137312,47380,53-7081,"Waco, TX",60.0,Refuse and Recyclable Material Collectors,6.0
