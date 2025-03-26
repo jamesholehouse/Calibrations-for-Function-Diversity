@@ -1,4 +1,4 @@
-The structure of this code is as follows. There are 4 folders in the highest level directory, which are,
+The structure of this code is as follows. There are 4 folders in the highest level directory:
 
 1. Bacterial_Cells: containing the data analysis and calibration code and results for the bacterial cell protein abundance data.
 2. Cities: containing the data analysis and calibration code and results for the city employee data.
