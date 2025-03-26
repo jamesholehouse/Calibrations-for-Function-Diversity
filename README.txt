@@ -23,4 +23,4 @@ To run this code, please make sure you have all the relevant Julia packages inst
 
 In the above code the "-t $NUM" refers to the number of cores that the code should be run on, since the main for loop conducting the calibrations is run in parallel.
 
-Slurm scripts can be provided upon request.
+Slurm scripts can be provided upon request. Please email at jamesholehouse1@gmail.com.
