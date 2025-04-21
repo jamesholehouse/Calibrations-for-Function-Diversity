@@ -4,6 +4,7 @@ The structure of this repo is as follows. There are 4 folders in the highest lev
 2. Cities: containing the data analysis and calibration code and results for the city employee data.
 3. Federal_Agencies: containing the data analysis and calibration code and results for the federal agency employee data.
 4. Simulation_Code: containing the code required to simulate organizations from both naive and prescribed initial conditions.
+5. Rank-freq plot replication folder: containing code necessary to reproduce the diversity scaling exponents and rank-frequency plots. Also contains the data for the universities and the companies.
 
 The first 3 of these folders contains several elements:
 
