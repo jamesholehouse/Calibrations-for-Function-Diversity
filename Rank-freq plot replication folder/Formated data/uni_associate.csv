@@ -1,0 +1,951 @@
+,UNITID,N,D,INSTNM,mySector
+1,100760,253,9,Central Alabama Community College,associate
+2,101028,242,11,Chattahoochee Valley Community College,associate
+5,101143,291,10,Enterprise State Community College,associate
+6,101161,511,16,James H Faulkner State Community College,associate
+8,101240,554,21,Gadsden State Community College,associate
+9,101286,595,18,George C Wallace Community College-Dothan,associate
+10,101295,780,30,George C Wallace State Community College-Hanceville,associate
+11,101301,221,9,George C Wallace State Community College-Selma,associate
+13,101462,85,14,J F Drake State Community and Technical College,associate
+14,101499,177,5,Jefferson Davis Community College,associate
+15,101505,920,19,Jefferson State Community College,associate
+16,101514,1192,15,John C Calhoun State Community College,associate
+18,101569,220,14,Lawson State Community College-Birmingham Campus,associate
+20,101602,220,9,Lurleen B Wallace Community College,associate
+23,101736,317,14,Northwest-Shoals Community College,associate
+24,101897,331,14,Northeast Alabama Community College,associate
+26,101949,166,6,Alabama Southern Community College,associate
+29,102030,266,17,Bishop State Community College,associate
+31,102067,478,14,Shelton State Community College,associate
+32,102076,452,7,Snead State Community College,associate
+34,102313,175,19,H Councill Trenholm State Community College,associate
+36,102429,424,12,Bevill State Community College,associate
+48,104160,852,56,Arizona Western College,associate
+49,104346,589,32,Central Arizona College,associate
+51,104425,1356,46,Cochise County Community College District,associate
+52,104577,497,41,Eastern Arizona College,associate
+53,104708,1944,35,Glendale Community College,associate
+54,105145,649,29,GateWay Community College,associate
+55,105154,2226,49,Mesa Community College,associate
+56,105206,451,36,Mohave Community College,associate
+58,105349,170,15,Northland Pioneer College,associate
+59,105428,1110,42,Phoenix College,associate
+60,105525,2705,52,Pima Community College,associate
+64,105668,667,29,Rio Salado College,associate
+65,105747,1010,36,Scottsdale Community College,associate
+66,105792,563,19,South Mountain Community College,associate
+69,106148,558,30,Yavapai College,associate
+74,106449,753,22,Arkansas State University-Beebe,associate
+78,106625,254,14,Black River Technical College,associate
+81,106795,191,17,Cossatot Community College of the University of Arkansas,associate
+83,106883,107,9,East Arkansas Community College,associate
+84,106980,322,20,National Park College,associate
+85,106999,234,8,University of Arkansas Community College-Batesville,associate
+89,107318,127,11,Arkansas State University Mid-South,associate
+90,107327,107,11,Arkansas Northeastern College,associate
+91,107460,338,14,North Arkansas College,associate
+93,107521,160,12,College of the Ouachitas,associate
+94,107549,181,11,Ozarka College,associate
+95,107585,427,14,University of Arkansas Community College-Morrilton,associate
+96,107619,130,11,Phillips Community College of the University of Arkansas,associate
+97,107637,213,15,Southeast Arkansas College,associate
+98,107664,1139,26,Pulaski Technical College,associate
+99,107725,178,13,University of Arkansas Community College-Hope,associate
+100,107743,96,7,University of Arkansas Community College Rich Mountain,associate
+103,107974,185,18,South Arkansas Community College,associate
+105,107992,139,13,Southern Arkansas University Tech,associate
+108,108667,286,23,College of Alameda,associate
+109,108807,1200,53,Allan Hancock College,associate
+112,109208,2643,78,American River College,associate
+113,109350,1744,64,Antelope Valley College,associate
+114,109819,1090,52,Bakersfield College,associate
+115,109907,292,17,Barstow Community College,associate
+117,110246,1526,61,Butte College,associate
+118,110334,1361,56,Cabrillo College,associate
+121,111434,485,39,Canada College,associate
+122,111461,1617,56,College of the Canyons,associate
+124,111887,1613,77,Cerritos College,associate
+125,111896,296,21,Cerro Coso Community College,associate
+126,111920,794,48,Chabot College,associate
+127,111939,2439,74,Chaffey College,associate
+130,112172,2931,38,Citrus College,associate
+131,112190,1548,67,City College of San Francisco,associate
+132,112385,2097,28,Coastline Community College,associate
+134,112561,255,28,Columbia College,associate
+136,112686,386,33,El Camino College-Compton Center,associate
+137,112826,599,35,Contra Costa College,associate
+138,113096,697,56,Cosumnes River College,associate
+139,113111,625,36,Crafton Hills College,associate
+140,113193,1047,55,Cuesta College,associate
+141,113218,759,41,Cuyamaca College,associate
+142,113236,1192,50,Cypress College,associate
+143,113333,1808,43,De Anza College,associate
+144,113573,779,49,College of the Desert,associate
+145,113634,1645,65,Diablo Valley College,associate
+146,113856,2017,40,East Los Angeles College,associate
+147,113980,2463,64,El Camino Community College District,associate
+148,114123,75,6,Empire College,associate
+149,114266,576,23,Evergreen Valley College,associate
+152,114433,207,23,Feather River Community College District,associate
+153,114716,1096,48,Foothill College,associate
+154,114789,1373,71,Fresno City College,associate
+155,114859,1851,65,Fullerton College,associate
+156,114938,507,35,Gavilan College,associate
+157,115001,742,53,Glendale Community College,associate
+159,115126,1316,41,Golden West College,associate
+160,115296,1946,59,Grossmont College,associate
+161,115393,981,36,Hartnell College,associate
+163,115861,1147,50,Imperial Valley College,associate
+165,116439,1170,47,Irvine Valley College,associate
+166,117052,710,40,Reedley College,associate
+170,117195,205,27,Lake Tahoe Community College,associate
+171,117247,528,31,Laney College,associate
+172,117274,236,23,Lassen Community College,associate
+175,117645,1212,63,Long Beach City College,associate
+176,117690,884,25,Los Angeles Harbor College,associate
+177,117706,1755,43,Los Angeles Pierce College,associate
+178,117715,751,26,Los Angeles Southwest College,associate
+179,117724,493,42,Los Angeles Trade Technical College,associate
+180,117733,1077,51,Los Angeles Valley College,associate
+181,117788,672,45,Los Angeles City College,associate
+183,117867,794,28,Los Angeles Mission College,associate
+184,117894,1212,39,Los Medanos College,associate
+190,118347,338,34,College of Marin,associate
+192,118684,311,34,Mendocino College,associate
+193,118718,1028,65,Merced College,associate
+194,118772,398,28,Merritt College,associate
+195,118912,1529,45,MiraCosta College,associate
+196,118930,510,35,Mission College,associate
+198,118976,1549,60,Modesto Junior College,associate
+199,119067,469,51,Monterey Peninsula College,associate
+200,119137,1931,48,Moorpark College,associate
+201,119164,2211,70,Mt San Antonio College,associate
+203,119216,1882,41,Mt San Jacinto Community College District,associate
+205,119331,722,36,Napa Valley College,associate
+207,120290,935,43,Ohlone College,associate
+208,120342,2063,77,Orange Coast College,associate
+209,120421,793,38,Oxnard College,associate
+213,120953,145,6,Palo Verde College,associate
+214,120971,1941,76,Palomar College,associate
+215,121044,3963,60,Pasadena City College,associate
+217,121363,434,18,Porterville College,associate
+218,121619,2373,68,Santa Ana College,associate
+219,121707,632,21,College of the Redwoods,associate
+220,121886,1283,46,Rio Hondo College,associate
+221,121901,1852,53,Riverside City College,associate
+223,122180,1576,67,Sacramento City College,associate
+224,122205,1415,74,Saddleback College,associate
+225,122339,812,55,San Diego City College,associate
+227,122375,1338,59,San Diego Mesa College,associate
+228,122384,757,43,San Diego Miramar College,associate
+229,122658,2406,63,San Joaquin Delta College,associate
+230,122685,1953,23,San Joaquin Valley College-Visalia,associate
+231,122746,644,35,San Jose City College,associate
+232,122791,715,42,College of San Mateo,associate
+235,122889,1850,64,Santa Barbara City College,associate
+236,122977,3362,49,Santa Monica College,associate
+237,123013,2197,78,Santa Rosa Junior College,associate
+238,123217,1203,54,College of the Sequoias,associate
+239,123299,680,41,Shasta College,associate
+240,123341,2594,67,Sierra College,associate
+241,123484,188,27,College of the Siskiyous,associate
+242,123509,744,37,Skyline College,associate
+243,123527,1066,45,San Bernardino Valley College,associate
+244,123563,1406,53,Solano Community College,associate
+248,123800,1671,81,Southwestern College,associate
+249,124113,363,27,Taft College,associate
+253,125028,1609,43,Ventura College,associate
+254,125091,1027,29,Victor Valley College,associate
+255,125170,344,27,Berkeley City College,associate
+256,125462,268,18,West Hills College-Coalinga,associate
+257,125471,478,37,West Los Angeles College,associate
+258,125499,809,43,West Valley College,associate
+260,126119,718,41,Yuba College,associate
+262,126207,556,34,Aims Community College,associate
+263,126289,779,27,Arapahoe Community College,associate
+271,126748,138,11,Colorado Northwestern Community College,associate
+274,126863,631,21,Community College of Aurora,associate
+276,126942,736,21,Community College of Denver,associate
+278,127200,2002,27,Front Range Community College,associate
+279,127389,120,12,Lamar Community College,associate
+281,127617,176,12,Morgan Community College,associate
+284,127732,277,16,Northeastern Junior College,associate
+285,127778,180,12,Otero Junior College,associate
+287,127820,1569,38,Pikes Peak Community College,associate
+289,127884,703,30,Pueblo Community College,associate
+290,127909,771,35,Red Rocks Community College,associate
+291,128179,340,7,Intellitec College-Colorado Springs,associate
+292,128188,190,5,Intellitec College-Grand Junction,associate
+293,128258,270,20,Trinidad State Junior College,associate
+295,128577,193,10,Asnuntuck Community College,associate
+302,129367,404,22,Capital Community College,associate
+305,129543,462,18,Housatonic Community College,associate
+306,129695,851,38,Manchester Community College,associate
+307,129729,912,27,Naugatuck Valley Community College,associate
+308,129756,393,20,Middlesex Community College,associate
+310,129808,546,31,Three Rivers Community College,associate
+312,130004,596,25,Norwalk Community College,associate
+313,130040,189,17,Northwestern Connecticut Community College,associate
+316,130217,210,16,Quinebaug Valley Community College,associate
+318,130396,773,35,Gateway Community College,associate
+320,130606,386,15,Tunxis Community College,associate
+322,130907,1617,80,Delaware Technical Community College-Terry,associate
+353,133960,172,8,Florida Keys Community College,associate
+362,134495,3565,37,Hillsborough Community College,associate
+376,136145,201,5,North Florida Community College,associate
+394,137759,2543,22,Tallahassee Community College,associate
+407,138682,289,29,Albany Technical College,associate
+409,138761,56,17,Andrew College,associate
+412,138840,273,25,Atlanta Technical College,associate
+415,138956,352,28,Augusta Technical College,associate
+416,139010,198,11,Bainbridge State College,associate
+422,139278,384,19,West Georgia Technical College,associate
+425,139357,427,24,Columbus Technical College,associate
+427,139384,421,31,Georgia Northwestern Technical College,associate
+434,139986,275,29,Southern Crescent Technical College,associate
+437,140012,673,29,Gwinnett Technical College,associate
+438,140243,246,29,Lanier Technical College,associate
+440,140331,572,31,Chattahoochee Technical College,associate
+442,140678,182,18,North Georgia Technical College,associate
+444,140942,276,26,Savannah Technical College,associate
+447,141006,126,14,South Georgia Technical College,associate
+451,141255,201,30,Wiregrass Georgia Technical College,associate
+456,141680,579,25,Honolulu Community College,associate
+457,141796,1117,19,Kapiolani Community College,associate
+458,141802,167,14,Kauai Community College,associate
+459,141811,948,14,Leeward Community College,associate
+465,142179,118,11,Eastern Idaho Technical College,associate
+468,142443,746,59,North Idaho College,associate
+471,142559,919,73,College of Southern Idaho,associate
+472,143215,1306,53,Southwestern Illinois College,associate
+473,143279,559,23,Black Hawk College,associate
+475,143613,341,20,Carl Sandburg College,associate
+476,144157,534,19,City Colleges of Chicago-Kennedy-King College,associate
+477,144166,508,13,City Colleges of Chicago-Malcolm X College,associate
+478,144175,430,9,City Colleges of Chicago-Olive-Harvey College,associate
+479,144184,763,12,City Colleges of Chicago-Harry S Truman College,associate
+480,144193,506,13,City Colleges of Chicago-Richard J Daley College,associate
+481,144209,1135,17,City Colleges of Chicago-Harold Washington College,associate
+482,144218,1136,17,City Colleges of Chicago-Wilbur Wright College,associate
+485,144564,360,24,Danville Area Community College,associate
+486,144865,2746,66,College of DuPage,associate
+488,144944,1221,34,Elgin Community College,associate
+491,145521,264,18,Highland Community College,associate
+493,145682,1244,49,Illinois Central College,associate
+494,145707,328,14,Olney Central College,associate
+495,145831,518,24,Illinois Valley Community College,associate
+497,146205,445,35,John A Logan College,associate
+498,146278,321,24,John Wood Community College,associate
+499,146296,1607,50,Joliet Junior College,associate
+500,146348,422,24,Kankakee Community College,associate
+501,146366,596,36,Kaskaskia College,associate
+503,146418,480,23,Kishwaukee College,associate
+504,146472,1477,49,College of Lake County,associate
+505,146506,892,37,Lake Land College,associate
+506,146603,809,31,Lewis and Clark Community College,associate
+510,146685,1063,36,Lincoln Land Community College,associate
+515,147004,817,30,McHenry County College,associate
+519,147378,2004,38,Moraine Valley Community College,associate
+521,147411,459,16,Morton College,associate
+523,147749,71,8,Northwestern College-Chicago Campus,associate
+524,147800,783,31,Oakton Community College,associate
+526,147916,816,45,Parkland College,associate
+527,148007,431,21,Prairie State College,associate
+531,148256,567,33,Rend Lake College,associate
+532,148292,339,31,Richland Community College,associate
+534,148380,1116,27,Rock Valley College,associate
+535,148399,96,8,Madison Media Institute-Rockford Career College,associate
+536,148672,278,22,Sauk Valley Community College,associate
+537,148821,284,19,Shawnee Community College,associate
+539,148937,294,18,Southeastern Illinois College,associate
+540,148991,206,9,Spoon River College,associate
+543,149365,404,24,South Suburban College,associate
+544,149532,878,27,Triton College,associate
+545,149727,1028,38,Waubonsee Community College,associate
+546,149842,1611,37,William Rainey Harper College,associate
+547,150048,73,10,Ancilla College,associate
+558,150987,9291,81,Ivy Tech Community College,associate
+571,151467,153,9,International Business College-Indianapolis,associate
+589,153214,2226,49,Des Moines Area Community College,associate
+591,153296,198,10,Ellsworth Community College,associate
+593,153311,784,36,Eastern Iowa Community College District,associate
+598,153445,854,39,Hawkeye Community College,associate
+599,153472,870,32,Indian Hills Community College,associate
+600,153524,798,37,Iowa Central Community College,associate
+601,153533,354,30,Iowa Lakes Community College,associate
+602,153630,864,29,Iowa Western Community College,associate
+603,153737,1706,62,Kirkwood Community College,associate
+604,153922,235,15,Marshalltown Community College,associate
+607,154059,498,21,North Iowa Area Community College,associate
+608,154110,523,31,Northeast Iowa Community College,associate
+609,154129,203,19,Northwest Iowa Community College,associate
+612,154378,459,21,Southeastern Community College,associate
+613,154396,267,20,Southwestern Community College,associate
+616,154572,535,34,Western Iowa Tech Community College,associate
+618,154642,240,25,Allen County Community College,associate
+620,154697,588,17,Barton County Community College,associate
+624,154800,1150,47,Butler Community College,associate
+626,154907,261,7,Cloud County Community College,associate
+627,154925,242,18,Coffeyville Community College,associate
+628,154934,211,8,Colby Community College,associate
+629,154952,554,23,Cowley County Community College,associate
+630,154998,249,43,Dodge City Community College,associate
+632,155052,84,13,Flint Hills Technical College,associate
+636,155098,192,10,Fort Scott Community College,associate
+637,155104,283,30,Garden City Community College,associate
+639,155177,162,7,Hesston College,associate
+640,155186,261,18,Highland Community College,associate
+641,155195,788,30,Hutchinson Community College,associate
+642,155201,110,22,Independence Community College,associate
+643,155210,1755,47,Johnson County Community College,associate
+645,155292,574,21,Kansas City Kansas Community College,associate
+648,155450,173,11,Labette Community College,associate
+649,155487,147,13,Manhattan Area Technical College,associate
+652,155566,303,7,Neosho County Community College,associate
+653,155593,111,13,North Central Kansas Technical College,associate
+654,155618,96,16,Northwest Kansas Technical College,associate
+656,155715,157,7,Pratt Community College,associate
+659,155858,173,15,Seward County Community College,associate
+662,156107,98,20,Wichita Area Technical College,associate
+666,156231,353,13,Ashland Community and Technical College,associate
+667,156338,559,19,Southcentral Kentucky Community and Technical College,associate
+670,156392,1309,34,Bluegrass Community and Technical College,associate
+674,156648,793,27,Elizabethtown Community and Technical College,associate
+675,156790,344,16,Hazard Community and Technical College,associate
+676,156851,210,10,Henderson Community College,associate
+677,156860,524,15,Hopkinsville Community College,associate
+678,156921,1480,34,Jefferson Community and Technical College,associate
+685,157304,393,24,Madisonville Community College,associate
+686,157331,402,16,Maysville Community and Technical College,associate
+690,157438,441,20,Gateway Community and Technical College,associate
+693,157483,640,28,West Kentucky Community and Technical College,associate
+695,157553,522,19,Big Sandy Community and Technical College,associate
+698,157711,720,21,Somerset Community College,associate
+699,157739,429,13,Southeast Kentucky Community and Technical College,associate
+709,158431,702,26,Bossier Parish Community College,associate
+711,158662,1385,37,Delgado Community College,associate
+712,158723,72,6,Delta School of Business and Technology,associate
+713,158884,252,7,Nunez Community College,associate
+718,159407,290,10,Louisiana State University-Eunice,associate
+729,160481,201,9,Fletcher Technical Community College,associate
+731,160579,378,12,SOWELA Technical Community College,associate
+734,160649,224,13,Southern University at Shreveport,associate
+735,160667,112,8,Northshore Technical Community College,associate
+739,160995,123,12,Beal College,associate
+741,161077,487,23,Central Maine Community College,associate
+742,161138,354,28,Eastern Maine Community College,associate
+743,161192,304,26,Kennebec Valley Community College,associate
+750,161484,167,21,Northern Maine Community College,associate
+752,161545,827,36,Southern Maine Community College,associate
+756,161581,59,12,Washington County Community College,associate
+757,161688,502,25,Allegany College of Maryland,associate
+758,161767,1778,40,Anne Arundel Community College,associate
+760,161864,426,25,Baltimore City Community College,associate
+762,162104,341,25,Cecil College,associate
+763,162122,1123,34,College of Southern Maryland,associate
+764,162168,237,20,Chesapeake College,associate
+766,162557,981,25,Frederick Community College,associate
+767,162609,149,13,Garrett College,associate
+769,162690,661,27,Hagerstown Community College,associate
+770,162706,1088,26,Harford Community College,associate
+771,162779,1168,32,Howard Community College,associate
+774,163426,2553,42,Montgomery College,associate
+775,163657,925,32,Prince George's Community College,associate
+778,164313,404,21,Wor-Wic Community College,associate
+786,164775,247,16,Berkshire Community College,associate
+787,165033,1236,26,Bristol Community College,associate
+788,165112,1248,53,Bunker Hill Community College,associate
+789,165194,506,37,Cape Cod Community College,associate
+796,165981,272,14,Greenfield Community College,associate
+798,166133,890,25,Holyoke Community College,associate
+802,166647,465,27,Massachusetts Bay Community College,associate
+803,166823,839,33,Massasoit Community College,associate
+805,166887,1223,36,Middlesex Community College,associate
+807,166957,512,28,Mount Wachusett Community College,associate
+810,167312,960,40,North Shore Community College,associate
+812,167376,698,35,Northern Essex Community College,associate
+815,167525,564,16,Quincy College,associate
+816,167534,1048,40,Quinsigamond Community College,associate
+818,167631,288,18,Roxbury Community College,associate
+821,167905,889,52,Springfield Technical Community College,associate
+826,168607,305,45,Alpena Community College,associate
+830,168883,338,23,Bay de Noc Community College,associate
+831,169275,1944,40,Mott Community College,associate
+834,169521,1300,55,Delta College,associate
+837,169974,102,8,Glen Oaks Community College,associate
+838,169992,127,21,Gogebic Community College,associate
+841,170055,1592,48,Grand Rapids Community College,associate
+842,170240,1399,52,Henry Ford College,associate
+844,170541,891,31,Kalamazoo Valley Community College,associate
+845,170550,775,29,Kellogg Community College,associate
+846,170587,282,25,Kirtland Community College,associate
+849,170657,1605,90,Lansing Community College,associate
+851,170790,2586,63,Macomb Community College,associate
+856,171155,373,23,Mid Michigan Community College,associate
+857,171225,396,31,Monroe County Community College,associate
+858,171234,203,19,Montcalm Community College,associate
+859,171304,449,27,Muskegon Community College,associate
+860,171395,308,14,North Central Michigan College,associate
+864,171535,2709,66,Oakland Community College,associate
+867,172200,1382,34,Schoolcraft College,associate
+869,172291,635,34,St Clair County Community College,associate
+870,172307,397,23,Southwestern Michigan College,associate
+873,172617,1321,45,Washtenaw Community College,associate
+874,172635,1904,33,Wayne County Community College District,associate
+875,172671,190,13,West Shore Community College,associate
+877,172918,411,27,Alexandria Technical & Community College,associate
+878,172954,224,21,Anoka Technical College,associate
+879,172963,1056,22,Anoka-Ramsey Community College,associate
+880,173063,389,17,Riverland Community College,associate
+881,173115,154,17,Northwest Technical College,associate
+884,173203,510,23,Central Lakes College-Brainerd,associate
+886,173416,413,41,Dakota County Technical College,associate
+887,173461,666,28,Lake Superior College,associate
+889,173559,986,43,Minnesota State Community and Technical College,associate
+891,173638,320,31,Minnesota West Community and Technical College,associate
+892,173708,617,42,Hennepin Technical College,associate
+893,173735,209,13,Hibbing Community College,associate
+894,173799,737,24,Inver Hills Community College,associate
+895,173805,265,11,Itasca Community College,associate
+897,173911,440,35,South Central College,associate
+900,173993,167,11,Mesabi Range College,associate
+901,174118,61,7,Minneapolis Business College,associate
+902,174136,986,39,Minneapolis Community and Technical College,associate
+906,174376,881,27,North Hennepin Community College,associate
+909,174428,1098,27,Normandale Community College,associate
+911,174473,644,30,Northland Community and Technical College,associate
+915,174570,77,13,Pine Technical & Community College,associate
+917,174738,828,40,Rochester Community and Technical College,associate
+918,174756,865,42,St Cloud Technical and Community College,associate
+923,175041,660,41,Saint Paul College,associate
+925,175157,96,10,Vermilion Community College,associate
+927,175236,542,35,Ridgewater College,associate
+928,175263,235,25,Minnesota State College Southeast,associate
+930,175315,1237,46,Century College,associate
+933,175519,289,40,Coahoma Community College,associate
+935,175573,597,37,Copiah-Lincoln Community College,associate
+936,175643,483,17,East Central Community College,associate
+937,175652,772,72,East Mississippi Community College,associate
+938,175786,1545,56,Hinds Community College,associate
+939,175810,1061,60,Holmes Community College,associate
+940,175829,1390,69,Itawamba Community College,associate
+941,175883,873,24,Jones County Junior College,associate
+942,175935,527,24,Meridian Community College,associate
+943,176008,397,28,Mississippi Delta Community College,associate
+945,176071,2560,68,Mississippi Gulf Coast Community College,associate
+946,176169,571,56,Northeast Mississippi Community College,associate
+947,176178,1106,58,Northwest Mississippi Community College,associate
+948,176239,819,27,Pearl River Community College,associate
+951,176354,363,15,Southwest Mississippi Community College,associate
+960,177135,698,24,Crowder College,associate
+962,177250,438,26,East Central College,associate
+965,177472,1816,39,Ozarks Technical Community College,associate
+968,177676,695,24,Jefferson College,associate
+970,177977,466,23,State Technical College of Missouri,associate
+971,177995,1854,46,Metropolitan Community College-Kansas City,associate
+975,178217,588,28,Mineral Area College,associate
+981,178448,725,19,Moberly Area Community College,associate
+990,179308,2171,46,Saint Louis Community College,associate
+992,179344,293,12,Missouri State University-West Plains,associate
+994,179539,735,25,State Fair Community College,associate
+996,179645,505,23,Three Rivers College,associate
+997,179715,283,17,North Central Missouri College,associate
+1002,180081,88,13,Highlands College of Montana Tech,associate
+1004,180151,70,9,Dawson Community College,associate
+1007,180197,300,30,Flathead Valley Community College,associate
+1010,180249,278,20,Great Falls College Montana State University,associate
+1012,180276,230,13,Helena College University of Montana,associate
+1014,180373,97,8,Miles Community College,associate
+1023,180902,667,30,Central Community College,associate
+1029,181303,1331,41,Metropolitan Community College Area,associate
+1030,181312,327,15,Mid-Plains Community College,associate
+1034,181491,812,61,Northeast Community College,associate
+1037,181640,1228,33,Southeast Community College Area,associate
+1040,181817,225,33,Western Nebraska Community College,associate
+1045,182148,115,6,Everest College-Henderson,associate
+1047,182500,1333,60,Truckee Meadows Community College,associate
+1058,183099,588,32,NHTI-Concord's Community College,associate
+1059,183105,75,19,White Mountains Community College,associate
+1060,183114,119,15,River Valley Community College,associate
+1061,183123,177,22,Lakes Region Community College,associate
+1062,183132,325,24,Manchester Community College,associate
+1063,183141,257,24,Nashua Community College,associate
+1064,183150,251,18,Great Bay Community College,associate
+1070,183655,890,30,Atlantic Cape Community College,associate
+1071,183743,2332,27,Bergen Community College,associate
+1073,183859,2024,35,Brookdale Community College,associate
+1074,183877,1360,31,Rowan College at Burlington County,associate
+1075,183938,1361,44,Camden County College,associate
+1077,184180,1270,32,County College of Morris,associate
+1078,184205,691,26,Cumberland County College,associate
+1079,184481,1362,30,Essex County College,associate
+1082,184791,1087,29,Rowan College at Gloucester County,associate
+1084,184995,1002,22,Hudson County Community College,associate
+1085,185509,935,35,Mercer County Community College,associate
+1086,185536,1552,33,Middlesex County College,associate
+1089,185873,1607,19,Ocean County College,associate
+1090,186034,750,21,Passaic County Community College,associate
+1094,186469,225,20,Salem Community College,associate
+1095,186645,1035,38,Raritan Valley Community College,associate
+1097,187198,1505,37,Union County College,associate
+1098,187532,3996,58,Central New Mexico Community College,associate
+1100,187620,1293,34,New Mexico State University-Dona Ana,associate
+1101,187639,297,23,Clovis Community College,associate
+1103,187666,241,28,Eastern New Mexico University-Roswell Campus,associate
+1106,187903,286,10,New Mexico Junior College,associate
+1108,187958,175,20,University of New Mexico-Gallup Campus,associate
+1110,187976,56,11,University of New Mexico-Los Alamos Campus,associate
+1111,187994,184,19,New Mexico State University-Alamogordo,associate
+1112,188003,101,14,New Mexico State University-Carlsbad,associate
+1113,188021,60,11,New Mexico State University-Grants,associate
+1115,188049,166,15,University of New Mexico-Valencia County Campus,associate
+1117,188100,691,51,San Juan College,associate
+1118,188137,415,53,Santa Fe Community College,associate
+1120,188225,98,9,University of New Mexico-Taos Campus,associate
+1125,188438,607,20,Adirondack Community College,associate
+1132,189422,186,9,Bramson ORT College,associate
+1134,189547,1182,40,SUNY Broome Community College,associate
+1137,189574,134,9,Bryant & Stratton College-Syracuse,associate
+1142,189839,506,18,Cayuga County Community College,associate
+1144,190053,300,17,Clinton Community College,associate
+1147,190169,288,15,Columbia-Greene Community College,associate
+1149,190442,637,25,Corning Community College,associate
+1152,190521,3755,30,CUNY Borough of Manhattan Community College,associate
+1153,190530,1566,27,CUNY Bronx Community College,associate
+1155,190585,919,24,CUNY Hostos Community College,associate
+1156,190619,2679,36,CUNY Kingsborough Community College,associate
+1157,190628,2812,37,CUNY LaGuardia Community College,associate
+1160,190673,2255,25,CUNY Queensborough Community College,associate
+1162,190840,1053,29,Dutchess Community College,associate
+1166,191083,1961,48,Erie Community College,associate
+1168,191199,816,37,Finger Lakes Community College,associate
+1170,191302,394,24,Fulton-Montgomery Community College,associate
+1171,191339,811,35,Genesee Community College,associate
+1173,191612,469,28,Herkimer County Community College,associate
+1176,191719,1726,50,Hudson Valley Community College,associate
+1178,191986,703,27,Jamestown Community College,associate
+1180,192022,597,25,Jefferson Community College,associate
+1192,193201,131,6,Mildred Elley School-Albany Campus,associate
+1193,193283,1033,47,Mohawk Valley Community College,associate
+1196,193326,2161,53,Monroe Community College,associate
+1197,193478,3386,48,Nassau Community College,associate
+1200,193946,967,45,Niagara County Community College,associate
+1202,194028,232,20,North Country Community College,associate
+1206,194222,1273,38,Onondaga Community College,associate
+1207,194240,849,28,Orange County Community College,associate
+1214,195058,982,30,Rockland Community College,associate
+1219,195322,575,28,Schenectady County Community College,associate
+1224,195988,261,24,Sullivan County Community College,associate
+1236,196477,718,17,Technical Career Institutes,associate
+1237,196565,691,40,Tompkins Cortland Community College,associate
+1241,196699,369,22,Ulster County Community College,associate
+1245,197294,1741,42,SUNY Westchester Community College,associate
+1246,197522,113,9,Wood Tobe-Coburn School,associate
+1248,197814,245,19,College of the Albemarle,associate
+1250,197850,244,22,South Piedmont Community College,associate
+1251,197887,959,48,Asheville-Buncombe Technical Community College,associate
+1252,197966,284,23,Beaufort County Community College,associate
+1253,198011,150,13,Bladen Community College,associate
+1254,198039,286,32,Blue Ridge Community College,associate
+1255,198084,294,14,Brunswick Community College,associate
+1257,198118,669,30,Caldwell Community College and Technical Institute,associate
+1259,198154,1245,40,Cape Fear Community College,associate
+1260,198206,239,23,Carteret Community College,associate
+1261,198233,658,38,Catawba Valley Community College,associate
+1262,198251,498,32,Central Carolina Community College,associate
+1263,198260,1886,60,Central Piedmont Community College,associate
+1264,198321,293,29,Cleveland Community College,associate
+1265,198330,643,23,Coastal Carolina Community College,associate
+1266,198367,455,21,Craven Community College,associate
+1267,198376,502,30,Davidson County Community College,associate
+1268,198455,482,32,Durham Technical Community College,associate
+1269,198491,318,19,Edgecombe Community College,associate
+1270,198534,1913,51,Fayetteville Technical Community College,associate
+1271,198552,1083,63,Forsyth Technical Community College,associate
+1273,198570,729,41,Gaston College,associate
+1274,198622,1334,57,Guilford Technical Community College,associate
+1275,198640,155,16,Halifax Community College,associate
+1276,198668,278,28,Haywood Community College,associate
+1278,198710,203,24,Isothermal Community College,associate
+1279,198729,178,16,James Sprunt Community College,associate
+1281,198774,602,32,Johnston Community College,associate
+1282,198817,385,33,Lenoir Community College,associate
+1285,198905,76,17,Martin Community College,associate
+1286,198914,131,12,Mayland Community College,associate
+1287,198923,116,18,McDowell Technical Community College,associate
+1290,198987,433,19,Mitchell Community College,associate
+1291,199023,68,13,Montgomery Community College,associate
+1294,199087,406,34,Nash Community College,associate
+1297,199324,155,22,Piedmont Community College,associate
+1298,199333,1193,48,Pitt Community College,associate
+1299,199421,471,26,Randolph Community College,associate
+1300,199449,345,20,Richmond Community College,associate
+1302,199467,96,13,Roanoke-Chowan Community College,associate
+1303,199476,211,14,Robeson Community College,associate
+1304,199485,226,17,Rockingham Community College,associate
+1305,199494,710,28,Rowan-Cabarrus Community College,associate
+1306,199625,221,19,Sampson Community College,associate
+1307,199634,581,37,Sandhills Community College,associate
+1308,199722,184,20,Southeastern Community College,associate
+1309,199731,437,34,Southwestern Community College,associate
+1310,199740,371,24,Stanly Community College,associate
+1312,199768,468,26,Surry Community College,associate
+1313,199786,493,27,Alamance Community College,associate
+1314,199795,180,23,Tri-County Community College,associate
+1315,199838,503,25,Vance-Granville Community College,associate
+1316,199856,2464,56,Wake Technical Community College,associate
+1317,199892,597,31,Wayne Community College,associate
+1318,199908,295,29,Western Piedmont Community College,associate
+1319,199926,443,27,Wilkes Community College,associate
+1320,199953,235,19,Wilson Community College,associate
+1326,200192,240,15,Lake Region State College,associate
+1330,200305,568,29,North Dakota State College of Science,associate
+1331,200314,84,14,Dakota College at Bottineau,associate
+1332,200341,186,12,Williston State College,associate
+1342,200846,74,6,University of Akron Wayne College,associate
+1347,201283,255,29,Belmont College,associate
+1349,201432,201,15,Bowling Green State University-Firelands,associate
+1351,201672,502,28,Central Ohio Technical College,associate
+1357,201928,1135,59,Cincinnati State Technical and Community College,associate
+1361,201973,445,33,Clark State Community College,associate
+1362,202161,233,5,Bradford School,associate
+1363,202222,2266,58,Columbus State Community College,associate
+1364,202356,2631,62,Cuyahoga Community College District,associate
+1367,202648,329,28,Edison State Community College,associate
+1373,203155,635,38,Hocking College,associate
+1375,203331,332,27,Eastern Gateway Community College,associate
+1385,203599,1032,39,Lakeland Community College,associate
+1386,203678,448,27,James A Rhodes State College,associate
+1387,203720,73,9,Ohio Business College-Sheffield,associate
+1389,203748,1410,37,Lorain County Community College,associate
+1392,203881,241,23,Marion Technical College,associate
+1399,204255,390,33,Zane State College,associate
+1401,204422,312,33,North Central State College,associate
+1402,204440,293,37,Northwest State Community College,associate
+1419,204945,1331,68,Owens Community College,associate
+1425,205470,1725,87,Sinclair Community College,associate
+1432,205841,1254,75,Stark State College,associate
+1433,205887,109,10,Stautzenberger College-Maumee,associate
+1435,205966,306,26,Southern State Community College,associate
+1436,206011,245,40,Terra State Community College,associate
+1440,206224,61,11,Trumbull Business College,associate
+1444,206446,271,37,Washington State Community College,associate
+1452,206923,535,27,Carl Albert State College,associate
+1454,206996,458,14,Connors State College,associate
+1455,207050,248,23,Eastern Oklahoma State College,associate
+1456,207069,242,11,Redlands Community College,associate
+1459,207236,371,25,Murray State College,associate
+1461,207281,798,26,Northern Oklahoma College,associate
+1462,207290,447,29,Northeastern Oklahoma A&M College,associate
+1465,207449,1881,44,Oklahoma City Community College,associate
+1469,207670,947,41,Rose State College,associate
+1471,207740,352,18,Seminole State College,associate
+1474,207935,1970,54,Tulsa Community College,associate
+1476,208035,271,17,Western Oklahoma State College,associate
+1478,208275,377,18,Blue Mountain Community College,associate
+1479,208318,826,20,Central Oregon Community College,associate
+1480,208390,1536,43,Chemeketa Community College,associate
+1481,208406,828,32,Clackamas Community College,associate
+1482,208415,100,11,Clatsop Community College,associate
+1486,209038,1386,38,Lane Community College,associate
+1487,209074,651,52,Linn-Benton Community College,associate
+1488,209250,1026,65,Mt Hood Community College,associate
+1491,209746,3447,56,Portland Community College,associate
+1492,209940,629,22,Rogue Community College,associate
+1494,210155,457,20,Southwestern Oregon Community College,associate
+1495,210234,283,39,Treasure Valley Community College,associate
+1496,210270,326,21,Umpqua Community College,associate
+1499,210483,125,10,Keystone Technical Institute,associate
+1501,210605,1947,65,Community College of Allegheny County,associate
+1509,211079,353,37,Community College of Beaver County,associate
+1511,211200,163,10,Bradford School,associate
+1512,211307,857,50,Bucks County Community College,associate
+1513,211343,460,43,Butler County Community College,associate
+1519,211820,59,5,Consolidated School of Business-York,associate
+1521,211927,1306,50,Delaware County Community College,associate
+1532,212869,399,23,Harcum College,associate
+1533,212878,1757,81,Harrisburg Area Community College-Harrisburg,associate
+1536,213002,79,5,Brightwood Career Institute-Pittsburgh,associate
+1540,213233,156,13,Johnson College,associate
+1544,213376,352,22,Lackawanna College,associate
+1546,213473,67,7,Lansdale School of Business,associate
+1547,213525,726,53,Lehigh Carbon Community College,associate
+1548,213534,286,11,Berks Technical Institute,associate
+1552,213659,743,57,Luzerne County Community College,associate
+1553,213774,145,14,Manor College,associate
+1559,214111,1396,52,Montgomery County Community College,associate
+1564,214290,262,8,New Castle School of Trades,associate
+1565,214379,1320,61,Northampton County Area Community College,associate
+1567,214582,98,10,Pennsylvania Institute of Technology,associate
+1590,215239,1881,46,Community College of Philadelphia,associate
+1593,215309,61,11,University of Pittsburgh-Titusville,associate
+1596,215415,571,17,Pittsburgh Technical College,associate
+1598,215585,347,36,Reading Area Community College,associate
+1604,215992,56,7,Laurel Technical Institute,associate
+1605,216083,212,11,South Hills School of Business & Technology,associate
+1606,216296,339,19,Thaddeus Stevens College of Technology,associate
+1610,216418,154,16,Fortis Institute-Erie,associate
+1618,216825,584,48,Westmoreland County Community College,associate
+1622,217077,419,9,YTI Career Institute-York,associate
+1626,217475,1649,46,Community College of Rhode Island,associate
+1629,217615,253,14,Aiken Technical College,associate
+1630,217712,256,13,Technical College of the Lowcountry,associate
+1633,217837,127,8,Northeastern Technical College,associate
+1636,217989,62,8,Denmark Technical College,associate
+1637,218025,549,24,Florence-Darlington Technical College,associate
+1639,218113,1374,35,Greenville Technical College,associate
+1640,218140,1060,23,Horry-Georgetown Technical College,associate
+1642,218353,1056,28,Midlands Technical College,associate
+1643,218487,252,17,Orangeburg Calhoun Technical College,associate
+1644,218520,619,27,Piedmont Technical College,associate
+1651,218821,206,5,Spartanburg Methodist College,associate
+1652,218830,612,19,Spartanburg Community College,associate
+1653,218858,326,14,Central Carolina Technical College,associate
+1654,218885,799,19,Tri-County Technical College,associate
+1655,218894,1667,31,Trident Technical College,associate
+1656,218955,64,5,Williamsburg Technical College,associate
+1657,218991,541,20,York Technical College,associate
+1661,219143,490,27,Lake Area Technical Institute,associate
+1662,219189,337,25,Mitchell Technical Institute,associate
+1674,219426,604,38,Southeast Technical Institute,associate
+1676,219480,182,20,Western Dakota Technical Institute,associate
+1684,219824,1129,25,Chattanooga State Community College,associate
+1686,219879,396,12,Cleveland State Community College,associate
+1687,219888,662,16,Columbia State Community College,associate
+1692,220057,287,12,Dyersburg State Community College,associate
+1693,220118,77,5,Chattanooga College Medical Dental and Technical Careers,associate
+1696,220400,457,11,Jackson State Community College,associate
+1704,221096,715,10,Motlow State Community College,associate
+1706,221184,783,24,Nashville State Community College,associate
+1707,221397,940,23,Roane State Community College,associate
+1708,221485,764,26,Southwest Tennessee Community College,associate
+1709,221643,1432,13,Pellissippi State Community College,associate
+1714,221908,825,14,Northeast State Community College,associate
+1716,222053,991,21,Volunteer State Community College,associate
+1717,222062,905,19,Walters State Community College,associate
+1721,222567,832,33,Alvin Community College,associate
+1722,222576,1030,56,Amarillo College,associate
+1723,222822,342,31,Angelina College,associate
+1725,222992,2632,92,Austin Community College District,associate
+1728,223320,384,19,Coastal Bend College,associate
+1729,223427,1014,42,Blinn College,associate
+1733,223524,1120,23,Brookhaven College,associate
+1734,223773,558,16,Cedar Valley College,associate
+1735,223816,3257,48,Central Texas College,associate
+1736,223898,330,13,Cisco College,associate
+1737,223922,114,16,Clarendon College,associate
+1738,224110,854,16,North Central Texas College,associate
+1742,224350,1065,80,Del Mar College,associate
+1743,224572,1118,22,Eastfield College,associate
+1744,224615,1058,25,El Centro College,associate
+1745,224642,3624,76,El Paso Community College,associate
+1749,224891,80,11,Frank Phillips College,associate
+1750,224961,245,11,Galveston College,associate
+1751,225070,591,32,Grayson College,associate
+1753,225308,733,23,Trinity Valley Community College,associate
+1754,225371,492,31,Hill College,associate
+1755,225423,6795,64,Houston Community College,associate
+1756,225520,331,24,Howard College,associate
+1764,226019,788,64,Kilgore College,associate
+1765,226107,195,12,Lamar State College-Orange,associate
+1767,226134,952,15,Laredo Community College,associate
+1768,226204,867,49,Lee College,associate
+1771,226408,450,22,College of the Mainland,associate
+1772,226578,1272,35,McLennan Community College,associate
+1776,226930,737,14,Mountain View College,associate
+1777,227146,844,27,Navarro College,associate
+1778,227182,6599,47,Lone Star College System,associate
+1779,227191,1066,16,North Lake College,associate
+1780,227225,349,17,Northeast Texas Community College,associate
+1781,227304,683,44,Odessa College,associate
+1783,227386,274,11,Panola College,associate
+1784,227401,622,40,Paris Junior College,associate
+1786,227766,2112,21,Richland College,associate
+1788,227854,1030,56,St Philip's College,associate
+1789,227924,2815,55,San Antonio College,associate
+1790,227979,4213,78,San Jacinto Community College,associate
+1792,228158,991,53,South Plains College,associate
+1793,228316,580,15,Southwest Texas Junior College,associate
+1798,228547,5577,45,Tarrant County College District,associate
+1799,228608,598,30,Temple College,associate
+1800,228699,453,33,Texarkana College,associate
+1802,229355,1430,59,Tyler Junior College,associate
+1803,229504,275,15,Vernon College,associate
+1804,229540,490,12,Victoria College,associate
+1806,229799,763,19,Weatherford College,associate
+1807,229832,178,22,Western Texas College,associate
+1808,229841,792,33,Wharton County Junior College,associate
+1814,230418,466,24,Latter-day Saints Business College,associate
+1821,230746,3687,82,Salt Lake Community College,associate
+1825,230861,525,20,Community College of Vermont,associate
+1833,231536,579,13,Blue Ridge Community College,associate
+1835,231697,447,17,Central Virginia Community College,associate
+1839,231873,118,7,Dabney S Lancaster Community College,associate
+1840,231882,271,12,Danville Community College,associate
+1844,232195,843,8,Germanna Community College,associate
+1845,232414,947,25,J Sargeant Reynolds Community College,associate
+1846,232450,802,18,John Tyler Community College,associate
+1849,232575,746,12,Lord Fairfax Community College,associate
+1852,232788,266,17,Mountain Empire Community College,associate
+1854,232867,452,14,New River Community College,associate
+1857,232946,5740,42,Northern Virginia Community College,associate
+1858,233019,521,12,Patrick Henry Community College,associate
+1859,233037,115,7,Paul D Camp Community College,associate
+1861,233091,123,8,Miller-Motte Technical College-Lynchburg,associate
+1862,233116,542,18,Piedmont Virginia Community College,associate
+1863,233310,242,5,Rappahannock Community College,associate
+1868,233639,654,11,Southside Virginia Community College,associate
+1869,233648,314,14,Southwest Virginia Community College,associate
+1871,233754,916,26,Thomas Nelson Community College,associate
+1872,233772,3001,42,Tidewater Community College,associate
+1873,233903,258,13,Virginia Highlands Community College,associate
+1875,233949,683,25,Virginia Western Community College,associate
+1878,234377,375,13,Wytheville Community College,associate
+1881,234696,448,29,Bellingham Technical College,associate
+1882,234711,469,18,Big Bend Community College,associate
+1885,234933,2026,42,Clark College,associate
+1888,235103,1124,38,Edmonds Community College,associate
+1889,235149,1195,21,Everett Community College,associate
+1890,235237,1129,27,Pierce College-Fort Steilacoom,associate
+1891,235334,340,15,Grays Harbor College,associate
+1895,235671,362,41,Bates Technical College,associate
+1897,235750,585,23,Lower Columbia College,associate
+1903,236382,262,31,Renton Technical College,associate
+1906,236610,930,32,Shoreline Community College,associate
+1908,236656,1129,26,South Puget Sound Community College,associate
+1909,236692,1013,49,Spokane Community College,associate
+1910,236708,958,28,Spokane Falls Community College,associate
+1911,236753,1214,22,Tacoma Community College,associate
+1912,236887,772,38,Walla Walla Community College,associate
+1914,236975,686,19,Wenatchee Valley College,associate
+1915,237039,908,16,Whatcom Community College,associate
+1924,237437,140,7,Huntington Junior College,associate
+1931,237817,270,24,Southern West Virginia Community and Technical College,associate
+1934,237987,64,6,West Virginia Junior College-Charleston,associate
+1935,237996,207,7,West Virginia Junior College-Morgantown,associate
+1936,238014,267,17,West Virginia Northern Community College,associate
+1939,238397,277,22,Blackhawk Technical College,associate
+1942,238722,1081,54,Fox Valley Technical College,associate
+1943,238759,723,37,Gateway Technical College,associate
+1945,239008,300,30,Lakeshore Technical College,associate
+1947,239220,392,26,Mid-State Technical College,associate
+1948,239248,1353,70,Milwaukee Area Technical College,associate
+1949,239372,502,34,Moraine Park Technical College,associate
+1950,239442,154,17,Nicolet Area Technical College,associate
+1951,239460,523,31,Northcentral Technical College,associate
+1952,239488,1140,53,Northeast Wisconsin Technical College,associate
+1953,239910,223,23,Southwest Wisconsin Technical College,associate
+1957,240116,758,31,Chippewa Valley Technical College,associate
+1958,240125,696,36,Waukesha County Technical College,associate
+1959,240170,737,50,Western Technical College,associate
+1961,240198,346,21,Wisconsin Indianhead Technical College,associate
+1969,240505,562,80,Casper College,associate
+1970,240514,199,46,Central Wyoming College,associate
+1971,240596,152,21,Eastern Wyoming College,associate
+1972,240620,543,62,Laramie County Community College,associate
+1973,240657,333,50,Northwest College,associate
+1974,240666,485,46,Sheridan College,associate
+1975,240693,394,46,Western Wyoming Community College,associate
+1978,240745,249,21,Guam Community College,associate
+1994,242042,179,11,Instituto Tecnologico de Puerto Rico-Recinto de Manati,associate
+1995,242112,257,14,Huertas College,associate
+1997,242130,96,5,ICPR Junior College-Arecibo,associate
+1998,242149,85,9,ICPR Junior College-Mayaguez,associate
+2000,242556,170,10,Instituto Tecnologico de Puerto Rico-Recinto de Guayama,associate
+2001,242565,141,9,Instituto Tecnologico de Puerto Rico-Recinto de Ponce,associate
+2002,242583,169,12,Instituto Tecnologico de Puerto Rico-Recinto de San Juan,associate
+2029,243638,281,14,College of Micronesia-FSM,associate
+2030,243647,63,16,Palau Community College,associate
+2035,243841,55,5,ICPR Junior College-General Institutional,associate
+2038,244437,1958,6,Georgia State University-Perimeter College,associate
+2039,244446,377,22,Georgia Piedmont Technical College,associate
+2043,245625,273,15,Warren County Community College,associate
+2048,246354,1112,38,Palo Alto College,associate
+2049,246813,321,31,Athens Technical College,associate
+2052,247603,466,15,Sussex County Community College,associate
+2055,247834,2430,46,Collin County Community College District,associate
+2056,247940,543,25,Owensboro Community and Technical College,associate
+2064,251260,491,13,Southern Union State Community College,associate
+2074,260992,151,10,Northwestern College-Southwestern Campus,associate
+2076,262031,799,20,St Charles Community College,associate
+2079,262509,183,5,Heritage College-Denver,associate
+2082,363633,129,15,Luna Community College,associate
+2086,364016,777,25,Paradise Valley Community College,associate
+2087,364025,1245,25,Chandler-Gilbert Community College,associate
+2092,365204,627,8,Vista College,associate
+2099,366395,3806,44,Suffolk County Community College,associate
+2100,366401,688,36,Las Positas College,associate
+2101,366465,211,19,Ogeechee Technical College,associate
+2109,367112,143,6,McCann School of Business & Technology,associate
+2112,367459,782,22,NorthWest Arkansas Community College,associate
+2119,368911,101,15,Southeastern Technical College,associate
+2131,373085,81,5,Brown Mackie College-Quad Cities,associate
+2137,375939,87,5,YTI Career Institute-Altoona,associate
+2139,376321,178,5,EDIC College,associate
+2154,380438,94,10,Provo College,associate
+2157,382504,125,9,King's College,associate
+2163,383190,514,23,Hawaii Community College,associate
+2164,383950,63,8,Antonelli College-Hattiesburg,associate
+2167,384333,1159,22,Estrella Mountain Community College,associate
+2168,384342,696,16,Heartland Community College,associate
+2173,388043,152,11,National College-Nashville,associate
+2175,389727,61,6,Virginia College-Pensacola,associate
+2180,395362,241,24,Copper Mountain Community College,associate
+2182,399212,1627,36,Santiago Canyon College,associate
+2184,403469,72,10,Frontier Community College,associate
+2185,403478,164,9,Lincoln Trail College,associate
+2186,403487,195,14,Wabash Valley College,associate
+2190,404374,59,5,Vatterott College-Joplin,associate
+2191,404383,85,8,Vatterott College-Kansas City,associate
+2192,404426,319,21,Coconino Community College,associate
+2198,404994,1211,11,ASA College,associate
+2199,405872,614,20,Carroll Community College,associate
+2212,410283,218,9,Brown Mackie College-Atlanta,associate
+2213,410496,92,10,Bryant & Stratton College-Henrietta,associate
+2223,414461,184,7,Mech-Tech College,associate
+2227,414911,265,23,Pennsylvania Highlands Community College,associate
+2229,417327,83,9,City College-Altamonte Springs,associate
+2238,420024,97,6,Centura College-Chesapeake,associate
+2242,420398,3146,31,Northwest Vista College,associate
+2243,420431,71,11,Oconee Fall Line Technical College,associate
+2244,420440,216,18,York County Community College,associate
+2246,420538,241,12,Arkansas State University-Mountain Home,associate
+2247,420556,203,9,Columbia Gorge Community College,associate
+2249,421513,56,5,Brown Mackie College-Hopkinsville,associate
+2254,423652,63,6,Oregon Coast Community College,associate
+2263,428392,109,17,Klamath Community College,associate
+2272,431141,191,5,Institute of Technology,associate
+2287,434061,450,19,South Louisiana Community College,associate
+2289,434159,78,5,Lincoln College of Technology-Marietta,associate
+2294,434672,2174,55,The Community College of Baltimore County,associate
+2301,436304,214,7,River Parishes Community College,associate
+2308,437060,70,9,Vatterott College-Oklahoma City,associate
+2310,437103,458,17,Baton Rouge Community College,associate
+2318,438212,70,12,McCann School of Business & Technology,associate
+2325,438708,84,11,Eastern West Virginia Community and Technical College,associate
+2330,439145,773,13,Pierce College-Puyallup,associate
+2331,439190,493,8,Cascadia College,associate
+2348,440402,238,10,Arkansas State University-Newport,associate
+2355,440873,178,6,Vatterott College-Dividend,associate
+2371,441760,460,25,Lamar Institute of Technology,associate
+2401,443492,351,29,Pierpont Community and Technical College,associate
+2417,444219,889,31,Folsom Lake College,associate
+2427,444954,388,31,Mountwest Community and Technical College,associate
+2441,445559,100,6,Vatterott College-St Charles,associate
+2456,446552,536,5,Southern Technical College,associate
+2462,446774,528,25,Blue Ridge Community and Technical College,associate
+2478,447582,202,18,New River Community and Technical College,associate
+2491,448594,580,24,West Hills College-Lemoore,associate
+2568,452373,75,8,Beckfield College-Tri-County,associate
+2580,454458,70,7,Bryan University,associate
+2592,455114,996,46,College of Western Idaho,associate
+2597,455512,325,20,Woodland Community College,associate
+2686,460394,691,34,Moreno Valley College,associate
+2687,460464,842,34,Norco College,associate
+2748,475370,131,7,Virginia College-Columbus,associate
+2778,480189,223,13,Mercyhurst University-North East Campus,associate
+2834,483045,578,35,Central Georgia Technical College,associate
+2835,483212,254,12,Louisiana Delta Community College,associate
+2849,485111,1790,24,Georgia Military College,associate
+2854,485458,64,13,Coastal Pines Technical College,associate

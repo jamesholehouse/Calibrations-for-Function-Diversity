@@ -1,0 +1,423 @@
+,AREA_NAME,N,D
+0,"Abilene, TX",55320.0,231
+1,"Aguadilla-Isabela, PR",35600.0,149
+2,"Akron, OH",314110.0,455
+3,"Albany, GA",50540.0,206
+4,"Albany, OR",34340.0,199
+5,"Albany-Schenectady-Troy, NY",435640.0,503
+6,"Albuquerque, NM",362490.0,460
+7,"Alexandria, LA",52030.0,210
+8,"Allentown-Bethlehem-Easton, PA-NJ",341100.0,463
+9,"Altoona, PA",48370.0,213
+10,"Amarillo, TX",99450.0,314
+11,"Ames, IA",34750.0,192
+12,"Anaheim-Santa Ana-Irvine, CA Metropolitan Division",1573410.0,582
+13,"Anchorage, AK",163520.0,409
+14,"Ann Arbor, MI",176410.0,362
+15,"Anniston-Oxford-Jacksonville, AL",35550.0,177
+16,"Appleton, WI",110380.0,301
+17,"Arecibo, PR",22000.0,113
+18,"Asheville, NC",181010.0,376
+19,"Athens-Clarke County, GA",72670.0,260
+20,"Atlanta-Sandy Springs-Roswell, GA",2551150.0,621
+21,"Atlantic City-Hammonton, NJ",115230.0,303
+22,"Auburn-Opelika, AL",45520.0,179
+23,"Augusta-Richmond County, GA-SC",199170.0,402
+24,"Austin-Round Rock, TX",966270.0,535
+25,"Bakersfield, CA",286790.0,410
+26,"Baltimore-Columbia-Towson, MD",1308920.0,598
+27,"Bangor, ME",55510.0,242
+28,"Barnstable Town, MA",94300.0,283
+29,"Baton Rouge, LA",368230.0,432
+30,"Battle Creek, MI",46650.0,203
+31,"Bay City, MI",27180.0,143
+32,"Beaumont-Port Arthur, TX",145070.0,327
+33,"Beckley, WV",35270.0,169
+34,"Bellingham, WA",73960.0,280
+35,"Bend-Redmond, OR",71050.0,286
+36,"Billings, MT",78510.0,299
+37,"Binghamton, NY",90180.0,287
+38,"Birmingham-Hoover, AL",487710.0,469
+39,"Bismarck, ND",64300.0,272
+40,"Blacksburg-Christiansburg-Radford, VA",55910.0,231
+41,"Bloomington, IL",74080.0,240
+42,"Bloomington, IN",52470.0,222
+43,"Bloomsburg-Berwick, PA",31500.0,148
+44,"Boise City, ID",290140.0,419
+45,"Boston-Cambridge-Newton, MA NECTA Division",1791080.0,600
+46,"Boulder, CO",165830.0,369
+47,"Bowling Green, KY",66140.0,245
+48,"Bremerton-Silverdale, WA",75620.0,240
+49,"Bridgeport-Stamford-Norwalk, CT",392310.0,433
+50,"Brockton-Bridgewater-Easton, MA NECTA Division",71130.0,255
+51,"Brownsville-Harlingen, TX",130740.0,266
+52,"Brunswick, GA",33530.0,159
+53,"Buffalo-Cheektowaga-Niagara Falls, NY",531990.0,522
+54,"Burlington, NC",50370.0,198
+55,"Burlington-South Burlington, VT",110410.0,343
+56,"California-Lexington Park, MD",37850.0,155
+57,"Camden, NJ Metropolitan Division",491770.0,498
+58,"Canton-Massillon, OH",153680.0,352
+59,"Cape Coral-Fort Myers, FL",242420.0,371
+60,"Cape Girardeau, MO-IL",34800.0,190
+61,"Carbondale-Marion, IL",40950.0,192
+62,"Carson City, NV",20820.0,143
+63,"Casper, WY",30270.0,176
+64,"Cedar Rapids, IA",126180.0,331
+65,"Chambersburg-Waynesboro, PA",51950.0,218
+66,"Champaign-Urbana, IL",83260.0,285
+67,"Charleston, WV",99870.0,321
+68,"Charleston-North Charleston, SC",320590.0,413
+69,"Charlotte-Concord-Gastonia, NC-SC",1163000.0,574
+70,"Charlottesville, VA",95460.0,318
+71,"Chattanooga, TN-GA",226000.0,416
+72,"Cheyenne, WY",35590.0,189
+73,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",3543760.0,640
+74,"Chico, CA",67730.0,256
+75,"Cincinnati, OH-KY-IN",1034270.0,590
+76,"Clarksville, TN-KY",75650.0,256
+77,"Cleveland, TN",28050.0,158
+78,"Cleveland-Elyria, OH",994260.0,554
+79,"Coeur d'Alene, ID",50900.0,223
+80,"College Station-Bryan, TX",86260.0,295
+81,"Colorado Springs, CO",258600.0,418
+82,"Columbia, MO",78150.0,270
+83,"Columbia, SC",352760.0,458
+84,"Columbus, GA-AL",100020.0,286
+85,"Columbus, IN",37360.0,170
+86,"Columbus, OH",1011690.0,578
+87,"Corpus Christi, TX",172120.0,359
+88,"Corvallis, OR",26690.0,181
+89,"Crestview-Fort Walton Beach-Destin, FL",96810.0,279
+90,"Cumberland, MD-WV",29980.0,166
+91,"Dallas-Plano-Irving, TX Metropolitan Division",2433840.0,607
+92,"Dalton, GA",56970.0,178
+93,"Danbury, CT",68860.0,248
+94,"Danville, IL",18140.0,107
+95,"Daphne-Fairhope-Foley, AL",61890.0,212
+96,"Davenport-Moline-Rock Island, IA-IL",170060.0,393
+97,"Dayton, OH",355270.0,477
+98,"Decatur, AL",42780.0,196
+99,"Decatur, IL",35600.0,176
+100,"Deltona-Daytona Beach-Ormond Beach, FL",178320.0,336
+101,"Denver-Aurora-Lakewood, CO",1400730.0,596
+102,"Des Moines-West Des Moines, IA",344620.0,442
+103,"Detroit-Dearborn-Livonia, MI Metropolitan Division",697220.0,499
+104,"Dothan, AL",46900.0,189
+105,"Dover, DE",51280.0,226
+106,"Dover-Durham, NH-ME",42900.0,219
+107,"Dubuque, IA",48880.0,227
+108,"Duluth, MN-WI",115990.0,349
+109,"Durham-Chapel Hill, NC",279780.0,447
+110,"Dutchess County-Putnam County, NY Metropolitan Division",122820.0,297
+111,"East Stroudsburg, PA",45500.0,183
+112,"Eau Claire, WI",71890.0,279
+113,"El Centro, CA",50050.0,177
+114,"El Paso, TX",282920.0,395
+115,"Elgin, IL Metropolitan Division",233890.0,394
+116,"Elizabethtown-Fort Knox, KY",47590.0,201
+117,"Elkhart-Goshen, IN",118570.0,271
+118,"Elmira, NY",27340.0,151
+119,"Enid, OK",18780.0,121
+120,"Erie, PA",110570.0,322
+121,"Eugene, OR",139130.0,377
+122,"Evansville, IN-KY",142480.0,375
+123,"Fairbanks, AK",28450.0,178
+124,"Fargo, ND-MN",126580.0,357
+125,"Farmington, NM",41260.0,178
+126,"Fayetteville, NC",116540.0,310
+127,"Fayetteville-Springdale-Rogers, AR-MO",222500.0,384
+128,"Flagstaff, AZ",47350.0,215
+129,"Flint, MI",120150.0,276
+130,"Florence, SC",75310.0,244
+131,"Florence-Muscle Shoals, AL",44410.0,190
+132,"Fond du Lac, WI",35910.0,188
+133,"Fort Collins, CO",132920.0,335
+134,"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL Metropolitan Division",787100.0,497
+135,"Fort Smith, AR-OK",99450.0,297
+136,"Fort Wayne, IN",200760.0,395
+137,"Fort Worth-Arlington, TX Metropolitan Division",953040.0,524
+138,"Framingham, MA NECTA Division",160060.0,330
+139,"Fresno, CA",355910.0,448
+140,"Gadsden, AL",24460.0,130
+141,"Gainesville, FL",110790.0,319
+142,"Gainesville, GA",71090.0,226
+143,"Gary, IN Metropolitan Division",253580.0,402
+144,"Gettysburg, PA",26790.0,150
+145,"Glens Falls, NY",43610.0,214
+146,"Goldsboro, NC",29710.0,151
+147,"Grand Forks, ND-MN",40390.0,216
+148,"Grand Island, NE",31580.0,186
+149,"Grand Junction, CO",51130.0,228
+150,"Grand Rapids-Wyoming, MI",529400.0,485
+151,"Grants Pass, OR",18780.0,130
+152,"Great Falls, MT",29790.0,172
+153,"Greeley, CO",81720.0,285
+154,"Green Bay, WI",163510.0,374
+155,"Greensboro-High Point, NC",348400.0,465
+156,"Greenville, NC",63700.0,243
+157,"Greenville-Anderson-Mauldin, SC",382940.0,427
+158,"Guayama, PR",6880.0,51
+159,"Gulfport-Biloxi-Pascagoula, MS",134570.0,351
+160,"Hagerstown-Martinsburg, MD-WV",89850.0,280
+161,"Hammond, LA",35560.0,160
+162,"Hanford-Corcoran, CA",31670.0,155
+163,"Harrisburg-Carlisle, PA",306140.0,436
+164,"Harrisonburg, VA",53590.0,237
+165,"Hartford-West Hartford-East Hartford, CT",558040.0,475
+166,"Hattiesburg, MS",50680.0,203
+167,"Haverhill-Newburyport-Amesbury Town, MA-NH NECTA Division",60080.0,255
+168,"Hickory-Lenoir-Morganton, NC",144110.0,344
+169,"Hilton Head Island-Bluffton-Beaufort, SC",65550.0,220
+170,"Hinesville, GA",10680.0,83
+171,"Homosassa Springs, FL",25160.0,130
+172,"Hot Springs, AR",29080.0,153
+173,"Houma-Thibodaux, LA",73690.0,233
+174,"Houston-The Woodlands-Sugar Land, TX",2815930.0,665
+175,"Huntington-Ashland, WV-KY-OH",121040.0,339
+176,"Huntsville, AL",202180.0,357
+177,"Idaho Falls, ID",56120.0,239
+178,"Indianapolis-Carmel-Anderson, IN",989770.0,554
+179,"Iowa City, IA",77690.0,252
+180,"Ithaca, NY",39670.0,200
+181,"Jackson, MI",41830.0,195
+182,"Jackson, MS",247050.0,421
+183,"Jackson, TN",53870.0,233
+184,"Jacksonville, FL",646460.0,504
+185,"Jacksonville, NC",38030.0,169
+186,"Janesville-Beloit, WI",56370.0,237
+187,"Jefferson City, MO",62060.0,239
+188,"Johnson City, TN",62600.0,247
+189,"Johnstown, PA",41430.0,194
+190,"Jonesboro, AR",46180.0,213
+191,"Joplin, MO",67940.0,242
+192,"Kahului-Wailuku-Lahaina, HI",65750.0,223
+193,"Kalamazoo-Portage, MI",124690.0,319
+194,"Kankakee, IL",34230.0,172
+195,"Kansas City, MO-KS",1037900.0,613
+196,"Kennewick-Richland, WA",99080.0,299
+197,"Killeen-Temple, TX",121840.0,313
+198,"Kingsport-Bristol-Bristol, TN-VA",103310.0,313
+199,"Kingston, NY",51560.0,226
+200,"Knoxville, TN",363510.0,485
+201,"Kokomo, IN",26460.0,130
+202,"La Crosse-Onalaska, WI-MN",64190.0,245
+203,"Lafayette, LA",184280.0,361
+204,"Lafayette-West Lafayette, IN",77770.0,263
+205,"Lake Charles, LA",91040.0,251
+206,"Lake County-Kenosha County, IL-WI Metropolitan Division",370120.0,435
+207,"Lake Havasu City-Kingman, AZ",40480.0,193
+208,"Lakeland-Winter Haven, FL",196490.0,355
+209,"Lancaster, PA",225030.0,399
+210,"Lansing-East Lansing, MI",189040.0,379
+211,"Laredo, TX",89760.0,213
+212,"Las Cruces, NM",60780.0,249
+213,"Las Vegas-Henderson-Paradise, NV",935510.0,520
+214,"Lawrence, KS",38930.0,191
+215,"Lawrence-Methuen Town-Salem, MA-NH NECTA Division",75780.0,267
+216,"Lawton, OK",34820.0,196
+217,"Lebanon, PA",42000.0,192
+218,"Leominster-Gardner, MA",43190.0,198
+219,"Lewiston, ID-WA",20770.0,138
+220,"Lewiston-Auburn, ME",41360.0,205
+221,"Lexington-Fayette, KY",247570.0,404
+222,"Lima, OH",41550.0,193
+223,"Lincoln, NE",156810.0,386
+224,"Little Rock-North Little Rock-Conway, AR",334390.0,462
+225,"Logan, UT-ID",46490.0,221
+226,"Longview, TX",79310.0,261
+227,"Longview, WA",28500.0,156
+228,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",4351930.0,669
+229,"Louisville/Jefferson County, KY-IN",616100.0,521
+230,"Lowell-Billerica-Chelmsford, MA-NH NECTA Division",145340.0,331
+231,"Lubbock, TX",129230.0,327
+232,"Lynchburg, VA",86320.0,287
+233,"Lynn-Saugus-Marblehead, MA NECTA Division",35350.0,162
+234,"Macon, GA",83480.0,260
+235,"Madera, CA",33890.0,149
+236,"Madison, WI",361400.0,485
+237,"Manchester, NH",104920.0,326
+238,"Manhattan, KS",28140.0,160
+239,"Mankato-North Mankato, MN",43420.0,209
+240,"Mansfield, OH",41220.0,200
+241,"Mayaguez, PR",23070.0,124
+242,"McAllen-Edinburg-Mission, TX",229400.0,323
+243,"Medford, OR",75000.0,279
+244,"Memphis, TN-MS-AR",591220.0,505
+245,"Merced, CA",56610.0,202
+246,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1088080.0,528
+247,"Michigan City-La Porte, IN",32650.0,169
+248,"Midland, MI",23450.0,137
+249,"Midland, TX",76910.0,251
+250,"Milwaukee-Waukesha-West Allis, WI",815730.0,548
+251,"Minneapolis-St. Paul-Bloomington, MN-WI",1896650.0,633
+252,"Missoula, MT",52590.0,243
+253,"Mobile, AL",155990.0,359
+254,"Modesto, CA",168720.0,347
+255,"Monroe, LA",64030.0,226
+256,"Monroe, MI",29670.0,150
+257,"Montgomery County-Bucks County-Chester County, PA Metropolitan Division",1006500.0,546
+258,"Montgomery, AL",153110.0,352
+259,"Morgantown, WV",52760.0,226
+260,"Morristown, TN",32870.0,164
+261,"Mount Vernon-Anacortes, WA",40280.0,216
+262,"Muncie, IN",37060.0,174
+263,"Muskegon, MI",50830.0,195
+264,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",146270.0,288
+265,"Napa, CA",64320.0,232
+266,"Naples-Immokalee-Marco Island, FL",130690.0,280
+267,"Nashua, NH-MA NECTA Division",122500.0,322
+268,"Nashville-Davidson--Murfreesboro--Franklin, TN",905980.0,564
+269,"Nassau County-Suffolk County, NY Metropolitan Division",1272990.0,563
+270,"New Bedford, MA",57180.0,230
+271,"New Bern, NC",37190.0,199
+272,"New Haven, CT",254260.0,408
+273,"New Orleans-Metairie, LA",523090.0,483
+274,"New York-Jersey City-White Plains, NY-NJ Metropolitan Division",6630710.0,693
+275,"Newark, NJ-PA Metropolitan Division",1122920.0,566
+276,"Niles-Benton Harbor, MI",52520.0,223
+277,"North Port-Sarasota-Bradenton, FL",265660.0,387
+278,"Norwich-New London-Westerly, CT-RI",105250.0,287
+279,"Oakland-Hayward-Berkeley, CA Metropolitan Division",1093260.0,562
+280,"Ocala, FL",86760.0,267
+281,"Ocean City, NJ",33910.0,162
+282,"Odessa, TX",59010.0,202
+283,"Ogden-Clearfield, UT",238140.0,401
+284,"Oklahoma City, OK",582480.0,530
+285,"Olympia-Tumwater, WA",99410.0,289
+286,"Omaha-Council Bluffs, NE-IA",468490.0,492
+287,"Orlando-Kissimmee-Sanford, FL",1149670.0,526
+288,"Oshkosh-Neenah, WI",81770.0,264
+289,"Owensboro, KY",42860.0,197
+290,"Oxnard-Thousand Oaks-Ventura, CA",291050.0,411
+291,"Palm Bay-Melbourne-Titusville, FL",193490.0,362
+292,"Panama City, FL",70200.0,250
+293,"Parkersburg-Vienna, WV",28580.0,150
+294,"Peabody-Salem-Beverly, MA NECTA Division",84040.0,278
+295,"Pensacola-Ferry Pass-Brent, FL",150510.0,347
+296,"Peoria, IL",149560.0,322
+297,"Philadelphia, PA Metropolitan Division",880410.0,573
+298,"Phoenix-Mesa-Scottsdale, AZ",1932620.0,611
+299,"Pine Bluff, AR",24000.0,135
+300,"Pittsburgh, PA",1103650.0,589
+301,"Pittsfield, MA",31870.0,173
+302,"Pocatello, ID",24040.0,138
+303,"Ponce, PR",51790.0,194
+304,"Port St. Lucie, FL",128900.0,312
+305,"Portland-South Portland, ME",193550.0,415
+306,"Portland-Vancouver-Hillsboro, OR-WA",1124000.0,622
+307,"Portsmouth, NH-ME",85390.0,311
+308,"Prescott, AZ",54030.0,238
+309,"Providence-Warwick, RI-MA",547600.0,534
+310,"Provo-Orem, UT",211830.0,363
+311,"Pueblo, CO",50620.0,207
+312,"Punta Gorda, FL",38160.0,153
+313,"Racine, WI",65080.0,229
+314,"Raleigh, NC",591180.0,510
+315,"Rapid City, SD",59260.0,262
+316,"Reading, PA",157830.0,346
+317,"Redding, CA",56170.0,235
+318,"Reno, NV",213100.0,426
+319,"Richmond, VA",610690.0,505
+320,"Riverside-San Bernardino-Ontario, CA",1383300.0,586
+321,"Roanoke, VA",135810.0,339
+322,"Rochester, MN",90290.0,246
+323,"Rochester, NY",492520.0,499
+324,"Rockford, IL",130340.0,289
+325,"Rocky Mount, NC",47030.0,211
+326,"Rome, GA",27450.0,149
+327,"Sacramento--Roseville--Arden-Arcade, CA",908050.0,560
+328,"Saginaw, MI",70870.0,226
+329,"Salem, OR",152730.0,361
+330,"Salinas, CA",155200.0,325
+331,"Salisbury, MD-DE",149700.0,362
+332,"Salt Lake City, UT",662860.0,549
+333,"San Angelo, TX",37160.0,189
+334,"San Antonio-New Braunfels, TX",974750.0,544
+335,"San Diego-Carlsbad, CA",1393350.0,595
+336,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",1060750.0,518
+337,"San German, PR",12860.0,81
+338,"San Jose-Sunnyvale-Santa Clara, CA",1038750.0,484
+339,"San Juan-Carolina-Caguas, PR",636690.0,491
+340,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",102600.0,293
+341,"San Rafael, CA Metropolitan Division",104240.0,289
+342,"Santa Cruz-Watsonville, CA",86440.0,282
+343,"Santa Fe, NM",53690.0,230
+344,"Santa Maria-Santa Barbara, CA",169060.0,371
+345,"Santa Rosa, CA",189270.0,381
+346,"Savannah, GA",154190.0,340
+347,"Scranton--Wilkes-Barre--Hazleton, PA",244780.0,403
+348,"Seattle-Bellevue-Everett, WA Metropolitan Division",1574710.0,625
+349,"Sebastian-Vero Beach, FL",43850.0,202
+350,"Sebring, FL",18510.0,122
+351,"Sheboygan, WI",50820.0,214
+352,"Sherman-Denison, TX",37020.0,176
+353,"Shreveport-Bossier City, LA",161750.0,354
+354,"Sierra Vista-Douglas, AZ",25840.0,172
+355,"Silver Spring-Frederick-Rockville, MD Metropolitan Division",561550.0,487
+356,"Sioux City, IA-NE-SD",75300.0,283
+357,"Sioux Falls, SD",141960.0,352
+358,"South Bend-Mishawaka, IN-MI",121590.0,343
+359,"Spartanburg, SC",139110.0,320
+360,"Spokane-Spokane Valley, WA",219680.0,424
+361,"Springfield, IL",93420.0,285
+362,"Springfield, MA-CT",311280.0,479
+363,"Springfield, MO",189090.0,380
+364,"Springfield, OH",38400.0,183
+365,"St. Cloud, MN",94920.0,300
+366,"St. George, UT",52150.0,216
+367,"St. Joseph, MO-KS",42260.0,192
+368,"St. Louis, MO-IL",1321870.0,614
+369,"State College, PA",53260.0,211
+370,"Staunton-Waynesboro, VA",37230.0,193
+371,"Stockton-Lodi, CA",225060.0,371
+372,"Sumter, SC",28770.0,144
+373,"Syracuse, NY",285290.0,452
+374,"Tacoma-Lakewood, WA Metropolitan Division",278820.0,422
+375,"Tallahassee, FL",146980.0,351
+376,"Tampa-St. Petersburg-Clearwater, FL",1241240.0,554
+377,"Taunton-Middleborough-Norton, MA NECTA Division",48450.0,198
+378,"Terre Haute, IN",58860.0,244
+379,"Texarkana, TX-AR",48720.0,211
+380,"The Villages, FL",19650.0,120
+381,"Toledo, OH",279440.0,428
+382,"Topeka, KS",99110.0,311
+383,"Trenton, NJ",209480.0,371
+384,"Tucson, AZ",345130.0,450
+385,"Tulsa, OK",400450.0,490
+386,"Tuscaloosa, AL",87570.0,287
+387,"Tyler, TX",91070.0,290
+388,"Urban Honolulu, HI",434260.0,479
+389,"Utica-Rome, NY",114550.0,340
+390,"Valdosta, GA",44060.0,206
+391,"Vallejo-Fairfield, CA",115860.0,315
+392,"Victoria, TX",33160.0,162
+393,"Vineland-Bridgeton, NJ",50930.0,208
+394,"Virginia Beach-Norfolk-Newport News, VA-NC",705660.0,520
+395,"Visalia-Porterville, CA",138340.0,304
+396,"Waco, TX",101050.0,298
+397,"Walla Walla, WA",16990.0,134
+398,"Warner Robins, GA",58530.0,203
+399,"Warren-Troy-Farmington Hills, MI Metropolitan Division",1196340.0,539
+400,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",2471200.0,644
+401,"Waterbury, CT",60690.0,243
+402,"Waterloo-Cedar Falls, IA",75570.0,279
+403,"Watertown-Fort Drum, NY",32880.0,181
+404,"Wausau, WI",60570.0,241
+405,"Weirton-Steubenville, WV-OH",29100.0,169
+406,"Wenatchee, WA",37320.0,187
+407,"West Palm Beach-Boca Raton-Delray Beach, FL Metropolitan Division",577590.0,466
+408,"Wheeling, WV-OH",54350.0,243
+409,"Wichita Falls, TX",46860.0,201
+410,"Wichita, KS",283120.0,426
+411,"Williamsport, PA",41840.0,190
+412,"Wilmington, DE-MD-NJ Metropolitan Division",324060.0,454
+413,"Wilmington, NC",114270.0,314
+414,"Winchester, VA-WV",47990.0,212
+415,"Winston-Salem, NC",248940.0,400
+416,"Worcester, MA-CT",271700.0,437
+417,"Yakima, WA",81270.0,267
+418,"York-Hanover, PA",167010.0,352
+419,"Youngstown-Warren-Boardman, OH-PA",201870.0,380
+420,"Yuba City, CA",33470.0,170
+421,"Yuma, AZ",49500.0,205

@@ -1,0 +1,1593 @@
+,UNITID,N,D,INSTNM,mySector
+0,100654,726,59,Alabama A & M University,master
+1,100663,4332,133,University of Alabama at Birmingham,doctoral
+2,100690,112,18,Amridge University,master
+3,100706,1597,69,University of Alabama in Huntsville,doctoral
+4,100724,812,50,Alabama State University,master
+5,100751,8453,173,The University of Alabama,doctoral
+6,100812,780,30,Athens State University,baccalaureate
+7,100830,856,47,Auburn University at Montgomery,master
+8,100858,6129,190,Auburn University,doctoral
+9,100937,261,32,Birmingham Southern College,baccalaureate
+11,101116,106,17,South University-Montgomery,baccalaureate
+12,101189,712,46,Faulkner University,master
+14,101435,249,30,Huntingdon College,baccalaureate
+16,101480,1674,58,Jacksonville State University,master
+18,101587,815,33,University of West Alabama,master
+19,101675,233,21,Miles College,baccalaureate
+20,101693,298,36,University of Mobile,baccalaureate
+21,101709,679,32,University of Montevallo,master
+22,101879,1303,53,University of North Alabama,master
+23,101912,349,46,Oakwood University,baccalaureate
+24,102049,1415,90,Samford University,master
+26,102094,3355,93,University of South Alabama,doctoral
+27,102234,238,32,Spring Hill College,baccalaureate
+29,102270,121,13,Stillman College,baccalaureate
+30,102298,127,15,Talladega College,baccalaureate
+31,102368,3442,73,Troy University,master
+32,102377,645,54,Tuskegee University,master
+34,102553,1429,74,University of Alaska Anchorage,master
+36,102614,846,110,University of Alaska Fairbanks,doctoral
+37,102632,300,25,University of Alaska Southeast,master
+38,102669,103,23,Alaska Pacific University,master
+42,104090,241,7,Brookline College-Phoenix,baccalaureate
+43,104151,12892,252,Arizona State University-Tempe,doctoral
+44,104179,9745,312,University of Arizona,doctoral
+47,104586,385,18,Embry-Riddle Aeronautical University-Prescott,baccalaureate
+49,104717,17911,70,Grand Canyon University,doctoral
+51,105330,6541,157,Northern Arizona University,doctoral
+52,105367,300,36,Ottawa University-Phoenix,master
+54,105589,204,43,Prescott College,master
+55,105899,126,17,Arizona Christian University,baccalaureate
+57,106245,2034,95,University of Arkansas at Little Rock,doctoral
+60,106342,112,18,Lyon College,baccalaureate
+61,106397,6089,188,University of Arkansas,doctoral
+62,106412,434,33,University of Arkansas at Pine Bluff,baccalaureate
+63,106458,3122,111,Arkansas State University-Main Campus,master
+64,106467,1751,74,Arkansas Tech University,master
+65,106485,389,33,University of Arkansas at Monticello,master
+66,106704,2149,98,University of Central Arkansas,master
+67,106713,115,24,Central Baptist College,baccalaureate
+69,107044,1286,100,Harding University,master
+70,107071,630,51,Henderson State University,master
+71,107080,281,31,Hendrix College,baccalaureate
+72,107141,680,51,John Brown University,master
+73,107512,325,41,Ouachita Baptist University,baccalaureate
+74,107558,113,22,University of the Ozarks,baccalaureate
+75,107600,131,13,Philander Smith College,baccalaureate
+76,107877,89,16,Williams Baptist College,baccalaureate
+77,107983,720,41,Southern Arkansas University Main Campus,master
+78,108092,797,32,University of Arkansas-Fort Smith,baccalaureate
+85,109785,2904,58,Azusa Pacific University,doctoral
+87,110097,1356,65,Biola University,doctoral
+90,110316,376,18,California Institute of Integral Studies,doctoral
+91,110361,1968,79,California Baptist University,master
+94,110404,579,70,California Institute of Technology,doctoral
+95,110413,1343,54,California Lutheran University,master
+96,110422,4952,97,California Polytechnic State University-San Luis Obispo,master
+97,110468,873,32,Alliant International University-San Diego,doctoral
+98,110486,2189,49,California State University-Bakersfield,master
+99,110495,2125,48,California State University-Stanislaus,master
+100,110510,4160,63,California State University-San Bernardino,master
+101,110529,5307,79,California State Polytechnic University-Pomona,master
+102,110538,4055,94,California State University-Chico,master
+103,110547,3590,61,California State University-Dominguez Hills,master
+104,110556,5043,93,California State University-Fresno,doctoral
+105,110565,9933,99,California State University-Fullerton,doctoral
+106,110574,4262,72,California State University-East Bay,master
+107,110583,9543,135,California State University-Long Beach,master
+108,110592,6916,107,California State University-Los Angeles,master
+109,110608,9706,117,California State University-Northridge,master
+110,110617,6363,87,California State University-Sacramento,master
+111,110635,11349,243,University of California-Berkeley,doctoral
+112,110644,9673,253,University of California-Davis,doctoral
+113,110653,8702,207,University of California-Irvine,doctoral
+114,110662,12513,262,University of California-Los Angeles,doctoral
+115,110671,5240,155,University of California-Riverside,doctoral
+116,110680,8257,192,University of California-San Diego,doctoral
+118,110705,6191,159,University of California-Santa Barbara,doctoral
+119,110714,4568,108,University of California-Santa Cruz,doctoral
+122,111188,247,7,California State University Maritime Academy,baccalaureate
+124,111948,2206,89,Chapman University,master
+126,112075,1703,35,Concordia University-Irvine,master
+127,112084,154,16,San Diego Christian College,baccalaureate
+129,112251,581,44,Claremont Graduate University,doctoral
+130,112260,313,37,Claremont McKenna College,baccalaureate
+131,112394,63,7,Cogswell College,baccalaureate
+137,113698,479,35,Dominican University of California,master
+143,114549,243,11,Fielding Graduate University,doctoral
+146,114813,1038,69,Fresno Pacific University,master
+148,115083,958,24,Golden Gate University-San Francisco,master
+150,115409,193,13,Harvey Mudd College,baccalaureate
+151,115728,275,35,Holy Names University,master
+153,115755,1943,55,Humboldt State University,master
+154,115773,150,10,Humphreys University-Stockton and Modesto Campuses,baccalaureate
+156,116712,307,15,John F. Kennedy University,master
+157,116846,53,9,American Jewish University,baccalaureate
+160,117140,2351,64,University of La Verne,doctoral
+166,117627,385,49,La Sierra University,master
+169,117751,359,25,The Master's University and Seminary,master
+171,117946,2738,82,Loyola Marymount University,master
+172,118541,161,6,Marymount California University,baccalaureate
+174,118888,438,46,Mills College,master
+175,119058,336,10,Middlebury Institute of International Studies at Monterey,master
+176,119173,761,53,Mount Saint Mary's University,master
+178,119605,4974,94,National University,master
+179,119678,1273,38,Naval Postgraduate School,doctoral
+181,120184,519,33,Notre Dame de Namur University,master
+182,120254,488,33,Occidental College,baccalaureate
+184,120537,316,18,Hope International University,master
+189,120865,270,38,Pacific Union College,baccalaureate
+190,120883,1726,84,University of the Pacific,doctoral
+191,121150,2403,84,Pepperdine University,doctoral
+192,121257,259,50,Pitzer College,baccalaureate
+194,121309,890,63,Point Loma Nazarene University,master
+195,121345,380,37,Pomona College,baccalaureate
+197,121691,1595,58,University of Redlands,master
+202,122409,8748,164,San Diego State University,doctoral
+203,122436,2293,75,University of San Diego,doctoral
+206,122597,6837,129,San Francisco State University,doctoral
+208,122612,3273,99,University of San Francisco,doctoral
+210,122728,276,19,William Jessup University,baccalaureate
+211,122755,8972,136,San Jose State University,master
+214,122931,2718,69,Santa Clara University,master
+216,123165,205,43,Scripps College,baccalaureate
+219,123457,442,32,Simpson University,master
+220,123554,1093,62,Saint Mary's College of California,master
+221,123572,2140,55,Sonoma State University,master
+223,123651,620,31,Vanguard University of Southern California,master
+228,123961,14625,325,University of Southern California,doctoral
+234,125231,11842,66,Walden University,doctoral
+236,125727,286,23,Westmont College,baccalaureate
+237,125763,528,32,Whittier College,baccalaureate
+238,125897,418,23,Woodbury University,master
+243,126182,727,24,Adams State University,master
+244,126562,5006,132,University of Colorado Denver/Anschutz Medical Campus,doctoral
+245,126580,2169,53,University of Colorado Colorado Springs,master
+246,126614,7254,174,University of Colorado Boulder,doctoral
+247,126669,719,37,Colorado Christian University,master
+248,126678,546,45,Colorado College,baccalaureate
+251,126775,1469,62,Colorado School of Mines,doctoral
+252,126818,6949,183,Colorado State University-Fort Collins,doctoral
+253,126827,4023,29,Colorado Technical University-Colorado Springs,master
+256,127060,3629,144,University of Denver,doctoral
+257,127185,766,34,Fort Lewis College,baccalaureate
+259,127556,1025,40,Colorado Mesa University,baccalaureate
+260,127565,3418,63,Metropolitan State University of Denver,master
+261,127653,275,19,Naropa University,master
+264,127741,2718,98,University of Northern Colorado,doctoral
+265,127918,2533,65,Regis University,master
+267,128106,877,37,Colorado State University-Pueblo,master
+268,128328,825,34,United States Air Force Academy,baccalaureate
+269,128391,427,25,Western State Colorado University,master
+270,128498,443,31,Albertus Magnus College,master
+272,128744,1514,58,University of Bridgeport,master
+273,128771,2446,96,Central Connecticut State University,master
+274,128780,508,6,Charter Oak State College,baccalaureate
+275,128902,433,40,Connecticut College,baccalaureate
+276,129020,7736,259,University of Connecticut,doctoral
+278,129215,1152,37,Eastern Connecticut State University,master
+279,129242,1448,66,Fairfield University,master
+280,129428,89,6,Rensselaer Hartford Graduate Center Inc,master
+282,129525,1697,88,University of Hartford,doctoral
+284,129774,132,12,Mitchell College,baccalaureate
+285,129941,2077,75,University of New Haven,master
+287,130183,1318,21,Post University,master
+288,130226,2554,73,Quinnipiac University,master
+289,130253,2101,51,Sacred Heart University,master
+290,130314,803,33,University of Saint Joseph,master
+292,130493,2239,78,Southern Connecticut State University,master
+294,130590,578,39,Trinity College,baccalaureate
+295,130624,219,7,United States Coast Guard Academy,baccalaureate
+296,130697,810,61,Wesleyan University,baccalaureate
+297,130776,1220,52,Western Connecticut State University,master
+298,130794,3923,198,Yale University,doctoral
+299,130934,822,69,Delaware State University,master
+300,130943,5201,213,University of Delaware,doctoral
+302,131098,210,30,Wesley College,baccalaureate
+303,131113,4452,75,Wilmington University,doctoral
+304,131159,3837,126,American University,doctoral
+305,131283,1721,141,Catholic University of America,doctoral
+306,131399,493,49,University of the District of Columbia,master
+308,131450,407,43,Gallaudet University,master
+309,131469,7655,259,George Washington University,doctoral
+310,131496,6418,149,Georgetown University,doctoral
+311,131520,2112,118,Howard University,doctoral
+312,131803,210,14,Strayer University-District of Columbia,master
+313,131876,388,35,Trinity Washington University,master
+317,132471,2502,88,Barry University,doctoral
+318,132602,597,39,Bethune-Cookman University,baccalaureate
+319,132657,752,41,Lynn University,master
+325,132903,15489,178,University of Central Florida,doctoral
+329,133492,492,45,Eckerd College,baccalaureate
+331,133526,115,9,Edward Waters College,baccalaureate
+332,133553,1129,33,Embry-Riddle Aeronautical University-Daytona Beach,master
+333,133650,2273,77,Florida Agricultural and Mechanical University,doctoral
+334,133669,7143,140,Florida Atlantic University,doctoral
+336,133711,598,32,Flagler College-St Augustine,baccalaureate
+339,133881,1818,121,Florida Institute of Technology,doctoral
+340,133951,12664,174,Florida International University,doctoral
+341,133979,249,28,Florida Memorial University,baccalaureate
+342,134079,617,51,Florida Southern College,master
+343,134097,11406,246,Florida State University,doctoral
+345,134130,13919,301,University of Florida,doctoral
+346,134149,121,7,Everest University-Pompano Beach,master
+347,134237,4216,31,Full Sail University,master
+353,134945,1282,67,Jacksonville University,master
+355,135081,1595,42,Keiser University-Ft Lauderdale,master
+360,135610,70,7,Trinity International University-Florida,baccalaureate
+362,135726,4665,240,University of Miami,doctoral
+365,136172,3877,87,University of North Florida,master
+366,136215,6670,144,Nova Southeastern University,doctoral
+369,136330,772,54,Palm Beach Atlantic University,master
+376,136950,840,43,Rollins College,master
+377,137032,4100,55,Saint Leo University,master
+380,137148,150,23,Argosy University-Sarasota,doctoral
+385,137351,11518,222,University of South Florida-Main Campus,doctoral
+386,137476,802,45,St Thomas University,master
+387,137546,1070,61,Stetson University,master
+388,137564,631,53,Southeastern University,master
+392,137847,1923,62,The University of Tampa,master
+396,138275,249,25,Warner University,baccalaureate
+397,138293,137,17,Webber International University,baccalaureate
+399,138354,2905,78,The University of West Florida,doctoral
+401,138600,187,31,Agnes Scott College,baccalaureate
+403,138716,708,42,Albany State University,master
+404,138789,1291,49,Armstrong State University,master
+406,138868,202,16,Point University,baccalaureate
+409,138947,784,53,Clark Atlanta University,doctoral
+410,139144,554,41,Berry College,master
+412,139199,778,55,Brenau University,master
+413,139205,63,11,Brewton-Parker College,baccalaureate
+416,139311,1185,37,Clayton  State University,master
+418,139366,1453,60,Columbus State University,master
+419,139393,259,34,Covenant College,baccalaureate
+421,139579,422,18,South University-Savannah,master
+423,139630,110,18,Emmanuel College,baccalaureate
+424,139658,4188,142,Emory University,doctoral
+426,139719,529,42,Fort Valley State University,master
+427,139755,6246,111,Georgia Institute of Technology-Main Campus,doctoral
+428,139764,512,30,Georgia Southwestern State University,master
+429,139861,1514,64,Georgia College and State University,master
+430,139931,4051,100,Georgia Southern University,doctoral
+431,139940,7293,166,Georgia State University,doctoral
+432,139959,9578,323,University of Georgia,doctoral
+435,140234,236,30,LaGrange College,baccalaureate
+437,140340,131,11,Herzing University-Atlanta,baccalaureate
+438,140447,2324,101,Mercer University,doctoral
+439,140553,330,25,Morehouse College,baccalaureate
+441,140696,188,22,Oglethorpe University,baccalaureate
+442,140720,84,18,Paine College,baccalaureate
+443,140818,577,40,Piedmont College,master
+444,140872,266,37,Reinhardt University,baccalaureate
+446,140960,567,30,Savannah State University,master
+447,140988,404,36,Shorter University,baccalaureate
+448,141060,463,28,Spelman College,baccalaureate
+449,141167,320,21,Thomas University,master
+450,141185,164,23,Toccoa Falls College,baccalaureate
+451,141237,152,15,Truett McConnell University,baccalaureate
+452,141264,2223,80,Valdosta State University,doctoral
+453,141325,136,27,Wesleyan College,baccalaureate
+454,141334,2269,65,University of West Georgia,doctoral
+455,141361,173,20,Young Harris College,baccalaureate
+456,141486,607,37,Chaminade University of Honolulu,master
+457,141565,893,43,University of Hawaii at Hilo,master
+458,141574,5055,215,University of Hawaii at Manoa,doctoral
+459,141644,1083,44,Hawaii Pacific University,master
+462,141981,474,6,University of Hawaii-West Oahu,baccalaureate
+464,142115,3721,123,Boise State University,doctoral
+465,142276,1824,155,Idaho State University,doctoral
+466,142285,2486,172,University of Idaho,doctoral
+467,142294,267,30,The College of Idaho,baccalaureate
+468,142328,541,46,Lewis-Clark State College,baccalaureate
+469,142461,589,60,Northwest Nazarene University,master
+470,142522,4178,76,Brigham Young University-Idaho,baccalaureate
+474,143084,546,47,Augustana College,baccalaureate
+475,143118,1537,53,Aurora University,master
+477,143288,89,23,Blackburn College,baccalaureate
+479,143358,1498,108,Bradley University,master
+483,144005,945,53,Chicago State University,master
+485,144050,4884,155,University of Chicago,doctoral
+486,144281,2010,57,Columbia College Chicago,master
+487,144351,1740,82,Concordia University-Chicago,master
+488,144740,6361,186,DePaul University,doctoral
+489,144883,83,6,East-West University,baccalaureate
+490,144892,2313,72,Eastern Illinois University,master
+491,144962,894,64,Elmhurst College,master
+492,144971,161,21,Eureka College,baccalaureate
+494,145336,1684,60,Governors State University,master
+495,145372,328,50,Greenville College,master
+499,145600,7322,201,University of Illinois at Chicago,doctoral
+500,145619,1898,60,Benedictine University,doctoral
+502,145637,12361,307,University of Illinois at Urbana-Champaign,doctoral
+503,145646,439,39,Illinois Wesleyan University,baccalaureate
+504,145691,225,27,Illinois College,baccalaureate
+505,145725,2652,108,Illinois Institute of Technology,doctoral
+506,145770,222,19,Argosy University-Chicago,doctoral
+507,145813,5183,119,Illinois State University,doctoral
+511,146339,313,45,Judson University,master
+513,146427,303,33,Knox College,baccalaureate
+514,146481,385,31,Lake Forest College,baccalaureate
+517,146612,1793,83,Lewis University,master
+520,146719,4290,175,Loyola University Chicago,doctoral
+523,146825,131,17,MacMurray College,baccalaureate
+525,147013,797,46,McKendree University,master
+529,147244,520,42,Millikin University,baccalaureate
+530,147341,243,32,Monmouth College,baccalaureate
+532,147536,1468,44,National Louis University,doctoral
+534,147660,773,61,North Central College,master
+535,147679,736,55,North Park University,master
+537,147703,5276,128,Northern Illinois University,doctoral
+538,147767,7204,250,Northwestern University,doctoral
+539,147776,2158,68,Northeastern Illinois University,master
+540,147828,1372,80,Olivet Nazarene University,master
+541,148016,98,21,Principia College,baccalaureate
+542,148131,275,35,Quincy University,master
+544,148335,715,8,Robert Morris University Illinois,master
+545,148405,323,30,Rockford University,master
+546,148487,1732,98,Roosevelt University,master
+547,148496,925,57,Dominican University,master
+550,148584,883,55,University of St Francis,master
+552,148627,1052,64,Saint Xavier University,master
+553,148654,1715,46,University of Illinois at Springfield,master
+559,149222,4570,194,Southern Illinois University-Carbondale,doctoral
+560,149231,3091,90,Southern Illinois University-Edwardsville,master
+562,149505,275,37,Trinity Christian College,baccalaureate
+563,149514,347,42,Trinity International University-Illinois,doctoral
+566,149772,2838,105,Western Illinois University,master
+567,149781,785,52,Wheaton College,baccalaureate
+568,150066,549,66,Anderson University,master
+569,150136,4881,159,Ball State University,doctoral
+570,150145,428,59,Bethel College-Indiana,master
+571,150163,1152,70,Butler University,master
+572,150172,241,21,Calumet College of Saint Joseph,master
+575,150400,541,38,DePauw University,baccalaureate
+576,150455,242,35,Earlham College,baccalaureate
+577,150534,554,73,University of Evansville,master
+578,150604,214,44,Franklin College,baccalaureate
+579,150668,243,35,Goshen College,baccalaureate
+580,150677,467,68,Grace College and Theological Seminary,master
+581,150756,276,30,Hanover College,baccalaureate
+582,150774,76,9,Holy Cross College,baccalaureate
+583,150941,233,52,Huntington University,baccalaureate
+584,151102,1538,71,Indiana University-Purdue University-Fort Wayne,master
+585,151111,6508,179,Indiana University-Purdue University-Indianapolis,doctoral
+587,151263,1271,76,University of Indianapolis,master
+589,151306,1827,59,University of Southern Indiana,master
+590,151324,2572,121,Indiana State University,doctoral
+591,151333,573,28,Indiana University-Kokomo,baccalaureate
+592,151342,917,57,Indiana University-South Bend,master
+593,151351,10529,252,Indiana University-Bloomington,doctoral
+594,151360,673,43,Indiana University-Northwest,master
+595,151379,969,38,Indiana University-Southeast,master
+596,151388,766,24,Indiana University-East,master
+599,151777,264,39,Manchester University,baccalaureate
+600,151786,658,32,Marian University,master
+601,151801,731,73,Indiana Wesleyan University-Marion,master
+602,151810,56,11,Martin University,baccalaureate
+606,152080,3581,130,University of Notre Dame,doctoral
+607,152099,190,24,Oakland City University,baccalaureate
+608,152248,1938,53,Purdue University-Calumet Campus,master
+609,152266,509,24,Purdue University-North Central Campus,baccalaureate
+611,152336,500,42,University of Saint Francis-Fort Wayne,master
+612,152363,232,29,Saint Josephs College,baccalaureate
+613,152381,212,33,Saint Mary-of-the-Woods College,baccalaureate
+614,152390,359,31,Saint Mary's College,baccalaureate
+616,152530,478,57,Taylor University,baccalaureate
+617,152567,388,36,Trine University,baccalaureate
+618,152600,1331,87,Valparaiso University,master
+620,152673,195,21,Wabash College,baccalaureate
+622,152992,247,34,Briar Cliff University,baccalaureate
+623,153001,656,56,Buena Vista University,baccalaureate
+624,153108,280,33,Central College,baccalaureate
+625,153126,303,29,Clarke University,baccalaureate
+626,153144,286,33,Coe College,baccalaureate
+627,153162,270,32,Cornell College,baccalaureate
+629,153250,336,50,Dordt College,baccalaureate
+630,153269,1365,73,Drake University,master
+631,153278,477,38,University of Dubuque,master
+634,153366,604,36,Graceland University-Lamoni,master
+635,153375,544,49,Grand View University,baccalaureate
+636,153384,375,26,Grinnell College,baccalaureate
+640,153603,7549,246,Iowa State University,doctoral
+641,153621,114,22,Iowa Wesleyan University,baccalaureate
+642,153658,6962,254,University of Iowa,doctoral
+643,153825,349,39,Loras College,baccalaureate
+644,153834,562,38,Luther College,baccalaureate
+645,153861,395,19,Maharishi University of Management,master
+647,154004,542,40,Morningside College,master
+648,154013,530,45,Mount Mercy University,master
+649,154022,12524,67,Ashford University,master
+650,154095,2678,136,University of Northern Iowa,master
+651,154101,251,36,Northwestern College,baccalaureate
+654,154235,953,73,Saint Ambrose University,master
+656,154350,433,45,Simpson College,baccalaureate
+657,154493,1453,52,Upper Iowa University,master
+658,154518,404,23,Waldorf University,baccalaureate
+659,154527,392,35,Wartburg College,baccalaureate
+661,154590,355,40,William Penn University,master
+662,154688,854,39,Baker University,master
+663,154712,389,42,Benedictine College,baccalaureate
+664,154721,116,28,Bethany College,baccalaureate
+665,154749,123,17,Bethel College-North Newton,baccalaureate
+668,154855,114,19,Central Christian College of Kansas,baccalaureate
+670,155025,1435,66,Emporia State University,master
+671,155061,3279,65,Fort Hays State University,master
+673,155089,637,46,Friends University,master
+677,155317,6540,256,University of Kansas,doctoral
+678,155335,484,36,Newman University,master
+679,155399,5100,194,Kansas State University,doctoral
+680,155414,150,32,Kansas Wesleyan University,baccalaureate
+682,155511,146,31,McPherson College,baccalaureate
+683,155520,613,39,MidAmerica Nazarene University,master
+684,155627,122,27,Ottawa University-Ottawa,baccalaureate
+685,155636,165,25,Ottawa University-Kansas City,baccalaureate
+686,155681,1660,74,Pittsburg State University,master
+687,155812,355,40,University of Saint Mary,master
+688,155900,554,56,Southwestern College,master
+689,155937,131,21,Sterling College,baccalaureate
+690,155973,157,30,Tabor College,baccalaureate
+691,156082,1026,69,Washburn University,master
+692,156125,3066,118,Wichita State University,doctoral
+693,156189,83,12,Alice Lloyd College,baccalaureate
+694,156213,420,50,Asbury University,master
+696,156286,903,53,Bellarmine University,master
+697,156295,312,45,Berea College,baccalaureate
+698,156356,170,22,Brescia University,baccalaureate
+699,156365,588,50,Campbellsville University,master
+700,156408,298,26,Centre College,baccalaureate
+703,156541,1622,50,University of the Cumberlands,doctoral
+704,156620,3413,126,Eastern Kentucky University,master
+706,156745,302,34,Georgetown College,baccalaureate
+709,157058,321,29,Kentucky State University,baccalaureate
+710,157076,115,26,Kentucky Wesleyan College,baccalaureate
+711,157085,6638,244,University of Kentucky,doctoral
+712,157100,124,20,Kentucky Christian University,baccalaureate
+714,157216,640,25,Lindsey Wilson College,master
+716,157289,4587,153,University of Louisville,doctoral
+718,157377,214,18,Midway University,master
+719,157386,1597,80,Morehead State University,master
+720,157401,2392,105,Murray State University,master
+721,157447,2795,84,Northern Kentucky University,master
+722,157535,326,23,University of Pikeville,baccalaureate
+726,157757,531,36,Spalding University,doctoral
+728,157793,831,17,Sullivan University,master
+729,157809,347,32,Thomas More College,master
+730,157818,267,35,Transylvania University,baccalaureate
+731,157863,241,33,Union College,master
+732,157951,3678,139,Western Kentucky University,master
+733,158477,157,25,Centenary College of Louisiana,baccalaureate
+734,158802,256,21,Dillard University,baccalaureate
+735,159009,725,44,Grambling State University,master
+737,159382,216,13,Louisiana State University-Alexandria,baccalaureate
+738,159391,6540,191,Louisiana State University and Agricultural & Mechanical College,doctoral
+739,159416,798,37,Louisiana State University-Shreveport,master
+740,159568,206,37,Louisiana College,master
+741,159647,1737,97,Louisiana Tech University,doctoral
+742,159656,1252,68,Loyola University New Orleans,master
+743,159717,1369,52,McNeese State University,master
+744,159939,1827,82,University of New Orleans,doctoral
+746,159966,1060,42,Nicholls State University,master
+747,159993,1416,59,University of Louisiana at Monroe,doctoral
+749,160038,1441,53,Northwestern State University of Louisiana,master
+750,160065,206,27,University of Holy Cross,baccalaureate
+753,160612,2185,59,Southeastern Louisiana University,master
+754,160621,929,53,Southern University and A & M College,master
+755,160630,498,20,Southern University at New Orleans,master
+756,160658,3314,97,University of Louisiana at Lafayette,doctoral
+757,160755,3915,154,Tulane University of Louisiana,doctoral
+758,160904,544,41,Xavier University of Louisiana,master
+761,160977,462,34,Bates College,baccalaureate
+762,161004,461,37,Bowdoin College,baccalaureate
+763,161086,504,42,Colby College,baccalaureate
+764,161217,431,20,University of Maine at Augusta,baccalaureate
+765,161226,361,32,University of Maine at Farmington,baccalaureate
+766,161235,168,11,University of Maine at Fort Kent,baccalaureate
+767,161244,78,12,University of Maine at Machias,baccalaureate
+768,161253,2081,151,University of Maine,doctoral
+769,161299,242,7,Maine Maritime Academy,baccalaureate
+770,161341,154,17,University of Maine at Presque Isle,baccalaureate
+771,161457,1619,41,University of New England,master
+773,161518,614,40,Saint Joseph's College of Maine,master
+774,161554,1792,94,University of Southern Maine,master
+775,161563,237,20,Thomas College,master
+776,161572,118,13,Unity College,baccalaureate
+777,161873,1530,40,University of Baltimore,master
+778,162007,1179,42,Bowie State University,master
+780,162210,270,34,Washington Adventist University,master
+781,162283,541,37,Coppin State University,master
+782,162584,1182,54,Frostburg State University,master
+783,162654,461,38,Goucher College,baccalaureate
+785,162760,580,44,Hood College,master
+786,162928,7354,193,Johns Hopkins University,doctoral
+787,163046,1601,51,Loyola University Maryland,master
+788,163204,9353,48,University of Maryland-University College,master
+790,163268,3269,101,University of Maryland-Baltimore County,doctoral
+791,163286,10716,250,University of Maryland-College Park,doctoral
+793,163338,768,46,University of Maryland Eastern Shore,doctoral
+794,163453,1203,80,Morgan State University,doctoral
+795,163462,550,37,Mount St Mary's University,master
+797,163578,766,34,Notre Dame of Maryland University,master
+798,163851,2238,58,Salisbury University,master
+799,163912,457,28,St Mary's College of Maryland,baccalaureate
+801,164076,5432,110,Towson University,master
+803,164155,1084,27,United States Naval Academy,baccalaureate
+804,164173,1107,36,Stevenson University,master
+805,164216,311,28,Washington College,baccalaureate
+806,164270,673,45,McDaniel College,baccalaureate
+809,164447,1317,53,American International College,doctoral
+810,164465,432,33,Amherst College,baccalaureate
+812,164492,418,44,Anna Maria College,master
+813,164562,675,35,Assumption College,master
+816,164632,905,34,Bay Path University,master
+818,164720,383,26,Becker College,baccalaureate
+819,164739,1685,35,Bentley University,master
+823,164924,4073,125,Boston College,doctoral
+824,164988,9819,318,Boston University,doctoral
+825,165015,1838,101,Brandeis University,doctoral
+826,165024,2467,65,Bridgewater State University,master
+827,165167,792,25,Cambridge College,master
+829,165334,1039,57,Clark University,doctoral
+831,165529,781,22,Curry College,master
+833,165644,285,36,Eastern Nazarene College,master
+834,165662,1232,30,Emerson College,master
+835,165671,535,42,Emmanuel College,baccalaureate
+836,165699,1108,52,Endicott College,master
+839,165820,1178,66,Fitchburg State University,master
+840,165866,1464,55,Framingham State University,master
+842,165936,500,34,Gordon College,baccalaureate
+844,166018,342,55,Hampshire College,baccalaureate
+845,166027,7672,220,Harvard University,doctoral
+848,166124,699,23,College of the Holy Cross,baccalaureate
+849,166391,574,38,Lasell College,master
+850,166452,1443,60,Lesley University,doctoral
+852,166513,3507,95,University of Massachusetts-Lowell,doctoral
+853,166629,7518,197,University of Massachusetts-Amherst,doctoral
+854,166638,3561,96,University of Massachusetts-Boston,doctoral
+857,166683,3511,102,Massachusetts Institute of Technology,doctoral
+858,166692,329,9,Massachusetts Maritime Academy,master
+861,166850,910,60,Merrimack College,master
+864,166939,570,46,Mount Holyoke College,baccalaureate
+865,166948,191,21,Mount Ida College,baccalaureate
+870,167251,136,16,Newbury College,baccalaureate
+872,167288,382,21,Massachusetts College of Liberal Arts,baccalaureate
+874,167358,6624,144,Northeastern University,doctoral
+875,167394,468,31,College of Our Lady of the Elms,master
+876,167455,67,9,Pine Manor College,baccalaureate
+880,167729,2164,105,Salem State University,master
+881,167783,1726,79,Simmons College,master
+882,167792,51,23,Bard College at Simon's Rock,baccalaureate
+883,167835,849,54,Smith College,baccalaureate
+884,167899,998,49,Springfield College,master
+885,167987,1891,86,University of Massachusetts-Dartmouth,doctoral
+886,167996,690,37,Stonehill College,baccalaureate
+887,168005,2248,90,Suffolk University,doctoral
+888,168148,3279,147,Tufts University,doctoral
+889,168218,581,46,Wellesley College,baccalaureate
+890,168227,873,24,Wentworth Institute of Technology,master
+891,168254,1004,69,Western New England University,master
+892,168263,1428,55,Westfield State University,master
+893,168281,386,35,Wheaton College,baccalaureate
+894,168290,353,23,Wheelock College,master
+895,168342,574,36,Williams College,baccalaureate
+896,168421,1647,75,Worcester Polytechnic Institute,doctoral
+897,168430,1320,49,Worcester State University,master
+898,168528,318,49,Adrian College,baccalaureate
+899,168546,254,44,Albion College,baccalaureate
+900,168591,308,37,Alma College,baccalaureate
+901,168740,818,95,Andrews University,doctoral
+902,168786,387,46,Aquinas College,master
+904,169080,899,71,Calvin College,baccalaureate
+907,169248,5885,202,Central Michigan University,doctoral
+909,169363,111,29,Concordia University-Ann Arbor,baccalaureate
+912,169479,1440,37,Davenport University,master
+914,169716,1465,79,University of Detroit Mercy,master
+915,169798,4610,222,Eastern Michigan University,doctoral
+916,169910,3033,104,Ferris State University,master
+917,169983,476,18,Kettering University,master
+919,170037,689,62,Cornerstone University,master
+920,170082,5502,109,Grand Valley State University,master
+922,170286,342,32,Hillsdale College,baccalaureate
+923,170301,827,52,Hope College,baccalaureate
+924,170532,272,23,Kalamazoo College,baccalaureate
+925,170639,397,44,Lake Superior State University,baccalaureate
+926,170675,835,56,Lawrence Technological University,master
+927,170806,1002,76,Madonna University,master
+928,170842,466,41,Marygrove College,master
+929,170967,236,26,Rochester College,baccalaureate
+930,170976,12924,330,University of Michigan-Ann Arbor,doctoral
+931,171100,12322,316,Michigan State University,doctoral
+932,171128,1567,106,Michigan Technological University,doctoral
+933,171137,1980,89,University of Michigan-Dearborn,master
+934,171146,1844,88,University of Michigan-Flint,master
+935,171456,1433,100,Northern Michigan University,master
+938,171571,4236,154,Oakland University,doctoral
+939,171599,215,26,Olivet College,baccalaureate
+940,171881,59,13,Kuyper College,baccalaureate
+942,172051,1647,62,Saginaw Valley State University,master
+943,172264,908,86,Siena Heights University,master
+944,172334,1040,71,Spring Arbor University,master
+945,172440,55,9,Finlandia University,baccalaureate
+948,172644,5907,235,Wayne State University,doctoral
+949,172699,5089,244,Western Michigan University,doctoral
+952,173045,815,65,Augsburg College,master
+953,173124,1047,64,Bemidji State University,master
+954,173142,112,16,Bethany Lutheran College,baccalaureate
+955,173160,1110,65,Bethel University,master
+957,173258,497,32,Carleton College,baccalaureate
+958,173300,536,50,Concordia College at Moorhead,baccalaureate
+959,173328,1278,64,Concordia University-Saint Paul,master
+962,173629,111,11,Globe University-Woodbury,baccalaureate
+963,173647,670,45,Gustavus Adolphus College,baccalaureate
+964,173665,1045,59,Hamline University,master
+968,173902,488,36,Macalester College,baccalaureate
+969,173920,3011,146,Minnesota State University-Mankato,master
+972,173984,160,19,Argosy University-Twin Cities,master
+973,174020,2120,62,Metropolitan State University,master
+974,174066,12687,350,University of Minnesota-Twin Cities,doctoral
+975,174075,426,27,University of Minnesota-Crookston,baccalaureate
+978,174233,2059,99,University of Minnesota-Duluth,master
+979,174251,353,30,University of Minnesota-Morris,baccalaureate
+980,174279,141,11,Minnesota School of Business-Richfield,master
+981,174358,1404,84,Minnesota State University Moorhead,master
+984,174437,212,33,North Central University,baccalaureate
+985,174491,669,58,University of Northwestern-St Paul,master
+988,174747,422,31,College of Saint Benedict,baccalaureate
+989,174783,2625,129,Saint Cloud State University,master
+990,174792,394,34,Saint Johns University,baccalaureate
+991,174817,1724,86,Saint Mary's University of Minnesota,master
+992,174844,763,41,St Olaf College,baccalaureate
+993,174862,223,27,Crown College,baccalaureate
+994,174899,1312,50,The College of Saint Scholastica,master
+995,174914,2596,109,University of St Thomas,doctoral
+996,175005,1206,77,St Catherine University,master
+998,175078,682,49,Southwest Minnesota State University,master
+1001,175272,1890,72,Winona State University,master
+1003,175342,528,36,Alcorn State University,master
+1004,175421,872,42,Belhaven University,master
+1005,175430,132,21,Blue Mountain College,baccalaureate
+1006,175616,790,50,Delta State University,master
+1007,175856,1504,84,Jackson State University,doctoral
+1008,175980,205,25,Millsaps College,baccalaureate
+1009,176017,5331,141,University of Mississippi,doctoral
+1010,176035,823,33,Mississippi University for Women,master
+1011,176044,413,33,Mississippi Valley State University,master
+1012,176053,1360,91,Mississippi College,master
+1013,176080,4254,156,Mississippi State University,doctoral
+1014,176318,130,14,Rust College,baccalaureate
+1016,176372,3258,141,University of Southern Mississippi,doctoral
+1017,176406,141,16,Tougaloo College,baccalaureate
+1019,176479,1285,65,William Carey University,master
+1022,176628,427,35,Avila University,master
+1027,176947,213,31,Central Methodist University-College of Liberal Arts and Sciences,baccalaureate
+1028,176965,3926,118,University of Central Missouri,master
+1030,177065,2600,42,Columbia College,master
+1035,177144,182,31,Culver-Stockton College,baccalaureate
+1036,177214,800,63,Drury University,master
+1038,177339,529,60,Evangel University,master
+1039,177418,563,56,Fontbonne University,master
+1040,177542,252,34,Hannibal-LaGrange University,baccalaureate
+1041,177551,153,14,Harris-Stowe State University,baccalaureate
+1047,177940,277,42,Lincoln University,master
+1048,177968,3090,99,Lindenwood University,doctoral
+1050,178059,1781,67,Maryville University of Saint Louis,doctoral
+1052,178244,678,52,Missouri Baptist University,master
+1054,178341,863,37,Missouri Southern State University,baccalaureate
+1055,178369,236,34,Missouri Valley College,baccalaureate
+1056,178387,812,56,Missouri Western State University,baccalaureate
+1057,178396,8626,209,University of Missouri-Columbia,doctoral
+1058,178402,3554,107,University of Missouri-Kansas City,doctoral
+1059,178411,2175,76,Missouri University of Science and Technology,doctoral
+1060,178420,3182,81,University of Missouri-St Louis,doctoral
+1062,178615,1333,51,Truman State University,master
+1063,178624,1450,90,Northwest Missouri State University,master
+1065,178697,293,59,College of the Ozarks,baccalaureate
+1066,178721,2428,59,Park University,master
+1070,179043,819,38,Rockhurst University,master
+1072,179159,3324,153,Saint Louis University,doctoral
+1076,179326,684,47,Southwest Baptist University,master
+1078,179548,187,29,Stephens College,master
+1079,179557,2055,90,Southeast Missouri State University,master
+1080,179566,4169,136,Missouri State University-Springfield,master
+1082,179867,4275,211,Washington University in St Louis,doctoral
+1083,179894,5448,102,Webster University,master
+1084,179946,209,35,Westminster College,baccalaureate
+1085,179955,320,28,William Jewell College,baccalaureate
+1086,179964,759,31,William Woods University,master
+1087,180106,341,36,Carroll College,baccalaureate
+1088,180179,638,53,Montana State University-Billings,master
+1089,180258,301,23,University of Great Falls,baccalaureate
+1090,180416,408,32,Montana Tech of the University of Montana,baccalaureate
+1091,180461,2812,113,Montana State University,doctoral
+1092,180489,2482,121,The University of Montana,doctoral
+1093,180522,146,17,Montana State University-Northern,baccalaureate
+1094,180595,213,33,Rocky Mountain College,baccalaureate
+1096,180692,244,24,The University of Montana-Western,baccalaureate
+1097,180814,3038,71,Bellevue University,master
+1100,180948,542,40,Chadron State College,master
+1101,180984,538,52,Concordia University-Nebraska,master
+1102,181002,2262,92,Creighton University,master
+1103,181020,252,31,Doane University-Arts & Sciences,baccalaureate
+1104,181093,102,17,Grace University,baccalaureate
+1105,181127,189,44,Hastings College,baccalaureate
+1106,181215,1367,51,University of Nebraska at Kearney,master
+1109,181330,335,21,Midland University,baccalaureate
+1111,181394,3341,121,University of Nebraska at Omaha,doctoral
+1114,181446,515,46,Nebraska Wesleyan University,master
+1115,181464,4951,209,University of Nebraska-Lincoln,doctoral
+1116,181534,388,33,Peru State College,master
+1118,181604,226,22,College of Saint Mary,master
+1119,181738,175,33,Union College,baccalaureate
+1120,181783,707,52,Wayne State College,master
+1121,181853,86,18,York College,baccalaureate
+1124,182281,5286,157,University of Nevada-Las Vegas,doctoral
+1125,182290,4228,153,University of Nevada-Reno,doctoral
+1127,182458,261,23,Sierra Nevada College,master
+1129,182634,316,21,Colby-Sawyer College,baccalaureate
+1130,182661,132,16,Daniel Webster College,master
+1131,182670,1865,83,Dartmouth College,doctoral
+1132,182795,583,40,Franklin Pierce University,master
+1135,182980,499,56,New England College,master
+1136,183026,8770,85,Southern New Hampshire University,master
+1137,183044,3576,145,University of New Hampshire-Main Campus,doctoral
+1138,183062,950,66,Keene State College,master
+1139,183071,156,13,University of New Hampshire at Manchester,baccalaureate
+1140,183080,1147,78,Plymouth State University,master
+1141,183211,778,55,Rivier University,master
+1142,183239,433,35,Saint Anselm College,baccalaureate
+1143,183257,435,33,Granite State College,baccalaureate
+1147,183822,287,19,Bloomfield College,baccalaureate
+1148,183910,437,37,Caldwell University,master
+1149,183974,601,27,Centenary University,master
+1150,184348,407,42,Drew University,baccalaureate
+1151,184603,2128,65,Fairleigh Dickinson University-Metropolitan Campus,master
+1152,184612,495,34,Felician University,master
+1153,184694,804,46,Fairleigh Dickinson University-Florham Campus,master
+1154,184773,487,35,Georgian Court University,master
+1155,184782,3393,79,Rowan University,doctoral
+1156,185129,1810,54,New Jersey City University,master
+1157,185262,3195,80,Kean University,master
+1158,185572,1759,48,Monmouth University,master
+1159,185590,4654,105,Montclair State University,doctoral
+1161,185828,2682,87,New Jersey Institute of Technology,doctoral
+1163,186131,2213,116,Princeton University,doctoral
+1164,186201,1423,42,Ramapo College of New Jersey,master
+1165,186283,1325,75,Rider University,master
+1166,186371,1880,60,Rutgers University-Camden,master
+1167,186380,12104,283,Rutgers University-New Brunswick,doctoral
+1168,186399,2901,77,Rutgers University-Newark,doctoral
+1169,186432,732,56,Saint Peter's University,master
+1170,186584,2530,99,Seton Hall University,doctoral
+1171,186618,389,29,College of Saint Elizabeth,master
+1172,186867,2156,71,Stevens Institute of Technology,doctoral
+1173,186876,2393,45,Stockton University,master
+1175,187046,2533,26,Thomas Edison State University,master
+1176,187134,2051,51,The College of New Jersey,master
+1177,187444,2557,70,William Paterson University of New Jersey,master
+1179,187648,932,57,Eastern New Mexico University-Main Campus,master
+1181,187897,905,42,New Mexico Highlands University,master
+1182,187967,396,45,New Mexico Institute of Mining and Technology,master
+1183,187985,5529,196,University of New Mexico-Main Campus,doctoral
+1184,188030,3615,154,New Mexico State University-Main Campus,doctoral
+1187,188182,237,35,University of the Southwest,master
+1189,188304,441,35,Western New Mexico University,master
+1191,188429,2328,82,Adelphi University,doctoral
+1196,188641,562,52,Alfred University,master
+1199,189088,661,15,Bard College,baccalaureate
+1200,189097,632,48,Barnard College,baccalaureate
+1212,189705,1226,75,Canisius College,master
+1213,189848,209,16,Cazenovia College,baccalaureate
+1216,190044,1136,59,Clarkson University,doctoral
+1218,190099,682,48,Colgate University,baccalaureate
+1219,190114,442,9,Metropolitan College of New York,master
+1220,190150,11106,261,Columbia University in the City of New York,doctoral
+1221,190248,286,16,Concordia College-New York,baccalaureate
+1222,190372,216,12,Cooper Union for the Advancement of Science and Art,baccalaureate
+1223,190415,7046,239,Cornell University,doctoral
+1226,190512,4699,52,CUNY Bernard M Baruch College,master
+1227,190549,3619,109,CUNY Brooklyn College,master
+1228,190558,1796,60,College of Staten Island CUNY,master
+1229,190567,3025,105,CUNY City College,master
+1230,190576,1413,103,CUNY Graduate School and University Center,doctoral
+1231,190594,4937,120,CUNY Hunter College,master
+1232,190600,3282,34,CUNY John Jay College of Criminal Justice,master
+1233,190637,2880,83,CUNY Lehman College,master
+1234,190646,496,16,CUNY Medgar Evers College,baccalaureate
+1235,190655,1256,22,CUNY New York City College of Technology,baccalaureate
+1236,190664,4006,117,CUNY Queens College,master
+1238,190691,1096,42,CUNY York College,baccalaureate
+1239,190716,784,39,D'Youville College,master
+1240,190725,933,54,Daemen College,master
+1242,190761,576,29,Dominican College of Blauvelt,master
+1243,190983,373,37,Elmira College,baccalaureate
+1244,191126,1647,26,Fashion Institute of Technology,master
+1245,191205,158,9,Five Towns College,baccalaureate
+1246,191241,4791,127,Fordham University,doctoral
+1248,191515,489,39,Hamilton College,baccalaureate
+1249,191533,323,29,Hartwick College,baccalaureate
+1251,191621,254,19,Hilbert College,baccalaureate
+1252,191630,482,42,Hobart William Smith Colleges,baccalaureate
+1253,191649,2737,156,Hofstra University,doctoral
+1254,191676,235,41,Houghton College,baccalaureate
+1255,191931,926,59,Iona College,master
+1256,191968,1648,94,Ithaca College,master
+1261,192192,623,29,Keuka College,master
+1263,192323,828,43,Le Moyne College,master
+1264,192439,2148,89,LIU Brooklyn,master
+1265,192448,1936,114,LIU Post,master
+1269,192703,1030,52,Manhattan College,master
+1271,192749,674,64,Manhattanville College,master
+1273,192819,1621,55,Marist College,master
+1274,192864,359,40,Marymount Manhattan College,baccalaureate
+1275,192925,524,34,Medaille College,master
+1276,193016,2516,57,Mercy College,master
+1281,193292,1035,55,Molloy College,master
+1282,193308,1374,14,Monroe College,master
+1283,193353,612,27,Mount Saint Mary College,master
+1284,193399,400,23,College of Mount Saint Vincent,master
+1286,193584,844,73,Nazareth College,master
+1287,193645,875,32,The College of New Rochelle,master
+1288,193654,2683,86,The New School,doctoral
+1293,193900,15936,346,New York University,doctoral
+1294,193973,1196,67,Niagara University,master
+1296,194091,2462,62,New York Institute of Technology,master
+1298,194161,663,44,Nyack College,master
+1300,194310,3278,124,Pace University-New York,doctoral
+1301,194392,167,17,Paul Smiths College of Arts and Science,baccalaureate
+1310,194824,1817,94,Rensselaer Polytechnic Institute,doctoral
+1311,194958,629,48,Roberts Wesleyan College,master
+1312,195003,3664,134,Rochester Institute of Technology,doctoral
+1313,195030,3348,188,University of Rochester,doctoral
+1315,195128,820,47,The Sage Colleges,master
+1317,195164,566,41,St Bonaventure University,master
+1318,195173,513,35,St Francis College,baccalaureate
+1319,195216,586,35,St Lawrence University,baccalaureate
+1320,195234,1018,66,The College of Saint Rose,master
+1321,195243,320,34,St. Thomas Aquinas College,master
+1322,195304,398,10,Sarah Lawrence College,baccalaureate
+1324,195474,763,28,Siena College,baccalaureate
+1325,195526,623,36,Skidmore College,baccalaureate
+1326,195544,1373,45,St. Joseph's College-New York,master
+1328,195720,1079,47,Saint John Fisher College,doctoral
+1329,195809,3786,127,St John's University-New York,doctoral
+1334,196042,1605,28,Farmingdale State College,baccalaureate
+1336,196060,4412,127,SUNY at Albany,doctoral
+1337,196079,4613,143,SUNY at Binghamton,doctoral
+1338,196088,8388,247,University at Buffalo,doctoral
+1339,196097,6502,183,Stony Brook University,doctoral
+1340,196103,559,35,SUNY College of Environmental Science and Forestry,doctoral
+1341,196112,723,31,SUNY Polytechnic Institute,master
+1342,196121,2219,70,SUNY College at Brockport,master
+1343,196130,2523,94,SUNY Buffalo State,master
+1344,196149,1789,78,SUNY Cortland,master
+1345,196158,1145,71,SUNY at Fredonia,master
+1346,196167,1306,47,SUNY College at Geneseo,master
+1347,196176,2180,89,State University of New York at New Paltz,master
+1348,196185,1591,58,SUNY Oneonta,master
+1349,196194,1904,89,SUNY College at Oswego,master
+1350,196200,872,58,SUNY College at Potsdam,master
+1351,196219,1001,44,SUNY at Purchase College,baccalaureate
+1353,196237,1101,41,SUNY College at Old Westbury,master
+1354,196246,1389,66,SUNY College at Plattsburgh,master
+1356,196264,2825,24,SUNY Empire State College,master
+1357,196291,391,9,SUNY Maritime College,master
+1359,196413,5951,257,Syracuse University,doctoral
+1362,196468,2113,89,Teachers College at Columbia University,doctoral
+1364,196592,3558,56,Touro College,master
+1366,196680,3376,44,Excelsior College,master
+1367,196866,569,36,Union College,baccalaureate
+1371,197036,991,54,United States Military Academy,baccalaureate
+1372,197045,1369,40,Utica College,master
+1373,197133,630,45,Vassar College,baccalaureate
+1376,197197,590,39,Wagner College,master
+1378,197230,134,24,Wells College,baccalaureate
+1385,197708,1734,79,Yeshiva University,doctoral
+1389,197869,4457,128,Appalachian State University,master
+1390,197911,236,29,Barton College,baccalaureate
+1391,197984,329,16,Belmont Abbey College,baccalaureate
+1392,197993,78,11,Bennett College,baccalaureate
+1393,198066,121,16,Brevard College,baccalaureate
+1395,198136,1331,70,Campbell University,master
+1396,198215,258,35,Catawba College,baccalaureate
+1397,198303,214,18,Chowan University,baccalaureate
+1398,198385,459,27,Davidson College,baccalaureate
+1399,198419,5146,166,Duke University,doctoral
+1400,198464,5932,175,East Carolina University,doctoral
+1401,198507,327,32,Elizabeth City State University,master
+1402,198516,1629,76,Elon University,master
+1403,198543,1120,44,Fayetteville State University,master
+1404,198561,1124,58,Gardner-Webb University,doctoral
+1405,198598,163,30,Greensboro College,baccalaureate
+1406,198613,430,30,Guilford College,baccalaureate
+1408,198695,932,50,High Point University,baccalaureate
+1410,198756,302,24,Johnson C Smith University,baccalaureate
+1411,198808,243,17,Lees-McRae College,baccalaureate
+1412,198835,482,58,Lenoir-Rhyne University,master
+1413,198862,149,17,Livingstone College,baccalaureate
+1414,198899,275,29,Mars Hill University,baccalaureate
+1415,198950,447,45,Meredith College,baccalaureate
+1416,198969,409,49,Methodist University,master
+1418,199032,200,22,Montreat College,master
+1419,199069,695,34,University of Mount Olive,baccalaureate
+1420,199102,1986,93,North Carolina A & T State University,doctoral
+1421,199111,782,35,University of North Carolina at Asheville,baccalaureate
+1422,199120,7958,200,University of North Carolina at Chapel Hill,doctoral
+1423,199139,6773,143,University of North Carolina at Charlotte,doctoral
+1424,199148,3914,141,University of North Carolina at Greensboro,doctoral
+1425,199157,1665,58,North Carolina Central University,master
+1427,199193,8791,238,North Carolina State University at Raleigh,doctoral
+1428,199209,447,20,North Carolina Wesleyan College,baccalaureate
+1429,199218,3753,79,University of North Carolina Wilmington,master
+1430,199272,188,13,William Peace University,baccalaureate
+1431,199281,1178,56,University of North Carolina at Pembroke,master
+1432,199306,467,31,Pfeiffer University,master
+1433,199412,540,45,Queens University of Charlotte,master
+1435,199582,166,23,Saint Augustine's University,baccalaureate
+1436,199607,218,38,Salem College,baccalaureate
+1437,199643,228,29,Shaw University,baccalaureate
+1438,199698,120,17,St Andrews University,baccalaureate
+1439,199759,393,27,Southeastern Baptist Theological Seminary,master
+1440,199847,2377,81,Wake Forest University,doctoral
+1441,199865,223,18,Warren Wilson College,baccalaureate
+1442,199962,648,46,Wingate University,master
+1444,199999,1274,51,Winston-Salem State University,master
+1445,200004,2603,91,Western Carolina University,master
+1448,200059,199,30,Dickinson State University,baccalaureate
+1450,200156,141,29,University of Jamestown,baccalaureate
+1451,200217,764,62,University of Mary,master
+1452,200226,160,25,Mayville State University,baccalaureate
+1453,200253,676,57,Minot State University,master
+1454,200280,3137,158,University of North Dakota,doctoral
+1455,200332,2899,183,North Dakota State University-Main Campus,doctoral
+1460,200572,286,34,Valley City State University,baccalaureate
+1462,200697,297,29,Air Force Institute of Technology-Graduate School of Engineering & Management,doctoral
+1464,200800,4499,216,University of Akron Main Campus,doctoral
+1467,201104,1164,87,Ashland University,doctoral
+1470,201195,963,72,Baldwin Wallace University,master
+1471,201371,232,36,Bluffton University,baccalaureate
+1472,201441,3745,163,Bowling Green State University-Main Campus,doctoral
+1474,201548,807,64,Capital University,master
+1475,201645,3184,177,Case Western Reserve University,doctoral
+1476,201654,784,77,Cedarville University,baccalaureate
+1477,201690,251,29,Central State University,baccalaureate
+1481,201885,9233,269,University of Cincinnati-Main Campus,doctoral
+1484,201964,518,20,Ohio Christian University,baccalaureate
+1487,202134,3944,133,Cleveland State University,doctoral
+1489,202480,2830,120,University of Dayton,doctoral
+1490,202514,178,36,Defiance College,baccalaureate
+1491,202523,534,35,Denison University,baccalaureate
+1493,202763,998,67,The University of Findlay,master
+1498,203085,263,39,Heidelberg University,master
+1499,203128,285,36,Hiram College,baccalaureate
+1500,203368,836,51,John Carroll University,master
+1508,203517,7111,207,Kent State University at Kent,doctoral
+1510,203535,411,30,Kenyon College,baccalaureate
+1512,203580,282,33,Lake Erie College,master
+1513,203757,403,27,Lourdes University,master
+1514,203775,528,51,Malone University,master
+1515,203845,300,45,Marietta College,baccalaureate
+1520,204024,4575,155,Miami University-Oxford,doctoral
+1522,204185,495,58,University of Mount Union,baccalaureate
+1523,204194,538,52,Mount Vernon Nazarene University,master
+1524,204200,529,41,Mount Saint Joseph University,master
+1525,204264,410,49,Muskingum University,master
+1527,204468,393,37,Notre Dame College,master
+1530,204501,691,50,Oberlin College,baccalaureate
+1531,204617,544,44,Ohio Dominican University,master
+1532,204635,704,57,Ohio Northern University,baccalaureate
+1533,204671,93,10,Ohio State University-Lima Campus,baccalaureate
+1537,204796,14718,343,Ohio State University-Main Campus,doctoral
+1538,204857,8485,210,Ohio University-Main Campus,doctoral
+1539,204909,408,55,Ohio Wesleyan University,baccalaureate
+1540,204936,571,70,Otterbein University,master
+1546,205443,476,31,Shawnee State University,baccalaureate
+1549,205957,624,39,Franciscan University of Steubenville,master
+1550,206048,831,54,Tiffin University,master
+1551,206084,4188,174,University of Toledo,doctoral
+1554,206279,752,21,Union Institute & University,doctoral
+1556,206330,220,31,Urbana University,baccalaureate
+1557,206349,347,42,Ursuline College,master
+1558,206437,691,48,Walsh University,master
+1559,206491,115,17,Wilberforce University,baccalaureate
+1560,206507,240,24,Wilmington College,baccalaureate
+1562,206525,372,37,Wittenberg University,baccalaureate
+1563,206589,453,40,The College of Wooster,baccalaureate
+1564,206604,3606,126,Wright State University-Main Campus,doctoral
+1565,206613,67,9,Wright State University-Lake Campus,baccalaureate
+1566,206622,1566,91,Xavier University,master
+1567,206695,2059,129,Youngstown State University,master
+1569,206835,407,26,Oklahoma Wesleyan University,master
+1570,206862,769,50,Southern Nazarene University,master
+1571,206914,729,42,Cameron University,master
+1572,206941,3171,147,University of Central Oklahoma,master
+1573,207041,957,43,East Central University,master
+1575,207209,304,27,Langston University,master
+1577,207263,1731,76,Northeastern State University,master
+1578,207306,359,34,Northwestern Oklahoma State University,master
+1580,207324,710,62,Oklahoma Christian University,master
+1582,207351,201,20,Oklahoma Panhandle State University,baccalaureate
+1583,207388,5854,193,Oklahoma State University-Main Campus,doctoral
+1585,207403,333,63,Oklahoma Baptist University,baccalaureate
+1586,207458,956,65,Oklahoma City University,master
+1587,207500,6146,207,University of Oklahoma-Norman Campus,doctoral
+1589,207582,621,71,Oral Roberts University,master
+1590,207661,413,15,Rogers State University,baccalaureate
+1591,207689,126,24,St. Gregory's University,baccalaureate
+1592,207722,172,23,University of Science and Arts of Oklahoma,baccalaureate
+1593,207847,842,49,Southeastern Oklahoma State University,master
+1594,207856,116,12,Southwestern Christian University,baccalaureate
+1595,207865,958,47,Southwestern Oklahoma State University,master
+1596,207971,1136,99,University of Tulsa,doctoral
+1599,208646,805,26,Eastern Oregon University,master
+1601,208822,965,70,George Fox University,master
+1602,209056,871,49,Lewis & Clark College,baccalaureate
+1603,209065,291,42,Linfield College-McMinnville Campus,baccalaureate
+1604,209108,401,26,Marylhurst University,master
+1608,209409,239,28,Northwest Christian University,master
+1610,209506,709,35,Oregon Institute of Technology,baccalaureate
+1612,209542,6387,206,Oregon State University,doctoral
+1613,209551,5860,177,University of Oregon,doctoral
+1615,209612,973,62,Pacific University,master
+1616,209807,5736,152,Portland State University,doctoral
+1617,209825,1164,50,University of Portland,master
+1618,209922,303,28,Reed College,baccalaureate
+1620,210146,1036,45,Southern Oregon University,master
+1621,210304,108,24,Warner Pacific College,baccalaureate
+1622,210331,285,17,Corban University,master
+1624,210401,730,42,Willamette University,baccalaureate
+1625,210429,1129,55,Western Oregon University,master
+1628,210571,458,39,Albright College,baccalaureate
+1629,210669,451,29,Allegheny College,baccalaureate
+1630,210739,826,43,DeSales University,master
+1631,210775,681,44,Alvernia University,master
+1633,210906,88,5,The Art Institutes of York-PA,baccalaureate
+1637,211088,1048,85,Arcadia University,master
+1639,211158,1981,63,Bloomsburg University of Pennsylvania,master
+1640,211273,456,45,Bryn Mawr College,baccalaureate
+1641,211291,887,65,Bucknell University,baccalaureate
+1642,211352,592,44,Cabrini University,master
+1643,211361,2330,64,California University of Pennsylvania,master
+1644,211431,546,43,Carlow University,master
+1645,211440,4606,185,Carnegie Mellon University,doctoral
+1646,211468,312,37,Cedar Crest College,baccalaureate
+1647,211477,217,9,Central Penn College,baccalaureate
+1648,211556,711,68,Chatham University,master
+1649,211583,595,54,Chestnut Hill College,master
+1650,211608,167,18,Cheyney University of Pennsylvania,baccalaureate
+1651,211644,1205,55,Clarion University of Pennsylvania,master
+1653,211981,460,31,Delaware Valley University,master
+1654,212009,527,38,Dickinson College,baccalaureate
+1656,212054,6804,204,Drexel University,doctoral
+1657,212106,2687,144,Duquesne University,doctoral
+1658,212115,1523,65,East Stroudsburg University of Pennsylvania,master
+1659,212133,810,55,Eastern University,master
+1660,212160,1373,52,Edinboro University of Pennsylvania,master
+1661,212197,442,40,Elizabethtown College,baccalaureate
+1664,212577,534,39,Franklin and Marshall College,baccalaureate
+1665,212601,1149,64,Gannon University,master
+1666,212656,498,42,Geneva College,master
+1667,212674,657,36,Gettysburg College,baccalaureate
+1669,212805,582,41,Grove City College,baccalaureate
+1670,212832,522,38,Gwynedd Mercy University,master
+1671,212911,298,28,Haverford College,baccalaureate
+1672,212984,724,54,Holy Family University,master
+1674,213011,872,49,Immaculata University,doctoral
+1675,213020,3239,104,Indiana University of Pennsylvania-Main Campus,doctoral
+1676,213251,352,58,Juniata College,baccalaureate
+1677,213303,264,22,Keystone College,baccalaureate
+1678,213321,519,38,King's College,master
+1679,213349,2056,57,Kutztown University of Pennsylvania,master
+1680,213358,343,43,La Roche College,baccalaureate
+1681,213367,1550,94,La Salle University,master
+1682,213385,591,37,Lafayette College,baccalaureate
+1685,213507,493,38,Lebanon Valley College,master
+1686,213543,1995,128,Lehigh University,doctoral
+1687,213598,384,41,Lincoln University,master
+1688,213613,1079,41,Lock Haven University,master
+1691,213668,248,23,Lycoming College,baccalaureate
+1692,213783,537,35,Mansfield University of Pennsylvania,master
+1693,213826,801,89,Marywood University,master
+1694,213987,693,65,Mercyhurst University,master
+1695,213996,784,73,Messiah College,baccalaureate
+1696,214041,1719,56,Millersville University of Pennsylvania,master
+1697,214069,806,42,Misericordia University,master
+1699,214157,462,38,Moravian College,baccalaureate
+1701,214175,535,38,Muhlenberg College,baccalaureate
+1702,214272,671,28,Neumann University,master
+1704,214591,735,39,Pennsylvania State University-Penn State Erie-Behrend College,baccalaureate
+1705,214607,167,7,Pennsylvania State University-Penn State Great Valley,master
+1707,214625,82,8,Pennsylvania State University-Penn State New Kensington,baccalaureate
+1708,214634,72,5,Pennsylvania State University-Penn State Shenango,baccalaureate
+1709,214643,76,8,Pennsylvania State University-Penn State Wilkes-Barre,baccalaureate
+1710,214652,144,9,Pennsylvania State University-Penn State Worthington Scranton,baccalaureate
+1711,214670,111,7,Pennsylvania State University-Penn State Lehigh Valley,baccalaureate
+1712,214689,372,20,Pennsylvania State University-Penn State Altoona,baccalaureate
+1713,214698,83,5,Pennsylvania State University-Penn State Beaver,baccalaureate
+1714,214704,350,17,Pennsylvania State University-Penn State Berks,baccalaureate
+1715,214713,981,55,Pennsylvania State University-Penn State Harrisburg,master
+1716,214731,185,10,Pennsylvania State University-Penn State Brandywine,baccalaureate
+1720,214777,13135,307,Pennsylvania State University-Main Campus,doctoral
+1721,214786,62,6,Pennsylvania State University-Penn State Greater Allegheny,baccalaureate
+1723,214801,679,17,Pennsylvania State University-Penn State Abington,baccalaureate
+1724,214810,81,7,Pennsylvania State University-Penn State Schuylkill,baccalaureate
+1725,214829,81,7,Pennsylvania State University-Penn State York,baccalaureate
+1726,214883,194,11,Peirce College,baccalaureate
+1729,215062,7904,263,University of Pennsylvania,doctoral
+1730,215099,983,54,Philadelphia University,master
+1732,215114,319,24,Cairn University-Langhorne,master
+1735,215266,241,26,University of Pittsburgh-Bradford,baccalaureate
+1736,215275,256,19,University of Pittsburgh-Greensburg,baccalaureate
+1737,215284,470,28,University of Pittsburgh-Johnstown,baccalaureate
+1738,215293,7849,251,University of Pittsburgh-Pittsburgh Campus,doctoral
+1740,215442,870,62,Point Park University,master
+1744,215655,1357,54,Robert Morris University,doctoral
+1745,215691,240,24,Rosemont College,master
+1746,215743,778,48,Saint Francis University,master
+1747,215770,2432,91,Saint Joseph's University,master
+1748,215798,394,46,Saint Vincent College,baccalaureate
+1750,215929,1509,85,University of Scranton,master
+1751,215947,489,55,Seton Hill University,master
+1752,216010,1573,55,Shippensburg University of Pennsylvania,master
+1753,216038,2083,54,Slippery Rock University of Pennsylvania,master
+1755,216278,482,47,Susquehanna University,baccalaureate
+1756,216287,371,42,Swarthmore College,baccalaureate
+1758,216339,8787,267,Temple University,doctoral
+1760,216357,202,27,Thiel College,baccalaureate
+1763,216524,367,28,Ursinus College,baccalaureate
+1764,216542,136,24,University of Valley Forge,baccalaureate
+1765,216597,3079,95,Villanova University,doctoral
+1766,216667,297,29,Washington & Jefferson College,baccalaureate
+1767,216694,548,31,Waynesburg University,master
+1768,216764,3799,80,West Chester University of Pennsylvania,master
+1769,216807,326,43,Westminster College,baccalaureate
+1771,216852,1542,76,Widener University,doctoral
+1772,216931,1350,56,Wilkes University,master
+1773,217013,89,22,Wilson College,baccalaureate
+1775,217059,1036,59,York College Pennsylvania,master
+1776,217156,2568,171,Brown University,doctoral
+1777,217165,857,35,Bryant University,master
+1778,217235,2159,42,Johnson & Wales University-Providence,master
+1780,217402,1148,56,Providence College,master
+1781,217420,1606,93,Rhode Island College,master
+1782,217484,4019,148,University of Rhode Island,doctoral
+1784,217518,1103,74,Roger Williams University,master
+1785,217536,714,46,Salve Regina University,master
+1787,217624,72,7,Allen University,baccalaureate
+1788,217633,633,62,Anderson University,master
+1789,217688,663,60,Charleston Southern University,master
+1790,217721,385,30,Benedict College,baccalaureate
+1791,217749,597,67,Bob Jones University,master
+1792,217776,515,28,Southern Wesleyan University,master
+1793,217819,2643,77,College of Charleston,master
+1794,217864,943,37,Citadel Military College of South Carolina,master
+1795,217873,381,34,Claflin University,baccalaureate
+1796,217882,5472,166,Clemson University,doctoral
+1798,217907,255,31,Coker College,baccalaureate
+1799,217925,271,32,Columbia International University,master
+1800,217934,343,31,Columbia College,master
+1801,217961,283,48,Converse College,master
+1802,217998,141,22,Erskine College,baccalaureate
+1803,218061,690,35,Francis Marion University,master
+1804,218070,665,52,Furman University,baccalaureate
+1805,218229,458,27,Lander University,baccalaureate
+1806,218238,500,27,Limestone College,baccalaureate
+1808,218399,102,15,Morris College,baccalaureate
+1809,218414,197,30,Newberry College,baccalaureate
+1810,218441,507,38,North Greenville University,master
+1811,218539,295,25,Presbyterian College,baccalaureate
+1812,218645,522,21,University of South Carolina-Aiken,baccalaureate
+1813,218654,296,16,University of South Carolina-Beaufort,baccalaureate
+1814,218663,7793,226,University of South Carolina-Columbia,doctoral
+1815,218724,1844,49,Coastal Carolina University,master
+1816,218733,567,47,South Carolina State University,master
+1817,218742,1175,35,University of South Carolina-Upstate,baccalaureate
+1819,218919,70,12,Voorhees College,baccalaureate
+1820,218964,1286,59,Winthrop University,master
+1821,218973,386,24,Wofford College,baccalaureate
+1822,219000,423,41,Augustana University,baccalaureate
+1823,219046,597,43,Black Hills State University,master
+1824,219082,375,33,Dakota State University,master
+1825,219091,251,33,Dakota Wesleyan University,baccalaureate
+1826,219198,153,25,Mount Marty College,master
+1827,219204,117,15,National American University-Rapid City,baccalaureate
+1830,219259,421,41,Northern State University,master
+1834,219356,2491,127,South Dakota State University,doctoral
+1836,219383,378,39,University of Sioux Falls,master
+1837,219471,2039,99,University of South Dakota,doctoral
+1840,219602,1872,50,Austin Peay State University,master
+1842,219709,1888,93,Belmont University,master
+1843,219718,1254,34,Bethel University,master
+1844,219790,328,22,Bryan College-Dayton,master
+1845,219806,548,72,Carson-Newman University,master
+1846,219833,410,52,Christian Brothers University,master
+1848,219949,461,27,Cumberland University,master
+1849,219976,1352,111,Lipscomb University,doctoral
+1850,220075,3195,98,East Tennessee State University,doctoral
+1851,220181,114,19,Fisk University,baccalaureate
+1853,220215,365,48,Freed-Hardeman University,master
+1856,220516,1191,34,King University,master
+1857,220552,258,17,South College,master
+1858,220598,121,12,Lane College,baccalaureate
+1859,220604,116,19,Le Moyne-Owen College,baccalaureate
+1860,220613,963,83,Lee University,master
+1861,220631,925,39,Lincoln Memorial University,master
+1862,220701,179,18,Martin Methodist College,baccalaureate
+1863,220710,223,47,Maryville College,baccalaureate
+1866,220862,4228,127,University of Memphis,doctoral
+1868,220978,4837,108,Middle Tennessee State University,doctoral
+1871,221351,534,34,Rhodes College,baccalaureate
+1872,221519,443,37,Sewanee-The University of the South,baccalaureate
+1873,221661,593,81,Southern Adventist University,master
+1875,221731,246,31,Tennessee Wesleyan University,baccalaureate
+1876,221740,2447,67,The University of Tennessee-Chattanooga,master
+1877,221759,6595,202,The University of Tennessee-Knoxville,doctoral
+1878,221768,1357,41,The University of Tennessee-Martin,master
+1880,221838,1464,68,Tennessee State University,doctoral
+1881,221847,2241,60,Tennessee Technological University,doctoral
+1882,221892,683,65,Trevecca Nazarene University,doctoral
+1883,221953,493,19,Tusculum College,master
+1884,221971,1109,75,Union University,doctoral
+1885,221999,3812,199,Vanderbilt University,doctoral
+1886,222178,1019,79,Abilene Christian University,master
+1887,222628,410,7,Amberton University,master
+1888,222831,1278,64,Angelo State University,master
+1891,222983,276,39,Austin College,baccalaureate
+1896,223232,4096,181,Baylor University,doctoral
+1899,224004,665,26,Concordia University-Texas,master
+1900,224147,2200,69,Texas A & M University-Corpus Christi,doctoral
+1901,224226,1340,61,Dallas Baptist University,doctoral
+1904,224323,723,51,University of Dallas,master
+1905,224527,248,33,East Texas Baptist University,baccalaureate
+1906,224545,466,27,Texas A&M University-Texarkana,master
+1907,224554,3232,88,Texas A & M University-Commerce,doctoral
+1911,225247,459,60,Hardin-Simmons University,master
+1912,225399,719,58,Houston Baptist University,master
+1913,225414,2579,76,University of Houston-Clear Lake,master
+1914,225432,2664,43,University of Houston-Downtown,master
+1915,225502,1010,33,University of Houston-Victoria,master
+1916,225511,9524,210,University of Houston,doctoral
+1917,225548,188,44,Howard Payne University,baccalaureate
+1918,225575,153,17,Huston-Tillotson University,baccalaureate
+1919,225627,2131,92,University of the Incarnate Word,master
+1920,225885,81,9,Jarvis Christian College,baccalaureate
+1921,226091,4157,89,Lamar University,doctoral
+1922,226152,1378,44,Texas A & M International University,master
+1923,226231,558,63,LeTourneau University,master
+1924,226383,512,59,Lubbock Christian University,master
+1925,226471,907,70,University of Mary Hardin-Baylor,master
+1926,226587,194,37,McMurry University,baccalaureate
+1928,226833,1227,66,Midwestern State University,master
+1930,227216,8450,194,University of North Texas,doctoral
+1932,227331,735,53,Our Lady of the Lake University,master
+1933,227368,5563,117,The University of Texas Rio Grande Valley,doctoral
+1935,227526,1521,67,Prairie View A & M University,doctoral
+1936,227757,2042,126,Rice University,doctoral
+1937,227845,1082,73,Saint Edward's University,master
+1938,227863,1026,51,University of St Thomas,master
+1939,227881,4449,114,Sam Houston State University,doctoral
+1940,228042,239,28,Schreiner University,baccalaureate
+1941,228149,965,65,St. Mary's University,master
+1943,228246,3688,154,Southern Methodist University,doctoral
+1944,228325,369,49,Southwestern Assemblies of God University,master
+1945,228343,306,32,Southwestern University,baccalaureate
+1946,228431,2650,107,Stephen F Austin State University,master
+1947,228459,7868,168,Texas State University,doctoral
+1948,228468,128,19,Southwestern Adventist University,baccalaureate
+1950,228501,621,41,Sul Ross State University,master
+1951,228529,2702,84,Tarleton State University,master
+1955,228705,2224,84,Texas A & M University-Kingsville,doctoral
+1956,228723,15138,285,Texas A & M University-College Station,doctoral
+1957,228769,11476,142,The University of Texas at Arlington,doctoral
+1958,228778,14780,281,The University of Texas at Austin,doctoral
+1959,228787,6727,118,The University of Texas at Dallas,doctoral
+1960,228796,4470,152,The University of Texas at El Paso,doctoral
+1961,228802,2246,62,The University of Texas at Tyler,master
+1963,228875,2614,143,Texas Christian University,doctoral
+1964,228884,98,10,Texas College,baccalaureate
+1966,228981,321,33,Texas Lutheran University,baccalaureate
+1967,229018,949,50,The University of Texas of the Permian Basin,master
+1968,229027,5995,152,The University of Texas at San Antonio,doctoral
+1969,229063,1562,77,Texas Southern University,doctoral
+1970,229115,7232,220,Texas Tech University,doctoral
+1971,229160,544,44,Texas Wesleyan University,master
+1972,229179,3933,102,Texas Woman's University,doctoral
+1973,229267,600,53,Trinity University,master
+1976,229780,1689,46,Wayland Baptist University,master
+1977,229814,2068,89,West Texas A & M University,master
+1978,229887,246,19,Wiley College,baccalaureate
+1979,230038,7655,253,Brigham Young University-Provo,doctoral
+1980,230047,596,43,Brigham Young University-Hawaii,baccalaureate
+1985,230603,1173,61,Southern Utah University,master
+1988,230728,4742,186,Utah State University,doctoral
+1989,230737,3000,68,Utah Valley University,master
+1990,230764,7783,234,University of Utah,doctoral
+1991,230782,2742,124,Weber State University,master
+1992,230807,845,50,Westminster College,master
+1993,230816,210,42,Bennington College,baccalaureate
+1994,230834,400,49,Castleton University,baccalaureate
+1995,230852,735,48,Champlain College,master
+1996,230889,197,13,Goddard College,master
+1997,230898,210,30,Green Mountain College,master
+1998,230913,332,36,Johnson State College,master
+1999,230931,212,35,Lyndon State College,baccalaureate
+2001,230959,861,61,Middlebury College,baccalaureate
+2003,230995,1142,40,Norwich University,master
+2004,231059,542,34,Saint Michael's College,baccalaureate
+2006,231077,57,20,College of St Joseph,baccalaureate
+2007,231086,112,15,Southern Vermont College,baccalaureate
+2011,231174,2926,151,University of Vermont,doctoral
+2012,231420,169,40,Averett University,baccalaureate
+2013,231554,252,20,Bluefield College,baccalaureate
+2014,231581,422,29,Bridgewater College,baccalaureate
+2015,231624,2479,58,College of William and Mary,doctoral
+2016,231651,1492,54,Regent University,doctoral
+2017,231712,1275,23,Christopher Newport University,master
+2023,232025,253,48,Emory & Henry College,baccalaureate
+2024,232043,496,44,Eastern Mennonite University,master
+2025,232089,228,28,Ferrum College,baccalaureate
+2026,232186,8383,186,George Mason University,doctoral
+2027,232256,254,19,Hampden-Sydney College,baccalaureate
+2028,232265,902,64,Hampton University,master
+2029,232308,214,33,Hollins University,baccalaureate
+2030,232423,5314,78,James Madison University,master
+2031,232557,16710,110,Liberty University,doctoral
+2032,232566,1116,33,Longwood University,master
+2033,232609,645,48,Lynchburg College,master
+2034,232672,341,33,Mary Baldwin University,master
+2035,232681,1160,34,University of Mary Washington,master
+2036,232706,981,47,Marymount University,master
+2039,232937,1171,43,Norfolk State University,master
+2040,232982,5237,113,Old Dominion University,doctoral
+2041,233277,2279,53,Radford University,master
+2042,233295,310,29,Randolph-Macon College,baccalaureate
+2043,233301,142,33,Randolph College,baccalaureate
+2045,233374,1085,58,University of Richmond,baccalaureate
+2046,233426,457,31,Roanoke College,baccalaureate
+2047,233541,1024,55,Shenandoah University,doctoral
+2048,233611,95,13,Southern Virginia University,baccalaureate
+2049,233684,1576,16,Strayer University-Virginia,master
+2050,233718,94,23,Sweet Briar College,baccalaureate
+2052,233897,297,11,The University of Virginia's College at Wise,baccalaureate
+2053,233921,7913,192,Virginia Polytechnic Institute and State University,doctoral
+2054,234030,7421,166,Virginia Commonwealth University,doctoral
+2055,234076,6562,157,University of Virginia-Main Campus,doctoral
+2056,234085,374,14,Virginia Military Institute,baccalaureate
+2058,234155,1006,46,Virginia State University,master
+2059,234164,353,23,Virginia Union University,baccalaureate
+2060,234173,327,32,Virginia Wesleyan College,baccalaureate
+2061,234207,563,36,Washington and Lee University,baccalaureate
+2064,234827,2699,155,Central Washington University,master
+2066,234915,557,23,City University of Seattle,master
+2071,235097,2851,100,Eastern Washington University,master
+2072,235167,1160,5,The Evergreen State College,master
+2073,235316,2010,61,Gonzaga University,master
+2075,235422,319,29,Heritage University,master
+2080,236133,359,30,Northwest University,master
+2082,236230,911,52,Pacific Lutheran University,master
+2084,236328,651,44,University of Puget Sound,baccalaureate
+2085,236452,465,32,Saint Martin's University,master
+2088,236577,1235,78,Seattle Pacific University,doctoral
+2089,236595,2208,93,Seattle University,master
+2091,236896,433,48,Walla Walla University,master
+2092,236939,6927,202,Washington State University,doctoral
+2093,236948,12510,377,University of Washington-Seattle Campus,doctoral
+2094,237011,3643,119,Western Washington University,master
+2095,237057,368,45,Whitman College,baccalaureate
+2096,237066,706,56,Whitworth University,master
+2098,237118,177,30,Alderson Broaddus University,baccalaureate
+2100,237181,133,22,Bethany College,baccalaureate
+2101,237215,209,18,Bluefield State College,baccalaureate
+2102,237312,452,28,University of Charleston,master
+2103,237330,510,28,Concord University,master
+2104,237358,146,30,Davis & Elkins College,baccalaureate
+2105,237367,742,40,Fairmont State University,master
+2106,237385,177,14,Glenville State College,baccalaureate
+2107,237525,2647,102,Marshall University,master
+2108,237640,81,16,Ohio Valley University,baccalaureate
+2111,237783,133,7,Salem International University,master
+2112,237792,771,32,Shepherd University,baccalaureate
+2114,237899,438,24,West Virginia State University,baccalaureate
+2115,237932,584,30,West Liberty University,baccalaureate
+2116,237950,147,22,West Virginia University Institute of Technology,baccalaureate
+2117,237969,280,52,West Virginia Wesleyan College,master
+2118,238032,6656,187,West Virginia University,doctoral
+2119,238078,382,34,Wheeling Jesuit University,master
+2120,238193,567,42,Alverno College,master
+2122,238333,299,41,Beloit College,baccalaureate
+2123,238430,983,51,Cardinal Stritch University,doctoral
+2124,238458,750,50,Carroll University,master
+2125,238476,634,45,Carthage College,baccalaureate
+2127,238616,1569,93,Concordia University-Wisconsin,master
+2128,238661,625,45,Edgewood College,doctoral
+2129,238980,907,33,Lakeland University,master
+2130,239017,356,36,Lawrence University,baccalaureate
+2131,239071,183,31,Maranatha Baptist University,baccalaureate
+2132,239080,502,51,Marian University,master
+2133,239105,3028,115,Marquette University,doctoral
+2136,239318,669,31,Milwaukee School of Engineering,master
+2137,239390,326,40,Mount Mary University,master
+2139,239512,127,26,Northland College,baccalaureate
+2140,239628,151,27,Ripon College,baccalaureate
+2142,239716,477,51,Saint Norbert College,baccalaureate
+2143,239743,111,22,Silver Lake College of the Holy Family,master
+2146,240107,677,55,Viterbo University,master
+2147,240189,2608,61,University of Wisconsin-Whitewater,master
+2149,240268,2269,58,University of Wisconsin-Eau Claire,master
+2150,240277,1398,45,University of Wisconsin-Green Bay,master
+2151,240329,2190,60,University of Wisconsin-La Crosse,master
+2152,240338,261,41,Wisconsin Lutheran College,baccalaureate
+2153,240365,2240,74,University of Wisconsin-Oshkosh,master
+2154,240374,731,35,University of Wisconsin-Parkside,baccalaureate
+2155,240392,403,17,Herzing University-Madison,master
+2156,240417,1917,67,University of Wisconsin-Stout,master
+2157,240426,474,34,University of Wisconsin-Superior,baccalaureate
+2158,240444,10560,366,University of Wisconsin-Madison,doctoral
+2159,240453,5392,157,University of Wisconsin-Milwaukee,doctoral
+2160,240462,1623,49,University of Wisconsin-Platteville,master
+2161,240471,1364,60,University of Wisconsin-River Falls,master
+2162,240480,2000,68,University of Wisconsin-Stevens Point,master
+2163,240727,2800,166,University of Wyoming,doctoral
+2165,240754,579,42,University of Guam,master
+2167,241100,120,13,American University of Puerto Rico,master
+2168,241128,103,12,American University of Puerto Rico,baccalaureate
+2169,241191,228,14,Universidad Adventista de las Antillas,baccalaureate
+2171,241225,272,41,Universidad Central de Bayamon,master
+2174,241377,227,24,Caribbean University-Bayamon,master
+2175,241386,63,12,Caribbean University-Carolina,baccalaureate
+2176,241395,141,22,Pontifical Catholic University of Puerto Rico-Arecibo,master
+2177,241410,1273,92,Pontifical Catholic University of Puerto Rico-Ponce,doctoral
+2181,241739,2033,55,Universidad Metropolitana,master
+2188,242617,652,61,Inter American University of Puerto Rico-San German,master
+2189,242626,481,36,Inter American University of Puerto Rico-Aguadilla,master
+2190,242635,567,39,Inter American University of Puerto Rico-Arecibo,master
+2191,242644,212,20,Inter American University of Puerto Rico-Barranquitas,baccalaureate
+2192,242653,1496,81,Inter American University of Puerto Rico-Metro,doctoral
+2193,242662,651,51,Inter American University of Puerto Rico-Ponce,master
+2194,242680,250,29,Inter American University of Puerto Rico-Fajardo,baccalaureate
+2195,242699,238,21,Inter American University of Puerto Rico-Guayama,baccalaureate
+2196,242705,484,30,Inter American University of Puerto Rico-Bayamon,baccalaureate
+2200,243081,204,9,Ponce Health Sciences University,master
+2201,243106,329,12,University of Puerto Rico-Aguadilla,baccalaureate
+2202,243115,439,14,University of Puerto Rico-Arecibo,baccalaureate
+2203,243133,486,12,University of Puerto Rico-Bayamon,baccalaureate
+2204,243142,472,11,University of Puerto Rico-Carolina,baccalaureate
+2205,243151,479,23,University of Puerto Rico-Cayey,baccalaureate
+2206,243179,415,18,University of Puerto Rico-Humacao,baccalaureate
+2208,243197,1844,82,University of Puerto Rico-Mayaguez,master
+2210,243212,419,13,University of Puerto Rico-Ponce,baccalaureate
+2211,243221,2276,111,University of Puerto Rico-Rio Piedras,doctoral
+2212,243346,1323,41,Universidad del Este,master
+2213,243443,846,52,Universidad del Sagrado Corazon,master
+2217,243586,184,27,Pontifical Catholic University of Puerto Rico-Mayaguez,baccalaureate
+2218,243601,2425,80,Universidad del Turabo,doctoral
+2219,243665,261,25,University of the Virgin Islands,master
+2220,243744,5106,195,Stanford University,doctoral
+2221,243780,9910,267,Purdue University-Main Campus,doctoral
+2223,243832,189,13,EDP University of Puerto Rico Inc-San Juan,baccalaureate
+2227,245838,278,9,Antioch University-Los Angeles,master
+2228,245847,114,6,Antioch University-Santa Barbara,baccalaureate
+2229,245865,174,13,Antioch University-New England,master
+2230,245883,185,10,Antioch University-Seattle,master
+2231,245892,66,17,Antioch University-Midwest,master
+2232,245953,436,27,Mid-America Christian University,master
+2244,251312,354,17,South University-Columbia,master
+2248,260901,7251,51,Kaplan University-Davenport Campus,master
+2253,262086,2431,36,Brandman University,master
+2254,262129,170,5,New College of Florida,baccalaureate
+2260,363907,180,16,Caribbean University-Ponce,master
+2261,363916,51,10,Caribbean University-Vega Baja,baccalaureate
+2264,365426,79,14,Mayo Clinic Graduate School of Biomedical Sciences,doctoral
+2270,366711,2346,45,California State University-San Marcos,master
+2271,366748,250,17,Argosy University-Hawaii,master
+2276,367884,288,25,Hodges University,master
+2277,367936,338,19,Argosy University-Atlanta,doctoral
+2295,377555,1715,39,University of Washington-Bothell Campus,master
+2296,377564,1586,42,University of Washington-Tacoma Campus,master
+2300,380465,352,26,University of Phoenix-Utah,master
+2309,385619,308,11,Everglades University,baccalaureate
+2315,398130,88,8,Mt Sierra College,baccalaureate
+2326,405997,354,26,University of Phoenix-New Mexico,master
+2328,407009,1097,35,Arizona State University-West,master
+2336,409698,1683,31,California State University-Monterey Bay,master
+2339,413413,7075,143,Capella University,doctoral
+2342,414823,359,10,Johnson & Wales University-North Miami,baccalaureate
+2343,414878,226,14,Trine University-Regional/Non-Traditional Campuses,baccalaureate
+2352,420042,326,25,University of Phoenix-Hawaii,master
+2357,420574,908,49,Arizona State University-Polytechnic,master
+2365,428259,97,13,Ottawa University-Milwaukee,baccalaureate
+2366,428268,107,17,Argosy University-Tampa,doctoral
+2378,432241,129,10,University of Phoenix-Oregon,baccalaureate
+2384,433387,16190,52,Western Governors University,master
+2387,433660,2629,71,Florida Gulf Coast University,master
+2397,436438,125,15,Argosy University-Orange County,doctoral
+2400,437097,985,18,University of Management and Technology,doctoral
+2402,437325,151,6,Linfield College-Online and Continuing Education,baccalaureate
+2403,438151,158,9,Stevens-Henager College,master
+2405,438498,692,17,Stratford University,master
+2406,438586,171,11,American InterContinental University-Atlanta,master
+2409,439057,53,13,Argosy University-Seattle,master
+2442,441900,410,20,Nevada State College,baccalaureate
+2443,441937,1598,30,California State University-Channel Islands,master
+2452,442569,1458,27,Grantham University,master
+2464,443128,759,7,International Technological University,master
+2467,443410,187,9,DigiPen Institute of Technology,baccalaureate
+2472,443766,241,13,Strayer University-Tennessee,master
+2473,443784,294,11,Strayer University-Pennsylvania,master
+2477,444130,1474,11,Northcentral University,doctoral
+2485,445027,2139,11,American InterContinental University-Online,master
+2489,445188,1236,45,University of California-Merced,doctoral
+2491,445267,806,27,Central Methodist University-College of Graduate and Extended Studies,master
+2503,446048,204,27,Ave Maria University,baccalaureate
+2508,446640,201,9,Harrisburg University of Science and Technology,master
+2514,447050,113,8,United States University,baccalaureate
+2516,447272,120,14,Argosy University-Los Angeles,master
+2522,447689,884,14,Georgia Gwinnett College,baccalaureate
+2527,448284,557,18,Doane University-Graduate and Professional Studies,master
+2536,448734,142,18,Argosy University-Denver,doctoral
+2540,448840,1093,37,University of South Florida-St Petersburg,master
+2541,448886,3048,49,Arizona State University-Downtown Phoenix,doctoral
+2543,449038,430,15,Strayer University-Florida,master
+2545,449339,8702,68,American Public University System,master
+2551,449870,80,11,University of the West,baccalaureate
+2557,450085,72,8,The Art Institute of Charleston,baccalaureate
+2565,450526,97,15,Argosy University-Inland Empire,doctoral
+2567,450544,103,13,Argosy University-San Diego,master
+2569,450766,59,5,LIU Riverhead,master
+2570,450933,5220,23,Columbia Southern University,master
+2572,450979,1655,18,Trident University International,doctoral
+2583,451671,517,24,University of South Florida-Sarasota-Manatee,master
+2597,452090,75,12,Argosy University-Salt Lake City,master
+2598,453163,487,12,Strayer University-North Carolina,master
+2604,454582,157,18,Ottawa University-Online,baccalaureate
+2607,454829,320,23,Aspen University,doctoral
+2622,455992,174,5,Vermont College of Fine Arts,master
+2626,456348,1462,21,Argosy University-Phoenix Online Division,doctoral
+2654,458496,93,7,The Art Institute of Virginia Beach,baccalaureate
+2661,458919,711,15,Strayer University-Georgia,master
+2664,458973,202,14,Strayer University-Texas,baccalaureate
+2665,458982,104,13,The Art Institute of San Antonio,baccalaureate
+2674,459268,144,14,South UniversityVirginia Beach,baccalaureate
+2676,459727,209,8,Touro University Worldwide,master
+2681,459851,57,10,Herzing University-Brookfield,baccalaureate
+2686,460075,158,6,California University of Management and Sciences,master
+2723,468024,188,13,South University-Novi,baccalaureate
+2732,475121,2070,22,South UniversitySavannah Online,master
+2746,475811,675,9,Universidad Internacional Iberoamericana,master
+2750,476975,2410,26,Colorado State University-Global Campus,master
+2757,479956,2228,47,Pennsylvania State University-World Campus,master
+2762,480134,135,9,Elizabethtown College School of Continuing and Professional Studies,baccalaureate
+2764,480198,286,12,Warner Pacific College Adult Degree Program,master
+2768,480569,714,21,Florida Institute of Technology-Online,master
+2781,481720,84,8,South University-High Point,baccalaureate
+2782,482149,1768,72,Augusta University,doctoral
+2783,482158,663,19,Middle Georgia State University,baccalaureate
+2794,482422,283,21,DeVry University-Arizona,master
+2795,482431,1621,23,DeVry University-California,master
+2796,482440,210,16,DeVry University-Colorado,master
+2797,482459,605,22,DeVry University-Florida,master
+2798,482468,553,22,DeVry University-Georgia,master
+2799,482477,4678,24,DeVry University-Illinois,master
+2801,482538,153,17,DeVry University-Missouri,master
+2803,482556,248,8,DeVry University-New Jersey,master
+2805,482574,549,16,DeVry University-Ohio,master
+2807,482608,164,17,DeVry University-Pennsylvania,master
+2809,482635,641,20,DeVry University-Texas,master
+2811,482680,1875,53,University of North Georgia,master
+2813,482705,2743,63,Northeastern University Professional Advancement Network,master
+2817,483036,771,37,Texas A & M University-Central Texas,master
+2818,483124,3699,53,Arizona State University-Skysong,doctoral
+2824,484613,25378,70,University of Phoenix-Arizona,doctoral
+2825,484622,87,10,University of Phoenix-Arkansas,baccalaureate
+2826,484631,5057,48,University of Phoenix-California,master
+2827,484640,417,34,University of Phoenix-Colorado,master
+2828,484668,949,34,University of Phoenix-Florida,master
+2829,484677,597,27,University of Phoenix-Georgia,master
+2830,484686,234,21,University of Phoenix-Louisiana,master
+2831,484695,253,26,University of Phoenix-Michigan,master
+2832,484701,203,21,University of Phoenix-Missouri,baccalaureate
+2833,484710,423,30,University of Phoenix-Nevada,master
+2835,484738,120,13,University of Phoenix-Oklahoma,master
+2836,484747,502,23,University of Phoenix-Tennessee,master
+2838,484765,345,23,University of Phoenix-Virginia,master
+2839,484783,118,12,University of Phoenix-Pennsylvania,baccalaureate
+2843,484905,586,18,University of North Texas at Dallas,master
